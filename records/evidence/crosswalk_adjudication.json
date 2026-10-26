@@ -1,0 +1,41 @@
+{
+ "n": 26,
+ "sided_with": {
+  "coder2": 8,
+  "coder1": 18
+ },
+ "decision_types": {
+  "A": 12,
+  "B": 14
+ },
+ "low_confidence": [
+  "S5-086",
+  "S4-069",
+  "S5-041",
+  "S3-050",
+  "S3-081",
+  "S3-026",
+  "S5-048",
+  "S3-046",
+  "S4-044",
+  "S3-030"
+ ],
+ "changed_from_coder1": 8,
+ "retention_changes": {
+  "literal": [],
+  "literal/S4+S5 merged": [],
+  "endorsed": [],
+  "endorsed/S4+S5 merged": []
+ },
+ "source_set_changes": {
+  "literal": [],
+  "literal/S4+S5 merged": [],
+  "endorsed": [],
+  "endorsed/S4+S5 merged": []
+ },
+ "S6-018_final": "K12",
+ "r_crosscut_sources": [
+  "S1"
+ ],
+ "practice_domain": false
+}

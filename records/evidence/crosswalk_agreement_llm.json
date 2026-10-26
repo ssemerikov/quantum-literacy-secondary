@@ -1,0 +1,302 @@
+{
+ "coder1": "claude-opus-5-5",
+ "coder2": "nemotron-3-ultra:cloud",
+ "note": "inter-model check, not human verification",
+ "random_sample": {
+  "n": 162,
+  "agree": 138,
+  "pct_agreement": 85.2,
+  "cohen_kappa": 0.826
+ },
+ "pivotal_items": {
+  "n": 14,
+  "agree": 11,
+  "pct_agreement": 78.6,
+  "cohen_kappa": 0.731
+ },
+ "all_packet_items": {
+  "n": 170,
+  "agree": 144,
+  "pct_agreement": 84.7,
+  "cohen_kappa": 0.822
+ },
+ "per_cluster": {
+  "K01": {
+   "coder1_n": 42,
+   "coder2_n": 52,
+   "both": 39
+  },
+  "K02": {
+   "coder1_n": 24,
+   "coder2_n": 17,
+   "both": 17
+  },
+  "K03": {
+   "coder1_n": 32,
+   "coder2_n": 25,
+   "both": 23
+  },
+  "K04": {
+   "coder1_n": 3,
+   "coder2_n": 4,
+   "both": 3
+  },
+  "K05": {
+   "coder1_n": 9,
+   "coder2_n": 9,
+   "both": 8
+  },
+  "K06": {
+   "coder1_n": 8,
+   "coder2_n": 8,
+   "both": 8
+  },
+  "K07": {
+   "coder1_n": 7,
+   "coder2_n": 8,
+   "both": 7
+  },
+  "K08": {
+   "coder1_n": 7,
+   "coder2_n": 10,
+   "both": 7
+  },
+  "K09": {
+   "coder1_n": 5,
+   "coder2_n": 4,
+   "both": 4
+  },
+  "K10": {
+   "coder1_n": 15,
+   "coder2_n": 15,
+   "both": 13
+  },
+  "K11": {
+   "coder1_n": 3,
+   "coder2_n": 3,
+   "both": 3
+  },
+  "K12": {
+   "coder1_n": 12,
+   "coder2_n": 11,
+   "both": 10
+  },
+  "K13": {
+   "coder1_n": 2,
+   "coder2_n": 2,
+   "both": 1
+  },
+  "none": {
+   "coder1_n": 1,
+   "coder2_n": 2,
+   "both": 1
+  }
+ },
+ "off_diagonal": [
+  {
+   "coder1": "K02",
+   "coder2": "K01",
+   "n": 6
+  },
+  {
+   "coder1": "K03",
+   "coder2": "K01",
+   "n": 5
+  },
+  {
+   "coder1": "K01",
+   "coder2": "K03",
+   "n": 2
+  },
+  {
+   "coder1": "K03",
+   "coder2": "K04",
+   "n": 1
+  },
+  {
+   "coder1": "K10",
+   "coder2": "K08",
+   "n": 1
+  },
+  {
+   "coder1": "K01",
+   "coder2": "K08",
+   "n": 1
+  },
+  {
+   "coder1": "K03",
+   "coder2": "K08",
+   "n": 1
+  },
+  {
+   "coder1": "K10",
+   "coder2": "K07",
+   "n": 1
+  },
+  {
+   "coder1": "K05",
+   "coder2": "K01",
+   "n": 1
+  },
+  {
+   "coder1": "K03",
+   "coder2": "K12",
+   "n": 1
+  },
+  {
+   "coder1": "K02",
+   "coder2": "K05",
+   "n": 1
+  },
+  {
+   "coder1": "K03",
+   "coder2": "none",
+   "n": 1
+  },
+  {
+   "coder1": "K09",
+   "coder2": "K10",
+   "n": 1
+  },
+  {
+   "coder1": "K13",
+   "coder2": "K10",
+   "n": 1
+  },
+  {
+   "coder1": "K12",
+   "coder2": "K13",
+   "n": 1
+  },
+  {
+   "coder1": "K12",
+   "coder2": "K01",
+   "n": 1
+  }
+ ],
+ "n_disagreements": 26,
+ "retention_sensitivity": {
+  "literal": [
+   {
+    "cluster": "K08",
+    "label": "Quantum sensing and metrology",
+    "coder1_result": "retain",
+    "coder1_sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "with_coder2": "retain",
+    "coder2_sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S4",
+     "S5"
+    ],
+    "result_changes": false
+   },
+   {
+    "cluster": "K10",
+    "label": "Quantum devices and enabling technologies",
+    "coder1_result": "retain",
+    "coder1_sources": [
+     "S1",
+     "S3",
+     "S5",
+     "S6"
+    ],
+    "with_coder2": "retain",
+    "coder2_sources": [
+     "S1",
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "result_changes": false
+   },
+   {
+    "cluster": "K13",
+    "label": "Practices (programming, experimentation, building)",
+    "coder1_result": "retain",
+    "coder1_sources": [
+     "S1",
+     "S4",
+     "S5"
+    ],
+    "with_coder2": "retain",
+    "coder2_sources": [
+     "S1",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "result_changes": false
+   }
+  ],
+  "endorsed": [
+   {
+    "cluster": "K12",
+    "label": "Nature, history and philosophy of quantum physics",
+    "coder1_result": "retain",
+    "coder1_sources": [
+     "S3",
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "with_coder2": "retain",
+    "coder2_sources": [
+     "S4",
+     "S5",
+     "S6"
+    ],
+    "result_changes": false
+   },
+   {
+    "cluster": "K13",
+    "label": "Practices (programming, experimentation, building)",
+    "coder1_result": "fail",
+    "coder1_sources": [
+     "S1"
+    ],
+    "with_coder2": "fail",
+    "coder2_sources": [
+     "S1",
+     "S6"
+    ],
+    "result_changes": false
+   }
+  ]
+ },
+ "combined_S4S5_merged": {
+  "literal/coder1": [
+   {
+    "cluster": "K13",
+    "label": "Practices (programming, experimentation, building)",
+    "baseline": "retain",
+    "S4S5_merged": "fail",
+    "sources": [
+     "S1",
+     "S45"
+    ]
+   }
+  ],
+  "literal/coder2_substituted": [],
+  "endorsed/coder1": [],
+  "endorsed/coder2_substituted": [
+   {
+    "cluster": "K12",
+    "label": "Nature, history and philosophy of quantum physics",
+    "baseline": "retain",
+    "S4S5_merged": "fail",
+    "sources": [
+     "S45",
+     "S6"
+    ]
+   }
+  ]
+ }
+}

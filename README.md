@@ -46,12 +46,14 @@ workbook, each CSV or TSV file of the folder is one sheet, named after the file 
 ## Notes
 
 Anonymisation: one record of the search is withheld from S2 and S3 for anonymous review, so S2 has one row fewer than the 4142 unique records reported in the manuscript; the screening precedent concerning it is redacted in S1. The withheld record was not used as evidence. The verifier is identified as A1. Timestamps are in UTC.
-Working files that the protocols name by path (for example `search/raw/...`, `screening/...`, `evidence/...`) and that are not part of this upload, among them the raw search responses, the screening batch files and the second coder's raw responses, are deposited under the same paths in the folder `records/` of the open repository given in the Data availability statement. The analysis scripts are available from the authors on request.
+Most working files that the protocols name by path and that are not part of this upload, among them the raw search responses, the screening batch files and the second coder's raw responses, are deposited under the same paths in the folder `records/` of the open repository given in the Data availability statement; its `records/README.md` maps every path named here to its location, including the files published in this upload under an S-name. The analysis scripts are available from the authors on request.
 
 ## Licence
 
-The contents of this repository are released under the Creative Commons Attribution 4.0 International licence
-(CC BY 4.0); see `LICENSE`. Bibliographic metadata of the screened records were retrieved from OpenAlex and ERIC.
+The authors' own files in this repository (protocols, logs, coding, decisions, matrices, and their PDF and Excel copies) are
+released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0); see `LICENSE`. Third-party material keeps the
+terms of its source: the bibliographic records and abstracts in `records/` and in the screening files were retrieved from OpenAlex
+and ERIC, and quoted items from published sources remain the property of their rights holders.
 
 ## Citation
 

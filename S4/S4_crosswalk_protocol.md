@@ -200,7 +200,7 @@ Until the authors have adjudicated the disagreements, the domain set remains pro
 
 ```text
 You are the adjudicator for a coding exercise in an academic study. Your working folder is:
-<working folder>/
+[working folder]/
 
 Read INSTRUCTIONS_FOR_MODEL.md in that folder first and follow it exactly. In short:
 - decide all 26 rows of PACKET_FOR_MODEL.csv, using only cluster_definitions.md and the source texts in sources/;

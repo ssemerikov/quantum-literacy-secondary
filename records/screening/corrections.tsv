@@ -1,0 +1,4 @@
+# record_id	s1_decision	criterion	flags	rationale	reason
+R0136	exclude	DUP	preprint;possible_duplicate	arXiv preprint of R0223 (Teaching Science, quantum spin activities Years 6-10); published version in set.	published version R0223 found in batch 6
+R0340	-	-	possible_duplicate	-	same text as R0771 (2021 journal version)
+R3867	uncertain	I5	possible_duplicate	Delphi and foresight study of the quantum divide; a Turkish-titled version (R3902) exists, so full-text language unclear.	Turkish-language version found in batch 23
