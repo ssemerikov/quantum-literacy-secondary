@@ -1,0 +1,401 @@
+item_id,content_code,coder,note
+S1-001,basic quantum concepts,claude-opus-5-5,"multi-topic: superposition, measurement, two-state systems/qubits, decoherence, uncertainty, entanglement"
+S1-002,mathematical formalism,claude-opus-5-5,"also classical/quantum information theory (Shannon, von Neumann entropy)"
+S1-003,atomic physics,claude-opus-5-5,"energy levels, quantum numbers, transitions, angular momentum"
+S1-004,quantum optics,claude-opus-5-5,"polarisation, photon statistics, interferometry, light-matter interaction"
+S1-005,solid-state physics,claude-opus-5-5,"band structure, semiconductors, superconductivity, magnetism"
+S1-006,many-body and open quantum systems,claude-opus-5-5,"Pauli principle, bosons/fermions, BEC, decoherence mechanisms"
+S1-007,"laboratory techniques (cryogenics, vacuum, shielding)",claude-opus-5-5,"techniques/technology for QT labs, not a learner practice"
+S1-008,solid-state and nano technologies,claude-opus-5-5,"semiconductor technologies, superconducting devices, SQUIDs, nanostructuring"
+S1-009,optical technologies,claude-opus-5-5,"lasers, single-photon sources and detectors, fibres"
+S1-010,control technologies,claude-opus-5-5,"electronics/RF, laser cooling, generation of special quantum states"
+S1-011,classical programming and modelling,claude-opus-5-5,"head topic: classical programming, algorithm design, modelling, data processing, control software"
+S1-012,superconducting qubits,claude-opus-5-5,qubit types charge/flux/phase/transmon
+S1-013,spin qubits,claude-opus-5-5,"electron/nuclear spin qubits, NV centres, quantum dots"
+S1-014,atom and ion qubits,claude-opus-5-5,"trapped ions, Rydberg atoms, optical lattices"
+S1-015,photonic qubits,claude-opus-5-5,"photons as qubits, boson sampling, entangled-photon sources"
+S1-016,emerging qubit types,claude-opus-5-5,topological and molecular-spin qubits
+S1-017,qubit state control,claude-opus-5-5,"initialisation, readout, gates, coupling"
+S1-018,hybrid quantum-classical systems,claude-opus-5-5,HPC/ML/network integration of quantum hardware
+S1-019,quantum technology realisation,claude-opus-5-5,"noise, benchmarking, scaling, fabrication, chip integration"
+S1-020,quantum computing basics,claude-opus-5-5,"topics: qubits, gates, circuits, NISQ/fault tolerance, complexity, quantum advantage"
+S1-021,quantum simulators,claude-opus-5-5,
+S1-022,quantum programming tools,claude-opus-5-5,"SDKs, circuit simulators, cloud platforms; also error correction"
+S1-023,quantum computing subroutines,claude-opus-5-5,"amplitude amplification, QFT, phase estimation"
+S1-024,quantum algorithms,claude-opus-5-5,"Shor, Grover, HHL, optimisation, QML, VQE/QAOA"
+S1-025,quantum computing applications,claude-opus-5-5,"materials, engineering, optimisation, finance, cryptography"
+S1-026,fundamental measurement limits,claude-opus-5-5,"topics: standard quantum limit/Heisenberg limit, SI unit definition, measurement criteria; ""Basics"" of CFQT domain 6"
+S1-027,electromagnetic field sensors,claude-opus-5-5,"NV centres, Rydberg atoms, magnetometers/OPMs"
+S1-028,"temperature, particle and pressure sensors",claude-opus-5-5,"spin-qubit sensors, gas sensors, optomechanical sensors"
+S1-029,inertial and gravity sensors,claude-opus-5-5,"MEMS, atom interferometers"
+S1-030,quantum imaging,claude-opus-5-5,"ghost imaging, interaction-free measurement, quantum radar/lidar"
+S1-031,atomic clocks,claude-opus-5-5,
+S1-032,quantum sensor applications,claude-opus-5-5,"medicine, environment, navigation/timing, industry"
+S1-033,conventional and post-quantum cryptography,claude-opus-5-5,"head topic of ""Basics"" of CFQT domain 7; also teleportation, security proofs"
+S1-034,quantum random number generators,claude-opus-5-5,
+S1-035,quantum key distribution,claude-opus-5-5,"BB84/B92/E91, MDI/DI-QKD"
+S1-036,quantum cryptography applications,claude-opus-5-5,"sector use cases, delegated QC, quantum money"
+S1-037,quantum networks,claude-opus-5-5,"repeaters, memories, channels, satellites"
+S1-038,quantum internet applications,claude-opus-5-5,"QKD networks, clock/sensor networks, distributed QC"
+S1-039,QT industry and market,claude-opus-5-5,"market size, policy/regulation, foresight"
+S1-040,QT business and management,claude-opus-5-5,"strategy, IP, TRL, standardisation, marketing"
+S1-041,societal impact and responsibility,claude-opus-5-5,"funding, economic/societal/environmental/scientific impact, ethics"
+S1-042,public communication and education,claude-opus-5-5,"outreach, awareness raising, hype mitigation, training"
+S2-001,quantum information science,claude-opus-5-5,"defines the field; names computing, communication, sensing"
+S2-002,mathematics of quantum mechanics,claude-opus-5-5,"probability, vectors, algebra, trigonometry, complex numbers, linear transformations"
+S2-003,quantum information processing,claude-opus-5-5,information theory + computer science under quantum laws
+S2-004,GPS,claude-opus-5-5,head concept: GPS depending on atomic-clock precision
+S2-005,quantum state,claude-opus-5-5,
+S2-006,state vectors,claude-opus-5-5,
+S2-007,state vectors and probabilities,claude-opus-5-5,vector operations with complex/negative values
+S2-008,measurement disturbance,claude-opus-5-5,fragility of quantum systems under measurement
+S2-009,manipulation before final measurement,claude-opus-5-5,design principle of quantum applications; judgement: information-processing principle
+S2-010,wave-function collapse,claude-opus-5-5,"""collapsed"" state"
+S2-011,probabilistic nature of measurement,claude-opus-5-5,
+S2-012,repeated measurements on identical states,claude-opus-5-5,
+S2-013,no-cloning,claude-opus-5-5,
+S2-014,qubit,claude-opus-5-5,"names physical encodings: photon polarisation, atomic energy states, electron spin"
+S2-015,qubit superposition,claude-opus-5-5,bit vs qubit
+S2-016,multi-qubit state space,claude-opus-5-5,"n qubits, 2^n states"
+S2-017,qubit entanglement,claude-opus-5-5,
+S2-018,entanglement,claude-opus-5-5,
+S2-019,quantum correlations,claude-opus-5-5,non-classical correlations of entangled systems
+S2-020,entanglement,claude-opus-5-5,non-separability of entangled states
+S2-021,entanglement as technological resource,claude-opus-5-5,"role of entanglement in computing, sensing, communication"
+S2-022,coherence,claude-opus-5-5,
+S2-023,decoherence,claude-opus-5-5,
+S2-024,qubit isolation and engineered materials,claude-opus-5-5,judgement: about physical qubit platforms
+S2-025,decoherence and error correction,claude-opus-5-5,limits on quantum computations
+S2-026,quantum computers,claude-opus-5-5,
+S2-027,qubit information capacity,claude-opus-5-5,placed under Key Concept 7 by the source
+S2-028,quantum speed-up,claude-opus-5-5,factoring/search; no advantage for many tasks
+S2-029,quantum error correction,claude-opus-5-5,
+S2-030,quantum communication,claude-opus-5-5,
+S2-031,quantum teleportation,claude-opus-5-5,
+S2-032,quantum cryptography,claude-opus-5-5,eavesdropper detection
+S2-033,quantum sensing,claude-opus-5-5,source term (Key Concept 9)
+S2-034,uncertainty limit and squeezing,claude-opus-5-5,"judgement: head is the uncertainty limit, but the item is about precision measurement (squeezing, LIGO)"
+S2-035,quantum sensors,claude-opus-5-5,"magnetometers, single-photon detectors, atomic clocks; imaging, navigation, timing"
+S2-036,SI unit definition,claude-opus-5-5,units via fundamental constants
+S3-001,de Broglie wavelength,claude-opus-5-5,
+S3-002,photons (particle behaviour of light),claude-opus-5-5,
+S3-003,probability,claude-opus-5-5,
+S3-004,energy quantisation,claude-opus-5-5,
+S3-005,wave-particle duality,claude-opus-5-5,
+S3-006,wave function,claude-opus-5-5,
+S3-007,uncertainty principle,claude-opus-5-5,
+S3-008,tunnelling,claude-opus-5-5,
+S3-009,Pauli exclusion principle,claude-opus-5-5,
+S3-010,spin,claude-opus-5-5,
+S3-011,momentum,claude-opus-5-5,
+S3-012,fermions and bosons,claude-opus-5-5,
+S3-013,superposition,claude-opus-5-5,
+S3-014,time evolution,claude-opus-5-5,
+S3-015,quantum numbers,claude-opus-5-5,
+S3-016,macroscopic quantum effects,claude-opus-5-5,"judgement: ""QM at a macroscopic scale"" read as macroscopic quantum phenomena"
+S3-017,entanglement,claude-opus-5-5,
+S3-018,history of quantum physics,claude-opus-5-5,
+S3-019,complementarity,claude-opus-5-5,
+S3-020,zero-point energy,claude-opus-5-5,
+S3-021,subatomic particles,claude-opus-5-5,
+S3-022,standard model,claude-opus-5-5,
+S3-023,Bohr-Einstein debate,claude-opus-5-5,
+S3-024,foundations of quantum mechanics,claude-opus-5-5,foundational/interpretational issues
+S3-025,Schrödinger equation,claude-opus-5-5,
+S3-026,stationary states,claude-opus-5-5,
+S3-027,quantum measurement,claude-opus-5-5,
+S3-028,EPR paradox,claude-opus-5-5,
+S3-029,development of atomic models,claude-opus-5-5,atomic models in historical sequence
+S3-030,free vs localised particle,claude-opus-5-5,free vs localised particle (wave description)
+S3-031,locality and causality,claude-opus-5-5,
+S3-032,Bell inequalities,claude-opus-5-5,
+S3-033,double-slit experiment,claude-opus-5-5,
+S3-034,atomic structure,claude-opus-5-5,
+S3-035,periodic table,claude-opus-5-5,
+S3-036,spectral lines,claude-opus-5-5,
+S3-037,photoelectric effect,claude-opus-5-5,
+S3-038,hydrogen atom,claude-opus-5-5,
+S3-039,Bohr atomic model,claude-opus-5-5,
+S3-040,colour,claude-opus-5-5,
+S3-041,magnetism,claude-opus-5-5,
+S3-042,orbitals,claude-opus-5-5,
+S3-043,material properties,claude-opus-5-5,
+S3-044,infinite potential well,claude-opus-5-5,
+S3-045,radioactive decay,claude-opus-5-5,
+S3-046,Schrödinger's cat,claude-opus-5-5,
+S3-047,chemical bonds,claude-opus-5-5,
+S3-048,semiconductors,claude-opus-5-5,
+S3-049,conduction,claude-opus-5-5,
+S3-050,blackbody (heat) radiation,claude-opus-5-5,heat radiation read as blackbody radiation
+S3-051,polarisation,claude-opus-5-5,
+S3-052,band structure,claude-opus-5-5,"""Energy bands"" coded as band structure"
+S3-053,superconductivity,claude-opus-5-5,
+S3-054,chemical reactions,claude-opus-5-5,
+S3-055,Stern-Gerlach experiment,claude-opus-5-5,
+S3-056,delayed-choice experiment,claude-opus-5-5,
+S3-057,crystal structures,claude-opus-5-5,
+S3-058,solar cells,claude-opus-5-5,
+S3-059,quantum information,claude-opus-5-5,listed by the source as an application
+S3-060,scanning tunnelling microscope,claude-opus-5-5,
+S3-061,lasers,claude-opus-5-5,
+S3-062,LEDs,claude-opus-5-5,
+S3-063,quantum computers,claude-opus-5-5,
+S3-064,single-photon detection,claude-opus-5-5,
+S3-065,stellar spectra,claude-opus-5-5,
+S3-066,transistors,claude-opus-5-5,
+S3-067,quantum cryptography,claude-opus-5-5,
+S3-068,atomic clocks,claude-opus-5-5,
+S3-069,fluorescence,claude-opus-5-5,
+S3-070,neon lamps,claude-opus-5-5,
+S3-071,MRI,claude-opus-5-5,
+S3-072,integrated circuits,claude-opus-5-5,
+S3-073,quantum teleportation,claude-opus-5-5,
+S3-074,GPS,claude-opus-5-5,
+S3-075,microwaves,claude-opus-5-5,"judgement: unclear whether microwave ovens, spectroscopy or communication"
+S3-076,CCD,claude-opus-5-5,
+S3-077,giant magnetoresistance,claude-opus-5-5,
+S3-078,CT scan,claude-opus-5-5,
+S3-079,electron microscope (SEM),claude-opus-5-5,
+S3-080,random number generators,claude-opus-5-5,"""Random generators"": quantum origin not stated by source"
+S3-081,single-molecule microscopy,claude-opus-5-5,
+S3-082,flash memory,claude-opus-5-5,
+S3-083,BB84 protocol,claude-opus-5-5,
+S3-084,PET scan,claude-opus-5-5,
+S4-001,superposition,claude-opus-5-5,
+S4-002,interference,claude-opus-5-5,
+S4-003,quantum measurement,claude-opus-5-5,
+S4-004,quantisation,claude-opus-5-5,
+S4-005,quantum state,claude-opus-5-5,listed by the source under the Quantization category
+S4-006,energy quantisation,claude-opus-5-5,
+S4-007,quantum numbers,claude-opus-5-5,
+S4-008,many-body systems,claude-opus-5-5,
+S4-009,entanglement,claude-opus-5-5,
+S4-010,uncertainty principle,claude-opus-5-5,
+S4-011,mathematical foundations,claude-opus-5-5,source term (Table 2); not a pre-set bin
+S4-012,Dirac notation,claude-opus-5-5,
+S4-013,Bloch sphere,claude-opus-5-5,
+S4-014,operators,claude-opus-5-5,
+S4-015,qubit,claude-opus-5-5,
+S4-016,quantum computing,claude-opus-5-5,source term; listed under the Qubit category
+S4-017,probabilistic nature of measurement,claude-opus-5-5,"""Statistical nature"""
+S4-018,probability,claude-opus-5-5,
+S4-019,wave-particle duality,claude-opus-5-5,
+S4-020,atomic models,claude-opus-5-5,
+S4-021,band structure,claude-opus-5-5,
+S4-022,orbitals,claude-opus-5-5,
+S4-023,Pauli exclusion principle,claude-opus-5-5,
+S4-024,light emission,claude-opus-5-5,
+S4-025,time evolution,claude-opus-5-5,"""Unitary time evolution"""
+S4-026,non-locality,claude-opus-5-5,
+S4-027,indeterminacy of trajectory,claude-opus-5-5,"""Non-determination (of trajectory)"""
+S4-028,decoherence,claude-opus-5-5,
+S4-029,two-level system,claude-opus-5-5,
+S4-030,spin,claude-opus-5-5,
+S4-031,classical vs quantum models,claude-opus-5-5,philosophical class (source)
+S4-032,history of quantum physics,claude-opus-5-5,
+S4-033,tunnelling,claude-opus-5-5,
+S4-034,Schrödinger equation,claude-opus-5-5,
+S4-035,complementarity,claude-opus-5-5,
+S4-036,no-cloning,claude-opus-5-5,
+S4-037,double-slit experiment,claude-opus-5-5,
+S4-038,polarisation,claude-opus-5-5,
+S4-039,Stern-Gerlach experiment,claude-opus-5-5,
+S4-040,qubit,claude-opus-5-5,role = illustration
+S4-041,Mach-Zehnder interferometer,claude-opus-5-5,
+S4-042,spin,claude-opus-5-5,role = illustration
+S4-043,matter waves,claude-opus-5-5,
+S4-044,double well,claude-opus-5-5,
+S4-045,Michelson interferometer,claude-opus-5-5,
+S4-046,wave-function collapse,claude-opus-5-5,
+S4-047,EPR paradox,claude-opus-5-5,"""EPR experiment"""
+S4-048,quantum gates,claude-opus-5-5,illustration offered for Quantization (sparse)
+S4-049,quantum cryptography,claude-opus-5-5,BB84/Ekert91 as illustration (sparse)
+S4-050,interference,claude-opus-5-5,"""Light interference"""
+S4-051,interference,claude-opus-5-5,"""Wave interference"""
+S4-052,classical vs quantum models,claude-opus-5-5,"judgement: ""Classical vs. quantum"" read as the classical-quantum contrast (cf. KC category ""Classic vs. Quantum models""); alternative: classical vs quantum superposition/probability (K01)"
+S4-053,single-quantum-object interference,claude-opus-5-5,"""Single photon interferometry"""
+S4-054,two-photon interference,claude-opus-5-5,
+S4-055,birefringent crystals,claude-opus-5-5,judgement: polarisation optics of crystals
+S4-056,diffraction of light,claude-opus-5-5,
+S4-057,quantum eraser,claude-opus-5-5,
+S4-058,quantum vs classical probability,claude-opus-5-5,"""Not like statistical probability"""
+S4-059,delayed-choice experiment,claude-opus-5-5,
+S4-060,Schrödinger's cat,claude-opus-5-5,
+S4-061,quantum Zeno effect,claude-opus-5-5,
+S4-062,position and velocity measurement,claude-opus-5-5,judgement: position/velocity measurement read as uncertainty context
+S4-063,probabilistic nature of measurement,claude-opus-5-5,
+S4-064,two-level system,claude-opus-5-5,
+S4-065,Zou-Wang-Mandel experiment,claude-opus-5-5,"source spelling ""Zhou-Wang-Mandel"" (Zou-Wang-Mandel induced-coherence experiment)"
+S4-066,single-photon Malus law,claude-opus-5-5,
+S4-067,energy quantisation,claude-opus-5-5,
+S4-068,energy quantisation,claude-opus-5-5,
+S4-069,infinite potential well,claude-opus-5-5,"""Analogy of standing waves and a particle in a box"""
+S4-070,spectral lines,claude-opus-5-5,
+S4-071,atomic models,claude-opus-5-5,
+S4-072,photons (particle behaviour of light),claude-opus-5-5,
+S4-073,orbitals,claude-opus-5-5,
+S4-074,photon energy and frequency,claude-opus-5-5,"""Energy and radiation freq."": E = hf for photons"
+S4-075,Franck-Hertz experiment,claude-opus-5-5,
+S4-076,uncertainty principle,claude-opus-5-5,"""Position & Momentum""; Table 9b medium consensus"
+S4-077,interpretations of quantum physics,claude-opus-5-5,"""Ontological vs. Epistemological"""
+S4-078,single-slit diffraction,claude-opus-5-5,
+S4-079,operators,claude-opus-5-5,
+S4-080,energy-time uncertainty,claude-opus-5-5,
+S4-081,Heisenberg microscope,claude-opus-5-5,
+S4-082,analogy to human behaviour,claude-opus-5-5,"judgement: analogy (models), not content"
+S4-083,Bell inequalities,claude-opus-5-5,
+S4-084,quantum teleportation,claude-opus-5-5,
+S4-085,entanglement,claude-opus-5-5,"""Entanglement of many particles"""
+S4-086,CHSH game,claude-opus-5-5,Bell-test (CHSH) game
+S4-087,single-quantum-object interference,claude-opus-5-5,
+S4-088,linear algebra,claude-opus-5-5,
+S4-089,wave function,claude-opus-5-5,
+S4-090,Bloch sphere,claude-opus-5-5,
+S4-091,position and velocity measurement,claude-opus-5-5,"judgement: ""Space and velocity of electrons"" offered for Mathematical foundations"
+S4-092,Schrödinger equation,claude-opus-5-5,"""The Schrödinger eq. As an operator eq."""
+S4-093,analogies with other fields of physics,claude-opus-5-5,judgement: analogy (models); alternative K02
+S4-094,quantum games,claude-opus-5-5,judgement: game-based activity (practice); alternative none
+S4-095,Dirac notation,claude-opus-5-5,
+S4-096,matrix algebra,claude-opus-5-5,
+S4-097,coherent control,claude-opus-5-5,"judgement: offered for KC ""Qubit"": control of qubit states (cf. CFQT 4.6); alternative: two-state dynamics (K01)"
+S4-098,NV centres,claude-opus-5-5,"judgement: offered for KC ""Qubit"": NV centre as a qubit platform; alternative: sensor (K08)"
+S4-099,unidentified reference (Bernstein 1967),claude-opus-5-5,content cannot be determined from the wording (possibly a 1967 spinor-rotation experiment; not verified) - not guessed
+S4-100,state vectors,claude-opus-5-5,"""Two component vector (real and complex)"""
+S4-101,quantum numbers,claude-opus-5-5,
+S4-102,quantum gates,claude-opus-5-5,"""Hadamard gate"""
+S4-103,quantum circuits,claude-opus-5-5,
+S4-104,quantum algorithms,claude-opus-5-5,"""Bernstein-Vazirani alg."""
+S4-105,quantum dice,claude-opus-5-5,judgement: dice analogy for quantum randomness; alternative: game (practice)
+S4-106,atomic structure,claude-opus-5-5,"""Electrons in an atom"""
+S4-107,statistics,claude-opus-5-5,judgement: offered for Statistical nature; mathematical statistics
+S4-108,fluctuation phenomena,claude-opus-5-5,"judgement: statistical fluctuations (e.g., noise)"
+S4-109,tunnelling,claude-opus-5-5,
+S4-110,interference,claude-opus-5-5,"""Quantum interference experiments"""
+S5-001,eigenvectors and eigenvalues,claude-opus-5-5,
+S5-002,inner products,claude-opus-5-5,
+S5-003,matrix algebra,claude-opus-5-5,
+S5-004,Dirac notation,claude-opus-5-5,
+S5-005,operators,claude-opus-5-5,
+S5-006,wave-function collapse,claude-opus-5-5,
+S5-007,probability amplitudes,claude-opus-5-5,
+S5-008,probabilistic nature of measurement,claude-opus-5-5,
+S5-009,polarisation,claude-opus-5-5,
+S5-010,two-level system,claude-opus-5-5,
+S5-011,indeterminism,claude-opus-5-5,
+S5-012,decoherence,claude-opus-5-5,
+S5-013,spin,claude-opus-5-5,"""Electron spin state (Stern-Gerlach)"": head = electron spin state"
+S5-014,superposition,claude-opus-5-5,
+S5-015,classical vs quantum superposition,claude-opus-5-5,
+S5-016,quantum eraser,claude-opus-5-5,
+S5-017,delayed-choice experiment,claude-opus-5-5,
+S5-018,interference,claude-opus-5-5,
+S5-019,interference of large molecules,claude-opus-5-5,
+S5-020,quantum vs classical probability,claude-opus-5-5,
+S5-021,quantum measurement,claude-opus-5-5,
+S5-022,wave packets,claude-opus-5-5,
+S5-023,interference of classical light,claude-opus-5-5,
+S5-024,EPR paradox,claude-opus-5-5,
+S5-025,quantum teleportation,claude-opus-5-5,
+S5-026,history of quantum physics,claude-opus-5-5,
+S5-027,entanglement,claude-opus-5-5,
+S5-028,quantum correlations,claude-opus-5-5,
+S5-029,hidden variables,claude-opus-5-5,
+S5-030,double-slit experiment,claude-opus-5-5,
+S5-031,Mach-Zehnder interferometer,claude-opus-5-5,
+S5-032,photoelectric effect,claude-opus-5-5,
+S5-033,Schrödinger's cat,claude-opus-5-5,
+S5-034,matter waves,claude-opus-5-5,"""Matter wave interference"""
+S5-035,single-quantum-object interference,claude-opus-5-5,
+S5-036,infinite potential well,claude-opus-5-5,
+S5-037,measuring Planck's constant,claude-opus-5-5,experiment (practice): determining h
+S5-038,colour,claude-opus-5-5,
+S5-039,energy quantisation,claude-opus-5-5,
+S5-040,spin,claude-opus-5-5,
+S5-041,electrons,claude-opus-5-5,judgement: electrons as quantum objects/matter constituents
+S5-042,Franck-Hertz experiment,claude-opus-5-5,
+S5-043,atomic models,claude-opus-5-5,
+S5-044,quantisation of the radiation field,claude-opus-5-5,photon concept (field quantisation)
+S5-045,Stern-Gerlach experiment,claude-opus-5-5,
+S5-046,bound states,claude-opus-5-5,
+S5-047,double well,claude-opus-5-5,
+S5-048,quantum harmonic oscillator,claude-opus-5-5,
+S5-049,tunnelling,claude-opus-5-5,
+S5-050,orbitals,claude-opus-5-5,
+S5-051,photon statistics,claude-opus-5-5,
+S5-052,spontaneous and stimulated emission,claude-opus-5-5,
+S5-053,photons (particle behaviour of light),claude-opus-5-5,
+S5-054,qubit,claude-opus-5-5,
+S5-055,Bloch sphere,claude-opus-5-5,
+S5-056,complementarity,claude-opus-5-5,
+S5-057,uncertainty principle,claude-opus-5-5,
+S5-058,energy-time uncertainty,claude-opus-5-5,
+S5-059,complementarity,claude-opus-5-5,"""Complementarity: double/single slit and Stern-Gerlach experiment"""
+S5-060,role of models,claude-opus-5-5,
+S5-061,paradigm change,claude-opus-5-5,
+S5-062,interpretations of quantum physics,claude-opus-5-5,"""Many-world interpretation"""
+S5-063,Bohr atomic model,claude-opus-5-5,"""Excitation and emission in the Bohr model"""
+S5-064,quantum numbers,claude-opus-5-5,
+S5-065,hydrogen atom,claude-opus-5-5,
+S5-066,spectral lines,claude-opus-5-5,"""Spectra of light/stars"""
+S5-067,spectroscopy,claude-opus-5-5,
+S5-068,ions,claude-opus-5-5,
+S5-069,lasers,claude-opus-5-5,"""Laser"""
+S5-070,conduction,claude-opus-5-5,
+S5-071,semiconductors,claude-opus-5-5,
+S5-072,solar cells,claude-opus-5-5,
+S5-073,CCD,claude-opus-5-5,
+S5-074,material properties,claude-opus-5-5,"""Electronic properties of materials"""
+S5-075,LEDs,claude-opus-5-5,
+S5-076,NMR,claude-opus-5-5,
+S5-077,band structure,claude-opus-5-5,
+S5-078,superconductivity,claude-opus-5-5,
+S5-079,atomic force microscope,claude-opus-5-5,
+S5-080,quantum dots,claude-opus-5-5,
+S5-081,2D electron gas,claude-opus-5-5,
+S5-082,nanostructures,claude-opus-5-5,
+S5-083,nanowires,claude-opus-5-5,
+S5-084,carbon nanostructures,claude-opus-5-5,
+S5-085,topological effects,claude-opus-5-5,
+S5-086,surface tension,claude-opus-5-5,judgement: classical property of matter; source lists it under Physical Foundations
+S5-087,fermions and bosons,claude-opus-5-5,
+S5-088,pair production,claude-opus-5-5,
+S5-089,quantum gates,claude-opus-5-5,
+S5-090,BB84 protocol,claude-opus-5-5,
+S5-091,quantum random number generators,claude-opus-5-5,
+S5-092,classical vs quantum cryptography,claude-opus-5-5,"""Comparison to current cryptography technologies"""
+S5-093,superconducting sensors,claude-opus-5-5,
+S5-094,spin-qubit sensors,claude-opus-5-5,
+S5-095,atom interferometers,claude-opus-5-5,
+S5-096,SI unit definition,claude-opus-5-5,
+S5-097,imaging of living cells,claude-opus-5-5,"""Imaging (e.g., living cells)"""
+S5-098,quantum vs classical sensors,claude-opus-5-5,
+S5-099,single-photon sources,claude-opus-5-5,
+S5-100,entangled-photon sources,claude-opus-5-5,
+S5-101,optical fibres,claude-opus-5-5,
+S5-102,single-photon detection,claude-opus-5-5,
+S5-103,"microelectronics (Arduino, Raspberry Pi)",claude-opus-5-5,judgement: hands-on microcontroller hardware (practice)
+S5-104,vacuum technology,claude-opus-5-5,
+S5-105,flash memory,claude-opus-5-5,"""Using tunneling for flash memory"": head = flash memory device"
+S6-001,blackbody (heat) radiation,claude-opus-5-5,
+S6-002,Bohr atomic model,claude-opus-5-5,
+S6-003,discrete atomic energy levels (line spectra),claude-opus-5-5,"judgement: atom-specific (line spectra), kept distinct from generic energy quantisation"
+S6-004,light-matter interaction,claude-opus-5-5,photoelectric/Compton effect
+S6-005,wave-particle duality,claude-opus-5-5,
+S6-006,matter waves,claude-opus-5-5,
+S6-007,technical applications,claude-opus-5-5,"SEM, semiconductors, LED, laser (Table II)"
+S6-008,uncertainty principle,claude-opus-5-5,
+S6-009,probabilistic nature of measurement,claude-opus-5-5,
+S6-010,philosophical consequences and interpretations,claude-opus-5-5,
+S6-011,infinite potential well,claude-opus-5-5,
+S6-012,tunnelling,claude-opus-5-5,
+S6-013,orbitals,claude-opus-5-5,"""Atomic orbital model"""
+S6-014,Pauli exclusion principle,claude-opus-5-5,"""Exclusion principle or periodic table"""
+S6-015,entanglement,claude-opus-5-5,
+S6-016,Schrödinger equation,claude-opus-5-5,
+S6-017,Born rule (detection probability),claude-opus-5-5,
+S6-018,"scientific methodology (experiment, hypothesis)",claude-opus-5-5,"NOS aspect: understanding methodology (experiment-theory relation, thought experiments) per Table I example"
+S6-019,role of models,claude-opus-5-5,
+S6-020,tentativeness of science,claude-opus-5-5,
+S6-021,creativity in science,claude-opus-5-5,
+S6-022,controversies in science,claude-opus-5-5,
+S6-023,history of science,claude-opus-5-5,

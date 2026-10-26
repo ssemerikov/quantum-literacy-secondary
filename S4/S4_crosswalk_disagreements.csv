@@ -1,0 +1,27 @@
+item_id,source_id,item_verbatim,locator,coder1_code,coder1_cluster,coder2_code,coder2_cluster,in_random_sample,pivotal
+S3-046,S3,Schrödinger’s cat,"Table 6 (p.358), Examples column",Schrödinger's cat,K12,Schrödinger's cat,K01,no,yes
+S4-097,S4,Coherent control,"Table 8g (online table 25, image Tab25.png), row 2, column PR; PDF page not available",coherent control,K09,Coherent control,K10,yes,yes
+S6-018,S6,"Methodology (e.g., experiments and hypothesis)","Table I (p.010130-4), aspect N1; frequencies §IV.D.1 (p.010130-12)","scientific methodology (experiment, hypothesis)",K12,Scientific methodology,K13,no,yes
+S1-011,S1,Computers and software,"CFQT v3.0 content map p.5, subdomain 3.5; topics p.8",classical programming and modelling,K13,Computers and software,K10,yes,no
+S2-016,S2,"At a particular moment in time, a set of n classical bits can exist in only one of 2n possible states, but a set of n qubits can exist in a superposition of all of these states. This capability allows quantum information to be stored and processed in ways that would be difficult or impossible to do classically.","Key Concepts with Supporting Fundamentals p.3, fundamental 4b",multi-qubit state space,K05,Superposition,K01,yes,no
+S3-026,S3,Stationary states,"Table 6 (p.358), Concepts column",stationary states,K02,Stationary states,K01,yes,no
+S3-029,S3,Development of atomic models,"Table 6 (p.358), Concepts column",development of atomic models,K03,Development of atomic models,K12,yes,no
+S3-030,S3,Free vs. localised particle,"Table 6 (p.358), Concepts column",free vs localised particle,K02,Free vs. localized particle,K01,yes,no
+S3-041,S3,Magnetism,"Table 6 (p.358), Examples column",magnetism,K03,Magnetism,K01,yes,no
+S3-050,S3,Heat radiation,"Table 6 (p.358), Examples column",blackbody (heat) radiation,K03,Heat radiation,K01,yes,no
+S3-081,S3,Single molecule microscopy,"Table 6 (p.358), Applications column",single-molecule microscopy,K10,Single molecule microscopy,K08,yes,no
+S4-023,S4,Pauli Exclusion principle,"Table 2, row 23 (key concepts)",Pauli exclusion principle,K03,Pauli exclusion principle,K01,yes,no
+S4-044,S4,Double-well,Text §5.3.2 (illustrations),double well,K02,Double-well,K01,yes,no
+S4-050,S4,Light interference,"Table 8a (online table 19, image Tab19.png), row 8, column shaded row; PDF page not available",interference,K01,Light interference,K03,yes,no
+S4-062,S4,Space and velocity measurement,"Table 8b (online table 20, image Tab20.png), row 7, column PER; PDF page not available",position and velocity measurement,K01,Space and velocity measurement,K08,yes,no
+S4-066,S4,Malus’ law with a single photon,"Table 8b (online table 20, image Tab20.png), row 8, column PER+PR; PDF page not available",single-photon Malus law,K01,Malus' law with single photon,K03,yes,no
+S4-069,S4,Analogy of standing waves and a particle in a box,"Table 8c (online table 21, image Tab21.png), row 7, column shaded row; PDF page not available",infinite potential well,K02,Analogy of standing waves and particle in a box,K01,yes,no
+S4-090,S4,Bloch sphere,"Table 8f (online table 24, image Tab24.png), row 4, column shaded row; PDF page not available",Bloch sphere,K02,Bloch sphere,K05,yes,no
+S5-032,S5,Photoelectric effect,"Table III, row 32 (Appendix, p.020157-10)",photoelectric effect,K03,Photoelectric effect,K01,yes,no
+S5-041,S5,Electrons,"Table III, row 41 (Appendix, p.020157-10)",electrons,K03,Electrons,K04,yes,no
+S5-048,S5,Quantum harmonic oscillator,"Table III, row 48 (Appendix, p.020157-10)",quantum harmonic oscillator,K02,Quantum harmonic oscillator,K01,yes,no
+S5-067,S5,Spectroscopy,"Table IV, row 5 (Appendix, p.020157-11)",spectroscopy,K03,Spectroscopy,K08,yes,no
+S5-085,S5,Topological effects,"Table IV, row 23 (Appendix, p.020157-11)",topological effects,K03,Topological effects,K01,yes,no
+S5-086,S5,Surface tension,"Table IV, row 24 (Appendix, p.020157-11)",surface tension,K03,Surface tension,none,yes,no
+S5-101,S5,Photon fibres,"Table V, row 13 (Appendix, p.020157-12)",optical fibres,K10,Photon fibers,K07,yes,no
+S6-011,S6,One-dimensional model or potential well,"Table VI (p.010130-11), item Q11; description Table II (p.010130-5)",infinite potential well,K02,One-dimensional potential well,K01,yes,no

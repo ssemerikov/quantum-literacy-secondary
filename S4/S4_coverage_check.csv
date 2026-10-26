@@ -1,0 +1,89 @@
+record_id,basis,item_verbatim,locator,cluster,domain,reason
+R0001,abstract,the nature of the referent of quantum theory,abstract (HAL),K12,D9,interpretation of what quantum theory refers to; interpretations belong to K12
+R0001,abstract,‘Quanton’,title (HAL; OpenAlex title truncated),K01,D1,"concept of the quantum object offered in place of wave-particle duality, a K01 code"
+R0001,abstract,‘Wave–Particle’ Duality,title (HAL; OpenAlex title truncated),K01,D1,wave-particle duality is a K01 member code
+R0001,abstract,the historical and epistemological roots of quantum physics,abstract (HAL),K12,D9,history and epistemology of quantum physics
+R0001,abstract,Young’s paradigmatic experiment using the double slits,abstract (HAL),K01,D1,double-slit experiment is a K01 member code
+R0004,abstract,general relativity,abstract,none,none,relativity: non-quantum topic in the Norwegian curriculum; outside all quantum clusters
+R0004,abstract,entangled photons,abstract,K01,D1,entanglement is a K01 member code
+R0004,abstract,the epistemological consequences of modern physics,abstract,K12,D9,philosophical consequences of physics are K12 member codes
+R0006,abstract,atomic energy levels and quantisation,abstract,K03,D3,discrete atomic energy levels are a K03 member code
+R0006,abstract,particle behaviour of light,abstract,K01,D1,photons (particle behaviour of light) is a K01 member code
+R0006,abstract,Heisenberg’s uncertainty principle,abstract,K01,D1,uncertainty principle is a K01 member code
+R0006,abstract,probability,abstract,K01,D1,probability is a K01 member code
+R0006,abstract,the photoelectric effect,abstract,K03,D3,photoelectric effect is a K03 member code
+R0006,abstract,spectral lines,abstract,K03,D3,spectral lines are a K03 member code
+R0006,abstract,the double slit experiment,abstract,K01,D1,double-slit experiment is a K01 member code
+R0006,abstract,foundational and controversial aspects of QP that are relevant to high school curricula,abstract,K12,D9,foundations of quantum mechanics and controversies in science are K12 member codes
+R0006,abstract,the necessary mathematical grounds,abstract,K02,D2,mathematical foundations needed for QP; mathematical formalism is K02
+R0007,abstract,Phenomena,title,K01,D1,quantum phenomena; K01 covers principles and the phenomena showing them
+R0007,abstract,fundamental principles,abstract,K01,D1,fundamental principles of QP (the experts' nucleus); generic wording but K01 by definition
+R0011,abstract,atomic structure,abstract,K03,D3,atomic structure is a K03 member code
+R0011,abstract,probabilistic,abstract (phrase: probabilistic and epistemological dimensions),K01,D1,probabilistic nature of quantum physics; probability is a K01 member code
+R0011,abstract,epistemological dimensions,abstract,K12,D9,epistemology of quantum physics belongs to K12
+R0024,fulltext:IJERE publisher PDF,1.1 Explain the initiation of the quantum theory,"Table 1, LS 1.1, p.573",K12,D9,origin of quantum theory; history of quantum physics is K12
+R0024,fulltext:IJERE publisher PDF,1.2 Describe the quantum of energy,"Table 1, LS 1.2, p.573",K01,D1,energy quantisation is a K01 member code
+R0024,fulltext:IJERE publisher PDF,1.3 Explain wave-particle duality,"Table 1, LS 1.3, p.573",K01,D1,wave-particle duality is a K01 member code
+R0024,fulltext:IJERE publisher PDF,1.4 Explain the concept of photon,"Table 1, LS 1.4, p.573",K01,D1,photons (particle behaviour of light) is a K01 member code
+R0024,fulltext:IJERE publisher PDF,"1.5 Solve problems using: (i) photon energy, E=hf (ii) power, P=nhf; n is the number of a photon emitted per second","Table 1, LS 1.5, p.573 (math glyphs normalised)",K01,D1,photon energy and frequency is a K01 member code
+R0024,fulltext:IJERE publisher PDF,2.1 Explain the photoelectric effect,"Table 1, LS 2.1, p.573",K03,D3,photoelectric effect is a K03 member code
+R0024,fulltext:IJERE publisher PDF,2.2 Identify four characteristics of the photoelectric effect that cannot be explained using wave theory,"Table 1, LS 2.2, p.573",K03,D3,photoelectric effect is a K03 member code
+R0024,fulltext:IJERE publisher PDF,3.1 State the minimum work function needed by metal to emit an electron using Einstein’s equation,"Table 1, LS 3.1, p.573",K03,D3,photoelectric effect (work function) is K03
+R0024,fulltext:IJERE publisher PDF,"3.2 Explain the threshold frequency, fo, and the work function, W","Table 1, LS 3.2, p.573",K03,D3,photoelectric effect (threshold frequency) is K03
+R0024,fulltext:IJERE publisher PDF,"3.3 Determine the work function of the metal, W=hfo","Table 1, LS 3.3, p.573 (math glyphs normalised)",K03,D3,photoelectric effect (work function) is K03
+R0024,fulltext:IJERE publisher PDF,3.4 Solve problems involving Einstein’s equation for the photoelectric effect,"Table 1, LS 3.4, p.573",K03,D3,photoelectric effect is a K03 member code
+R0024,fulltext:IJERE publisher PDF,3.5 Explain the production of photoelectric current in a photocell circuit,"Table 1, LS 3.5, p.573",K10,D8,photocell is a quantum-based device; devices are K10
+R0024,fulltext:IJERE publisher PDF,3.6 Describe applications of the photoelectric effect,"Table 1, LS 3.6, p.573",K10,D8,technical applications are a K10 member code
+R0024,fulltext:IJERE publisher PDF,the phenomenon of black body radiation that cannot be explained by classical theory,"§4.1, p.573 (DSKP note)",K03,D3,blackbody radiation is a K03 member code
+R0024,fulltext:IJERE publisher PDF,"Thomas Young, who argued the existence of light properties as a wave through his Double-slit experiment","§4.1, p.573 (textbook)",K01,D1,double-slit experiment is a K01 member code
+R0024,fulltext:IJERE publisher PDF,absorption and emission line spectra gases,"Table 2, KSSM column, p.574",K03,D3,spectral lines are a K03 member code
+R0024,fulltext:IJERE publisher PDF,De Broglie wavelength is included to explain the existence of wave-particle duality of matter,"Table 2, KSSM column, p.574",K01,D1,de Broglie wavelength is a K01 member code
+R0024,fulltext:IJERE publisher PDF,an electron microscope that is compared with an optical microscope,"Table 2, KSSM column, p.574",K10,D8,electron microscope is a K10 member code
+R0024,fulltext:IJERE publisher PDF,solar cell,"§4.2.2b, p.575 (DSKP applications)",K10,D8,solar cells are a K10 member code
+R0024,fulltext:IJERE publisher PDF,an experimental activity to determine the value of Planck’s constant using Planck’s constant kit,"§4.1, p.573 (textbook)",K13,practice,measuring Planck's constant is a K13 member code
+R0024,fulltext:IJERE publisher PDF,an interactive simulation from the PhET sims for the photoelectric effect virtual experiment,"§4.1, p.573 (textbook)",K13,practice,learner simulation activity; simulation is a K13 practice
+R0024,fulltext:IJERE publisher PDF,Heisenberg’s uncertainty principle,"Table 2 and §5, pp.574, 577 (recommended; not in KSSM)",K01,D1,uncertainty principle is a K01 member code
+R0024,fulltext:IJERE publisher PDF,The probabilistic nature of QP,"Table 2 and §5, pp.574, 577 (recommended; not in KSSM)",K01,D1,probabilistic nature of measurement is a K01 member code
+R0024,fulltext:IJERE publisher PDF,Pauli exclusion principle,"§4.2.2a, p.574 (recommended principles)",K03,D3,Pauli exclusion principle is a K03 member code
+R0024,fulltext:IJERE publisher PDF,entanglement,"§4.2.2a, p.574 (recommended principles)",K01,D1,entanglement is a K01 member code
+R0024,fulltext:IJERE publisher PDF,compare and understand the contradiction between classical and QP,"§4.2.2a, p.575 (recommended objective)",K12,D9,classical vs quantum models is a K12 member code
+R0024,fulltext:IJERE publisher PDF,ultraviolet catastrophe,"§4.2.2b, p.575 (recommended)",K03,D3,failure of classical blackbody prediction; blackbody radiation is K03
+R0024,fulltext:IJERE publisher PDF,computers,"§4.2.2b, p.575 (wider applications recommended)",K10,D8,everyday quantum-based technology; technical applications are K10
+R0024,fulltext:IJERE publisher PDF,smartphones,"§4.2.2b, p.575 (wider applications recommended)",K10,D8,everyday quantum-based technology; technical applications are K10
+R0024,fulltext:IJERE publisher PDF,LCDs,"§4.2.2b, p.575 (wider applications recommended)",K10,D8,quantum-based display device; technical applications are K10
+R0024,fulltext:IJERE publisher PDF,magnetic resonance imaging,"§4.2.2b, p.575 (wider applications recommended)",K10,D8,MRI is a K10 member code
+R0024,fulltext:IJERE publisher PDF,discrete energy levels,"§4.2.2c, pp.575-576 (should have been considered)",K03,D3,discrete atomic energy levels are a K03 member code
+R0024,fulltext:IJERE publisher PDF,the Bohr atomic model,"§4.2.2c, pp.575-576 (should have been considered)",K03,D3,Bohr atomic model is a K03 member code
+R0024,fulltext:IJERE publisher PDF,wave functions that discuss the probability,"§4.2.2d, p.576 (should be considered)",K02,D2,wave function is a K02 member code
+R0024,fulltext:IJERE publisher PDF,one dimension potential well,"§4.2.2d, p.576 (should be considered)",K02,D2,infinite potential well is a K02 member code
+R0024,fulltext:IJERE publisher PDF,the philosophy behind wave-particle duality with Bohr’s perception of complementarity,"§4.2.2e, p.576 (recommended)",K12,D9,philosophical consequences and interpretations are K12 member codes
+R0024,fulltext:IJERE publisher PDF,the interpretations and thought experiments of QP theory,"§4.2.2e, p.576 (learning outcome per [6])",K12,D9,interpretations of quantum physics are a K12 member code
+R0024,fulltext:IJERE publisher PDF,Schrödinger’s cat,"§4.2.2e, p.576",K12,D9,Schrödinger's cat is a K12 member code
+R0024,fulltext:IJERE publisher PDF,teleportation,"§4.2.2e, p.576",K07,D6,quantum teleportation is a K07 member code
+R0024,fulltext:IJERE publisher PDF,a methodology which involves experiments and making hypotheses,"§4.2.3, p.576 (NOS aspects)",K12,D9,scientific methodology is a K12 member code
+R0024,fulltext:IJERE publisher PDF,the role of scientific models,"§4.2.3, p.576 (NOS aspects)",K12,D9,role of models is a K12 member code
+R0024,fulltext:IJERE publisher PDF,tentativeness of science,"§4.2.3, p.576 (NOS aspects)",K12,D9,tentativeness of science is a K12 member code
+R0024,fulltext:IJERE publisher PDF,creativity in science,"§4.2.3, p.576 (NOS aspects)",K12,D9,creativity in science is a K12 member code
+R0024,fulltext:IJERE publisher PDF,controversies in science,"§4.2.3, p.576 (NOS aspects)",K12,D9,controversies in science is a K12 member code
+R0024,fulltext:IJERE publisher PDF,Einstein and Bohr’s discussions,"§4.2.3, p.577",K12,D9,Bohr-Einstein debate is a K12 member code
+R0033,abstract,,,NA,NA,no content item listed in the text read
+R0037,abstract,topics and examples from ‘old quantum physics’,abstract,K12,D9,early (old) quantum theory topics; how quantum physics developed is K12
+R0042,abstract,discrete atomic energy levels,abstract,K03,D3,discrete atomic energy levels are a K03 member code
+R0042,abstract,interactions between light and matter,abstract,K03,D3,light-matter interaction is a K03 member code
+R0042,abstract,wave-particle duality,abstract,K01,D1,wave-particle duality is a K01 member code
+R0042,abstract,de Broglie wavelength,abstract,K01,D1,de Broglie wavelength is a K01 member code
+R0042,abstract,technical applications,abstract,K10,D8,technical applications is a K10 member code
+R0042,abstract,Heisenberg’s uncertainty principle,abstract,K01,D1,uncertainty principle is a K01 member code
+R0042,abstract,the probabilistic nature of QP,abstract,K01,D1,probabilistic nature of measurement is a K01 member code
+R0102,abstract,the inadequate transition from classical to quantum mechanics,abstract,K12,D9,classical vs quantum models and paradigm change are K12 member codes
+R0102,abstract,‘Atom and Newton’s Mechanics’,abstract (existing single lesson),K03,D3,lesson on the atom against Newtonian mechanics; atomic models are K03
+R0186,abstract,the topic of physics called photoelectric effect,abstract,K03,D3,photoelectric effect is a K03 member code
+R0353,abstract,Basic principles of QP,abstract (theme),K01,D1,basic quantum principles are K01 by definition
+R0353,abstract,Phenomena and experiments,abstract (theme),K01,D1,quantum phenomena and experiments are K01 by definition
+R0353,abstract,Philosophical aspects,abstract (theme),K12,D9,philosophical consequences and interpretations are K12 member codes
+R0353,abstract,wave-particle duality,abstract,K01,D1,wave-particle duality is a K01 member code
+R0353,abstract,the probabilistic nature of measurement,abstract (under-emphasised; called necessary),K01,D1,probabilistic nature of measurement is a K01 member code
+R0353,abstract,superposition,abstract (under-emphasised; called necessary),K01,D1,superposition is a K01 member code
+R0353,abstract,entanglement,abstract (under-emphasised; called necessary),K01,D1,entanglement is a K01 member code
+R4135,abstract,the needed mathematical background,abstract,K02,D2,mathematical foundations needed for QP; mathematical formalism is K02
+R4135,abstract,foundational and controversial aspects of QP,abstract,K12,D9,foundations of quantum mechanics and controversies in science are K12 member codes

@@ -1,0 +1,40 @@
+R4069	exclude	E4	O	-	Quantum algorithms for crossing minimisation; not access.
+R4070	exclude	E4	O	no_abstract	No abstract; philosophy of quantum entanglement.
+R4071	uncertain	I4	D	-	Zenodo treatise on quantum data sovereignty incl. an agency to prevent a quantum divide; self-deposited book.
+R4072	exclude	notI2	P	-	Exposition of beam splitters at the quantum-classical boundary (Brazilian physics teaching journal); level not stated.
+R4073	exclude	E4	O	preprint	Retrodictive quantum computing; not access.
+R4074	exclude	E4	O	-	Quantum concepts and fine-art drawing; not quantum education research or access.
+R4075	include	C,I4,I5	D	-	Post-quantum migration of privacy technologies risks a quantum divide in access and liability.
+R4076	exclude	DUP	D	no_abstract;preprint;possible_duplicate	SSRN preprint of R4078 (quantum computing and the right to science); chapter version in set.
+R4077	uncertain	I4	D	-	Zenodo deposit: lessons for the Global South from a US quantum programme and the quantum divide.
+R4078	include	C,I4,I5	D	possible_duplicate	Right to science framework for equitable quantum computing; quantum divide as a barrier.
+R4079	exclude	E4	O	preprint	Quantum walks through graph composition; not access.
+R4080	exclude	E4	O	-	Classical and quantum lemon billiard; physics.
+R4081	exclude	E4	O	-	Multiparameter quantum groups; mathematics.
+R4082	exclude	E4	O	preprint	Quantum algorithms through graph composition; not access.
+R4083	exclude	E4	O	-	Post-quantum cryptography algorithm; not access or education.
+R4084	uncertain	I4	D	no_abstract;preprint	No abstract; SSRN preprint on quantum infrastructure and economic order retrieved by the 'quantum divide' query.
+R4085	exclude	E4	O	preprint	Speculative classical re-examination of blackbody radiation; not education.
+R4086	exclude	E4	O	preprint;possible_duplicate	Measurement contextuality and Planck's constant; physics.
+R4087	exclude	E4	O	possible_duplicate	Measurement contextuality and Planck's constant; physics.
+R4088	uncertain	I4	D	-	UNESCO global report on the International Year of Quantum and the quantum divide; report, not a framework or curriculum.
+R4089	exclude	E4	O	-	Book on Bose-Einstein condensation and superconductivity; physics.
+R4090	uncertain	I4	D	-	Repository paper on 'quantum colonialism' and Global South participation in quantum humanities; publication status unclear.
+R4091	exclude	E4	O	-	Hegel's logic chapter on 'quantum' as quantity; not quantum physics.
+R4092	exclude	E4	O	preprint	Quantum divide-and-conquer time complexity; not access.
+R4093	exclude	E4	O	preprint	Speculative 5D field framework; not education.
+R4094	exclude	E4	O	-	Speculative unified framework 'standard'; not education.
+R4095	exclude	E4	O	possible_duplicate	Physics Today new books listing; not quantum education.
+R4096	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Visual-conceptual QM chemistry module with over 100 Israeli high-school honours students and undergraduates; grade not stated.
+R4097	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Same module: 122 high-school honours and 65 undergraduate students, visual and textual QM understanding; grade not stated.
+R4098	include	I1,I2,I4,I5;I3-ft	E	-	Sum-over-paths TLS in Italian high school; knowledge integration test with n=14; grade not stated.
+R4099	include	I1,I2,I4,I5;I3-ft	E	-	Focus groups with 58 Norwegian upper-secondary physics students on an innovative QP approach; grade not stated.
+R4100	exclude	E1	E	-	Two-tier QM questionnaire validated with undergraduates and high-school teachers; university course instrument.
+R4101	include	I1-I5	E	-	Problem-based TLS on atomic spectra implemented with high-school seniors; pre/post questionnaire and interviews.
+R4102	exclude	E1	E	-	University quantum mechanics classroom figured worlds.
+R4103	include	I1,I2,I4,I5;I3-ft	E	-	Secondary students' perceived relevance of QP before and after 'Quantum Rules!' visit; grade not stated.
+R4104	exclude	notI4	E	thesis	Doctoral thesis on teaching quantum mechanics at secondary school level.
+R4105	include	I1,I2,I4,I5;I3-ft	E	-	Secondary school students' misunderstandings of potential wells and tunnelling; grade not stated.
+R4106	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Overconfidence in introductory QM among 408 high-school students, textbook vs inquiry instruction; same sample as R4107.
+R4107	include	I1-I5	E	possible_duplicate	Construct map for introductory QM validated with Italian students aged 17-18 (N=408) and a 14-h TLS.
+R4108	context	E3	P	-	Low-cost LED equipment for internal photoelectric effect for undergraduate or high-school teaching; no learner data.

@@ -1,0 +1,40 @@
+R0041	exclude	DUP	T	possible_duplicate	Second journal record (v2 DOI) of R0039, same title and abstract; R0039 kept.
+R0042	include	I1,I2,I4,I5	F	possible_duplicate	Proceedings report of the 15-country secondary QP curriculum analysis; same study as R0014.
+R0043	exclude	notI4	E	-	Figshare additional file (translated coding manual) of R0026; supplementary material, not a publication.
+R0044	uncertain	I2	P	no_abstract	No abstract; symposium chapter on teaching and learning QP; school level not determinable from title.
+R0045	include	I1-I5	E	-	Stern-Gerlach problem-situation with first- and third-year secondary students; tests and exam analysed.
+R0046	context	notI2-teacher	T	-	CPD programme for in-service secondary teachers on superposition and entanglement; first-edition results.
+R0047	context	notI2-teacher	T	-	Three grade-12 physics teachers' difficulties teaching QP; teacher case study.
+R0048	include	I1,I2,I4,I5;I3-ft	E	-	Secondary QIS course (polarisation, which-path) built with educational reconstruction; learner data implied, not stated.
+R0049	context	notI2-teacher	T	-	Sabah Form Five physics teachers' attitudes and readiness for teaching QP (N=175).
+R0050	context	E3	P	-	Outline of a research project on secondary QP course; results not yet presented.
+R0051	uncertain	I5	F	-	Analysis for high-school QM content system under Korean 2022 curriculum; venue publishes mainly Korean-language articles.
+R0052	context	E3	P	-	Conceptual construct (epistemic guideposts) for K-12 quantum instruction; no learner sample.
+R0053	context	E3	P	-	Review chapter of research on learning QP, focused on secondary students.
+R0054	uncertain	I2	E	no_abstract;preprint	No abstract; mixed-background quantum-technology mentoring programme; learner level unknown.
+R0055	uncertain	I3	F	no_abstract	No abstract; research-based proposals for secondary curriculum on frontiers of physics; role and quantum focus unclear.
+R0056	include	I1,I2,I4,I5;I3-ft	E	-	QCaMP 2024 four-week high-school QIST camp; pre/post knowledge and attitudes; grade not stated.
+R0057	exclude	E4	O	-	High-school student's theoretical essay on quantum mechanics history and theory; not education research.
+R0058	uncertain	I4	F	preprint	arXiv preprint: seven-category framework of K-12 quantum teaching approaches from review and expert interviews.
+R0059	exclude	notI4	E	-	Conference abstract (poster) describing high-school QIS fellowship design.
+R0060	context	notI2-teacher	T	-	Dutch professional learning network and lab for secondary QP teachers; teacher self-efficacy outcomes.
+R0061	include	I1,I2,I4,I5;I3-ft	E	-	Quantum Literacy Test validated with 819 senior secondary students in Nigeria; no specific grade.
+R0062	uncertain	I4	F	preprint	arXiv preprint: curriculum compatibility and enabling conditions for quantum education in six Latin American countries.
+R0063	exclude	E4	O	preprint	Teenager's speculative physics framework; not quantum education.
+R0064	include	I1,I2,I4,I5;I3-ft	E	-	Quantum-infused NGSS middle-school curriculum, 873 students, learning and engagement gains; no specific grade.
+R0065	exclude	E4	O	preprint	Exposition of an author's speculative relativity-quantum framework; not quantum education research or curriculum.
+R0066	include	I1,I2,I4,I5	F	-	Delphi study of experts on QP concepts and depth for secondary curricula.
+R0067	exclude	E4	O	preprint	High-school student's speculative physics framework; not quantum education.
+R0068	include	I1,I2,I4,I5;I3-ft	E	-	High-school students' use of Dirac notation in QP tasks and tests; grade not stated.
+R0069	exclude	E4	O	preprint	Version 2 of a teenager's speculative physics framework; not quantum education.
+R0070	exclude	E4	O	-	General chemistry curriculum adapted for high school; quantum mechanics only background, not a focus.
+R0071	uncertain	I4	E	preprint	arXiv preprint: QTris qubit board game with about 150 high-school students; no published version in set.
+R0072	uncertain	I4	P	-	TU/e 'other' item: lower-secondary quantum-awareness add-on materials by teacher design team; publication type unclear.
+R0073	context	E3	P	-	Teacher's reflective account of polarisation-based QM unit in Hungary; no learner data reported.
+R0074	context	E3	P	-	Overview and proposals for modern physics in secondary school; no learner sample.
+R0075	context	E3	P	-	Note proposing graphene-based QM curriculum pathway from class XI quantum chemistry; no learner data.
+R0076	uncertain	I2	P	no_abstract	No abstract; chapter on QP teaching approaches from PER literature; level not determinable.
+R0077	exclude	E4	O	-	General relativity materials for upper secondary; no quantum content.
+R0078	include	I1,I2,I4,I5;I3-ft	E	-	408 Italian high-school and undergraduate students' views on QM concepts; no specific grade.
+R0079	context	E3	P	-	Qubit visualisations proposed for high-school and introductory teaching; no learner data.
+R0080	exclude	notI4	E	thesis	Dissertation: metaphor-based QP activities in six high-school classrooms; thesis fails I4.

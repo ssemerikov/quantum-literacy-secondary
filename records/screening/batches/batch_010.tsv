@@ -1,0 +1,40 @@
+R0753	exclude	E4	O	-	Teachers' perceptions of school spaces and digital 'entanglement'; not quantum.
+R0756	exclude	E4	O	no_abstract	No abstract; substance abuse prevention; not quantum.
+R0762	exclude	E4	O	-	LuNa optics modules for primary and secondary schools; single-photon interference only one of many classical-optics topics.
+R0764	context	E3	P	-	Proposal to introduce QM in high school via Heisenberg's matrix Umdeutung; no learner data.
+R0770	exclude	E1	E	-	Polarisation-based QM in physics teacher education (teacher trainees).
+R0771	context	E3	P	possible_duplicate	Selection of cloud platform for quantum informatics in specialised lyceums; same text as R0340.
+R0773	exclude	E4	O	no_abstract	No abstract; feminist science education and 'entanglement'; no quantum focus evident.
+R0775	exclude	E4	O	-	Posthuman environmental education 'entanglement'; not quantum.
+R0783	exclude	E4	O	-	Posthumanist youth participatory research 'spooky entanglements'; not quantum.
+R0794	exclude	E4	O	-	Teacher leadership in AI-integrated classrooms; not quantum.
+R0795	exclude	E4	O	-	Quantum search algorithm for a mental health testing platform; not education about quantum.
+R0803	exclude	notI4	E	thesis	Doctoral thesis on epistemological activators in high-school QP and AI modules; thesis type.
+R0810	exclude	E4	O	no_abstract	No abstract; confirmation bias and polarisation in information behaviour.
+R0818	include	I1,I2,I4,I5;I3-ft	E	-	Electronic quantum dice for entanglement, secondary to undergraduate; initial implementations reported; grade not stated.
+R0833	exclude	E4	O	no_abstract	No abstract; college writing course design; not quantum.
+R0834	exclude	E4	O	-	Conceptual Survey on Wave Optics with Austrian high-school students; classical optics.
+R0839	exclude	E4	O	preprint	Ethics and religious culture course jurisprudence; not quantum.
+R0840	exclude	E4	O	-	History of Danish school spaces; not quantum.
+R0841	uncertain	I4	P	-	Figshare deposit: Mach-Zehnder simulation for teaching quantum physics to high-school and university students; publication status unclear.
+R0842	exclude	E4	O	preprint	Gravitational waves teaching in high school; no quantum content.
+R0843	context	notI2-teacher	T	-	Survey of grades 4-12 teachers implementing QuanTime quantum activities.
+R0857	exclude	E4	O	no_abstract;preprint	No abstract; physical activity and premenstrual symptoms.
+R0866	exclude	E4	O	-	Teaching peace history; not quantum.
+R0878	exclude	E4	O	no_abstract;preprint	No abstract; parenting styles and self-control.
+R0896	exclude	E4	O	no_abstract;preprint;possible_duplicate	No abstract; code-switching in Ghanaian senior high schools.
+R0897	exclude	E4	O	-	Occupational stress of higher secondary teachers; not quantum.
+R0898	exclude	E4	O	no_abstract;preprint;possible_duplicate	No abstract; version of R0896; not quantum.
+R0900	context	E3	P	-	Review of research on teaching QM in secondary and lower undergraduate education (seed record).
+R0901	exclude	E4	O	thesis	Middle-school girls' future imaginings; not quantum.
+R0908	exclude	E4	O	no_abstract	No abstract; STEM undergraduate career readiness; not quantum.
+R0916	exclude	E4	O	no_abstract	No abstract; sleep interference of electronic media; not quantum.
+R0920	exclude	E4	O	-	Indigenous methodology 'entanglements'; not quantum.
+R0933	include	I1,I2,I4,I5;I3-ft	E	-	Questionnaire on quantum measurement in two-state contexts piloted with 120 and tested with 201 learners; grade not stated.
+R0934	exclude	E4	O	-	Digital artifacts 'entanglement' in secondary school; not quantum.
+R0935	context	E3	P	-	Analogy-based wave approach proposal for teaching QM in high school; no learner data.
+R0936	exclude	E4	O	thesis	Posthumanism and YPAR 'spooky entanglements'; not quantum.
+R0938	exclude	E4	O	no_abstract;preprint	No abstract; anti-immigration attitudes field experiment.
+R0954	exclude	E4	O	no_abstract	No abstract; parenting style and depression in junior high students.
+R0960	exclude	E4	O	-	First-year university students' use of classical wave theory of light.
+R0963	exclude	E4	O	no_abstract	No abstract; electrostatic polarisation models; classical.

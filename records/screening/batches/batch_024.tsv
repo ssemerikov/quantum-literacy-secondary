@@ -1,0 +1,40 @@
+R3908	uncertain	I1	D	no_abstract	No abstract; open-source hackable quantum sensor (retrieved by equity/education query); access or education focus undeterminable.
+R3909	uncertain	I4	D	no_abstract;preprint	No abstract; SSRN conceptual paper on quantum readiness governance for Cambodia (Global South).
+R3910	exclude	E4	O	-	FinTech in US and Nigerian banking; quantum computing only a keyword.
+R3911	include	C,I4,I5	D	-	STEM education for marginalised students via 6G and second quantum revolution topics; diversity and inclusion focus.
+R3912	exclude	E4	O	-	Intelligent libraries in the 5th industrial revolution; quantum listed.
+R3913	exclude	E4	O	-	Digital era tech footprints chapter; quantum listed.
+R3914	exclude	E4	O	-	Science in Indian national development; quantum listed.
+R3915	exclude	E4	O	-	Post-quantum blockchain for smart cities; not access to QT or education.
+R3916	exclude	E4	O	-	Web technologies and digital society; quantum listed.
+R3917	exclude	E4	O	no_abstract	No abstract; financial innovation in emerging markets.
+R3918	exclude	E4	O	-	Hyper-automation trends; quantum listed.
+R3919	exclude	E4	O	no_abstract;preprint	No abstract; Industry 5.0 human-centric innovation.
+R3920	exclude	E4	O	-	Computer science trends review; quantum listed.
+R3921	exclude	E4	O	no_abstract	No abstract; storytelling for TRIZ e-learning.
+R3922	exclude	E4	O	-	Generative AI in adaptive education; quantum listed.
+R3923	exclude	E4	O	-	Future of AI trends; quantum listed.
+R3924	exclude	E4	O	-	XAI in healthcare; quantum listed.
+R3925	exclude	E4	O	-	Smart universities in smart cities; quantum listed.
+R3926	exclude	E4	O	-	Data-driven healthcare; quantum listed.
+R3927	exclude	E4	O	-	AWS cloud services review; quantum listed.
+R3928	exclude	E4	O	non_english	Spanish newspaper piece on a vocational innovation centre; quantum listed.
+R3929	exclude	E4	O	-	Future health-care tools chapter; quantum listed.
+R3930	exclude	E4	O	-	AI book; quantum machine learning listed.
+R3931	exclude	E4	O	-	Academic libraries and AI; quantum listed.
+R3932	exclude	E4	O	-	Speculative philosophy book on quantum AI and consciousness.
+R3933	exclude	E4	O	-	Social policy and child poverty; quantum mentioned.
+R3934	exclude	E4	O	-	Fintech 5.0 in Indian industries; quantum listed.
+R3935	exclude	E4	O	-	Flexible RISC-V microprocessor; not quantum access.
+R3936	exclude	notI4	D	-	Speaker biography of Girls in Quantum founder; not a research publication.
+R3937	exclude	E4	O	-	Responsible AI in structural engineering; quantum mentioned.
+R3938	exclude	E4	O	-	Pharmaceutical AI book outline; quantum listed.
+R3939	exclude	E4	O	-	Customising engineering programmes; quantum listed.
+R3940	exclude	E4	O	-	Emerging technologies in finance; quantum listed.
+R3941	exclude	E4	O	-	Student privacy laws; quantum mentioned.
+R3942	exclude	E4	O	-	Digital practices for sustainable development; quantum listed.
+R3943	exclude	notI4	P	thesis	Doctoral thesis on quantum games, art and simulation tools; thesis type.
+R3944	exclude	E4	O	non_english	Post-capitalist epistemology book (Spanish); quantum era as theme.
+R3945	exclude	E4	O	-	Jurisprudence and emerging technologies; quantum listed.
+R3946	exclude	E4	O	-	Healthcare data intelligence review; quantum listed.
+R3947	exclude	E4	O	-	Nigerian secondary school effectiveness review; quantum listed.

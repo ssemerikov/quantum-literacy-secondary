@@ -1,0 +1,512 @@
+{
+ "generated_by": "tools/dedup_records.py (reads cached raw files only)",
+ "definitions": {
+  "meta_count": "total hits reported by the API (OpenAlex meta.count / ERIC numFound)",
+  "rows_retrieved": "result rows saved across pages (may include page-boundary duplicates)",
+  "unique_retrieved": "distinct source IDs saved for that run",
+  "total_retrieved": "sum of unique_retrieved over all 18 database runs + snowball works retained after the local pre-filter + 5 seed records",
+  "duplicates_removed": "total_retrieved - unique_records",
+  "unique_records": "rows in screening/records_dedup.csv",
+  "per_stream_unique": "unique records retrieved by at least one query of the stream group (A; B = B,B1-B5; C = C1,C2; SB; SEED)",
+  "unique_to_stream": "unique records retrieved only by that stream group",
+  "per_qid_unique_records_after_dedup": "unique records retrieved by query qid in ANY database (OpenAlex or ERIC), after deduplication",
+  "snowball": "SB works = backward references and forward citations of the 5 seeds that pass the local keyword pre-filter and the 2010-01-01..run-date window (search/snowball_prefilter.csv)"
+ },
+ "per_query": {
+  "OpenAlex": {
+   "A": {
+    "meta_count": 222,
+    "rows_retrieved": 222,
+    "unique_retrieved": 222,
+    "no_abstract_rows": 14,
+    "pages": 2,
+    "sha256_concat": "b5dc654cb7557f43d964dd148dc6df150b11076d17859e1e89368f055e26967e",
+    "run_date_utc": "2026-10-24"
+   },
+   "B": {
+    "meta_count": 2397,
+    "rows_retrieved": 2397,
+    "unique_retrieved": 2396,
+    "no_abstract_rows": 129,
+    "pages": 12,
+    "sha256_concat": "2e378c692eb5159f1ad0d1d485cc34e92206f31ed5fa680de28b35829cccedfb",
+    "run_date_utc": "2026-10-24"
+   },
+   "B1": {
+    "meta_count": 1842,
+    "rows_retrieved": 1842,
+    "unique_retrieved": 1842,
+    "no_abstract_rows": 89,
+    "pages": 10,
+    "sha256_concat": "d5b023bd9a500c17bdb8293619aa3ca6b3ad3ab23c211c9f5318b854a795a145",
+    "run_date_utc": "2026-10-24"
+   },
+   "B2": {
+    "meta_count": 1250,
+    "rows_retrieved": 1250,
+    "unique_retrieved": 1248,
+    "no_abstract_rows": 55,
+    "pages": 7,
+    "sha256_concat": "b1d031209fc315025ed4c576f935788841c628d1d7bbd542de85ec63c119a7fc",
+    "run_date_utc": "2026-10-24"
+   },
+   "B3": {
+    "meta_count": 27,
+    "rows_retrieved": 27,
+    "unique_retrieved": 27,
+    "no_abstract_rows": 3,
+    "pages": 1,
+    "sha256_concat": "9b8d425f426cd88ee6c9d3272a4b900f5d3c3a8422fb1d7d5d347de7bc055ab9",
+    "run_date_utc": "2026-10-24"
+   },
+   "B4": {
+    "meta_count": 437,
+    "rows_retrieved": 437,
+    "unique_retrieved": 437,
+    "no_abstract_rows": 24,
+    "pages": 3,
+    "sha256_concat": "de5df64a5b8aaa14ed46a245f0936f2db6d26edf41e4441169aa669d593fbef6",
+    "run_date_utc": "2026-10-24"
+   },
+   "B5": {
+    "meta_count": 67,
+    "rows_retrieved": 67,
+    "unique_retrieved": 67,
+    "no_abstract_rows": 7,
+    "pages": 1,
+    "sha256_concat": "94b7fc96913a25687faca87bf919e8c3327de83a5d68b7360b2ac87c81c9db96",
+    "run_date_utc": "2026-10-24"
+   },
+   "C1": {
+    "meta_count": 142,
+    "rows_retrieved": 142,
+    "unique_retrieved": 142,
+    "no_abstract_rows": 13,
+    "pages": 1,
+    "sha256_concat": "4300f3c5f3e76a86ea4f36873108ca1ce85a0612392e2c473cf6372a812b4655",
+    "run_date_utc": "2026-10-24"
+   },
+   "C2": {
+    "meta_count": 116,
+    "rows_retrieved": 116,
+    "unique_retrieved": 116,
+    "no_abstract_rows": 25,
+    "pages": 1,
+    "sha256_concat": "7283d22ba05fe9fb08ab11d92d1606ac1c11e743a433f55856d8ea4b49fa979d",
+    "run_date_utc": "2026-10-24"
+   }
+  },
+  "ERIC": {
+   "A": {
+    "numFound": 18,
+    "rows_retrieved": 18,
+    "unique_retrieved": 18,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "9aefbbef07c0de6de551ffa438a21c947d81989489e41e8f172753ad495f7436",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"quantum physics\" OR \"quantum mechanics\" OR \"quantum technology\" OR \"quantum technologies\" OR \"quantum information\" OR \"quantum computing\") OR description:(\"quantum physics\" OR \"quantum mechanics\" OR \"quantum technology\" OR \"quantum technologies\" OR \"quantum information\" OR \"quantum computing\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(curriculum OR framework OR competence OR competences OR \"key concepts\" OR Delphi) OR description:(curriculum OR framework OR competence OR competences OR \"key concepts\" OR Delphi)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B": {
+    "numFound": 312,
+    "rows_retrieved": 312,
+    "unique_retrieved": 312,
+    "no_abstract_rows": 0,
+    "pages": 2,
+    "sha256_concat": "a9e31c00887250c7e2570512b9497e12517b168886bd12b0534955c53fcb5ab5",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"superposition\" OR \"interference\" OR \"Mach-Zehnder\" OR \"single photon\" OR \"polarization\" OR \"polarisation\" OR \"entanglement\" OR \"teleportation\" OR \"BB84\" OR \"quantum key distribution\" OR \"quantum cryptography\" OR \"qubit\" OR \"quantum computing\" OR \"Dirac notation\" OR \"two-state\" OR \"quantum sensing\" OR \"quantum sensor\" OR \"atomic clock\" OR \"interferometer\") OR description:(\"superposition\" OR \"interference\" OR \"Mach-Zehnder\" OR \"single photon\" OR \"polarization\" OR \"polarisation\" OR \"entanglement\" OR \"teleportation\" OR \"BB84\" OR \"quantum key distribution\" OR \"quantum cryptography\" OR \"qubit\" OR \"quantum computing\" OR \"Dirac notation\" OR \"two-state\" OR \"quantum sensing\" OR \"quantum sensor\" OR \"atomic clock\" OR \"interferometer\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B1": {
+    "numFound": 143,
+    "rows_retrieved": 143,
+    "unique_retrieved": 143,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "bac34306e1121d54911f67ac385a0d264d6a9490dd38ebe409005f6c686cfa71",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"superposition\" OR \"interference\" OR \"Mach-Zehnder\" OR \"single photon\" OR \"polarization\" OR \"polarisation\") OR description:(\"superposition\" OR \"interference\" OR \"Mach-Zehnder\" OR \"single photon\" OR \"polarization\" OR \"polarisation\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B2": {
+    "numFound": 154,
+    "rows_retrieved": 154,
+    "unique_retrieved": 154,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "cdd9b192804c26e421d2d13c06bdae3071294863565f3e85319c5523a90d8987",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"entanglement\" OR \"teleportation\" OR \"Bell\") OR description:(\"entanglement\" OR \"teleportation\" OR \"Bell\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B3": {
+    "numFound": 4,
+    "rows_retrieved": 4,
+    "unique_retrieved": 4,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "9e178bc422185b782aae3edb2208633c231f8c47c8660ed8b2e7376bc8d881d6",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"BB84\" OR \"quantum key distribution\" OR \"quantum cryptography\") OR description:(\"BB84\" OR \"quantum key distribution\" OR \"quantum cryptography\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B4": {
+    "numFound": 136,
+    "rows_retrieved": 136,
+    "unique_retrieved": 136,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "89b8bb9d52db61f87835276faffeb5d6ac893d23782887180ff438c7b8fdd2b9",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"qubit\" OR \"quantum computing\" OR \"Dirac notation\" OR \"complex numbers\" OR \"two-state\") OR description:(\"qubit\" OR \"quantum computing\" OR \"Dirac notation\" OR \"complex numbers\" OR \"two-state\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "B5": {
+    "numFound": 3,
+    "rows_retrieved": 3,
+    "unique_retrieved": 3,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "35c282677ba06ac1f7f5f116256ac93d0277bfbe0c0c9180e7853529668963f1",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"quantum sensing\" OR \"quantum sensor\" OR \"atomic clock\" OR \"metrology\" OR \"interferometer\") OR description:(\"quantum sensing\" OR \"quantum sensor\" OR \"atomic clock\" OR \"metrology\" OR \"interferometer\")) AND (title:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\") OR description:(\"secondary school\" OR \"high school\" OR \"upper secondary\" OR \"lower secondary\" OR \"middle school\" OR \"K-12\" OR \"pre-university\")) AND (title:(students OR teaching OR learning OR course) OR description:(students OR teaching OR learning OR course)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "C1": {
+    "numFound": 4,
+    "rows_retrieved": 4,
+    "unique_retrieved": 4,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "5b4aee3ce29f67813d0d3a67ed53c64cec7b42b8b73226a69e6dac5c09679e3d",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"quantum technology\" OR \"quantum technologies\" OR \"quantum computing\") OR description:(\"quantum technology\" OR \"quantum technologies\" OR \"quantum computing\")) AND (title:(equity OR inclusion OR \"Global South\" OR divide OR divides OR democratization OR democratisation) OR description:(equity OR inclusion OR \"Global South\" OR divide OR divides OR democratization OR democratisation)) AND (title:(education OR workforce OR literacy) OR description:(education OR workforce OR literacy)) AND publicationdateyear:[2010 TO 2026]"
+   },
+   "C2": {
+    "numFound": 0,
+    "rows_retrieved": 0,
+    "unique_retrieved": 0,
+    "no_abstract_rows": 0,
+    "pages": 1,
+    "sha256_concat": "d03a6fc8797e5f99d54d02f9e301f2c7adb87e8aef2cef4e35ff19806cee42a8",
+    "run_date_utc": "2026-10-24",
+    "eric_string": "(title:(\"quantum divide\" OR \"quantum divides\") OR description:(\"quantum divide\" OR \"quantum divides\")) AND publicationdateyear:[2010 TO 2026]"
+   }
+  }
+ },
+ "per_qid_unique_records_after_dedup": {
+  "A": 224,
+  "B": 2520,
+  "B1": 1870,
+  "B2": 1328,
+  "B3": 27,
+  "B4": 533,
+  "B5": 68,
+  "C1": 144,
+  "C2": 114,
+  "SB": 125,
+  "SEED": 5
+ },
+ "total_retrieved": 7401,
+ "duplicates_removed": 3259,
+ "unique_records": 4142,
+ "unique_records_without_abstract": 203,
+ "merges_by_rule": {
+  "same_source_id": 3018,
+  "doi": 171,
+  "title_year": 70
+ },
+ "dedup_flags_not_merged": {
+  "same_title_year_different_doi": 30,
+  "same_title_different_year": 69,
+  "short_title_same_year_not_merged": 12
+ },
+ "per_stream_unique": {
+  "A": 224,
+  "B": 3698,
+  "C": 249,
+  "SB": 125,
+  "SEED": 5
+ },
+ "unique_to_stream": {
+  "A": 124,
+  "B": 3601,
+  "C": 237,
+  "SB": 44,
+  "SEED": 3
+ },
+ "per_db_unique": {
+  "OpenAlex_any": 3921,
+  "ERIC_any": 440,
+  "OpenAlex_only": 3702,
+  "ERIC_only": 221,
+  "both": 219
+ },
+ "snowball": {
+  "per_seed": {
+   "Donhauser2024": {
+    "openalex_id": "https://openalex.org/W4404993740",
+    "doi": "10.1103/physrevphyseducres.20.020601",
+    "referenced_works_listed": 83,
+    "backward_retrieved": 83,
+    "forward_meta_count": 20,
+    "filter_counts": {
+     "backward": {
+      "retrieved_unique": 83,
+      "kw_pass": 37,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 3,
+      "kw_pass_in_window": 34,
+      "kw_fail": 46,
+      "kw_fail_no_abstract": 6
+     },
+     "forward": {
+      "retrieved_unique": 20,
+      "kw_pass": 4,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 4,
+      "kw_fail": 16,
+      "kw_fail_no_abstract": 2
+     }
+    }
+   },
+   "KrijtenburgLewerissa2017": {
+    "openalex_id": "https://openalex.org/W2588853009",
+    "doi": "10.1103/physrevphyseducres.13.010109",
+    "referenced_works_listed": 96,
+    "backward_retrieved": 96,
+    "forward_meta_count": 242,
+    "filter_counts": {
+     "backward": {
+      "retrieved_unique": 96,
+      "kw_pass": 11,
+      "kw_pass_title_only": 1,
+      "kw_pass_pre2010": 6,
+      "kw_pass_in_window": 5,
+      "kw_fail": 85,
+      "kw_fail_no_abstract": 10
+     },
+     "forward": {
+      "retrieved_unique": 242,
+      "kw_pass": 90,
+      "kw_pass_title_only": 2,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 90,
+      "kw_fail": 152,
+      "kw_fail_no_abstract": 20
+     }
+    }
+   },
+   "Yusuf2025": {
+    "openalex_id": "https://openalex.org/W4413359652",
+    "doi": "10.1080/08993408.2025.2545915",
+    "referenced_works_listed": 89,
+    "backward_retrieved": 86,
+    "forward_meta_count": 5,
+    "filter_counts": {
+     "backward": {
+      "retrieved_unique": 86,
+      "kw_pass": 24,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 24,
+      "kw_fail": 62,
+      "kw_fail_no_abstract": 12
+     },
+     "forward": {
+      "retrieved_unique": 5,
+      "kw_pass": 2,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 2,
+      "kw_fail": 3,
+      "kw_fail_no_abstract": 0
+     }
+    }
+   },
+   "Meyer2026": {
+    "openalex_id": "https://openalex.org/W7170168340",
+    "doi": "10.1119/5.0306510",
+    "referenced_works_listed": 9,
+    "backward_retrieved": 9,
+    "forward_meta_count": 0,
+    "filter_counts": {
+     "backward": {
+      "retrieved_unique": 9,
+      "kw_pass": 0,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 0,
+      "kw_fail": 9,
+      "kw_fail_no_abstract": 0
+     },
+     "forward": {
+      "retrieved_unique": 0,
+      "kw_pass": 0,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 0,
+      "kw_fail": 0,
+      "kw_fail_no_abstract": 0
+     }
+    }
+   },
+   "Darienzo2024": {
+    "openalex_id": "https://openalex.org/W4406262069",
+    "doi": "10.1109/qce60285.2024.20464",
+    "referenced_works_listed": 14,
+    "backward_retrieved": 13,
+    "forward_meta_count": 6,
+    "filter_counts": {
+     "backward": {
+      "retrieved_unique": 13,
+      "kw_pass": 7,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 7,
+      "kw_fail": 6,
+      "kw_fail_no_abstract": 2
+     },
+     "forward": {
+      "retrieved_unique": 6,
+      "kw_pass": 3,
+      "kw_pass_title_only": 0,
+      "kw_pass_pre2010": 0,
+      "kw_pass_in_window": 3,
+      "kw_fail": 3,
+      "kw_fail_no_abstract": 1
+     }
+    }
+   }
+  },
+  "totals": {
+   "backward_unique_rows_sum": 287,
+   "forward_unique_rows_sum": 273,
+   "kw_pass_rows_sum": 178,
+   "retained_rows_sum": 169,
+   "retained_unique_works": 125,
+   "retained_unique_works_new_vs_database_queries": 44
+  },
+  "filter_rule": "normalise (lowercase; non-alphanumerics -> space) title+abstract and terms; retain if >=1 of ['quantum physics', 'quantum mechanics', 'quantum technology', 'quantum technologies', 'quantum information', 'quantum computing'] AND >=1 of ['secondary school', 'high school', 'upper secondary', 'lower secondary', 'middle school', 'k-12', 'pre-university'] (word-start prefix match), and publication_date within 2010-01-01..2026-10-24"
+ },
+ "seed_known_item_check": {
+  "Yusuf2025": {
+   "record_id": "R0254",
+   "openalex_id": "https://openalex.org/W4413359652",
+   "retrieved_by_queries": [
+    "B",
+    "B1",
+    "B2",
+    "B4",
+    "C1"
+   ]
+  },
+  "KrijtenburgLewerissa2017": {
+   "record_id": "R0900",
+   "openalex_id": "https://openalex.org/W2588853009",
+   "retrieved_by_queries": [
+    "B",
+    "B1",
+    "SB"
+   ]
+  },
+  "Donhauser2024": {
+   "record_id": "R4140",
+   "openalex_id": "https://openalex.org/W4404993740",
+   "retrieved_by_queries": []
+  },
+  "Darienzo2024": {
+   "record_id": "R4141",
+   "openalex_id": "https://openalex.org/W4406262069",
+   "retrieved_by_queries": []
+  },
+  "Meyer2026": {
+   "record_id": "R4142",
+   "openalex_id": "https://openalex.org/W7170168340",
+   "retrieved_by_queries": []
+  }
+ },
+ "quantum_term_hit": {
+  "definition": "true when the title or abstract of any source record merged into the unique record contains >= 1 of ['quantum physics', 'quantum mechanics', 'quantum technology', 'quantum technologies', 'quantum information', 'quantum computing', 'qubit', 'entanglement', 'bb84', 'quantum'] (lowercase; non-alphanumerics -> space; word-start prefix match). 'quantum' subsumes query A's first-block phrases. Computed by T1 for use by T2 as a documented automated pre-filter; T1 itself excludes nothing.",
+  "true": 860,
+  "false": 3282,
+  "false_without_abstract": 153,
+  "true_where_only_term_is_entanglement": 178,
+  "records_hitting_each_term": {
+   "quantum physics": 195,
+   "quantum mechanics": 186,
+   "quantum technology": 32,
+   "quantum technologies": 67,
+   "quantum information": 55,
+   "quantum computing": 226,
+   "qubit": 41,
+   "entanglement": 260,
+   "bb84": 5,
+   "quantum": 682
+  },
+  "by_stream_group": {
+   "A": {
+    "true": 219,
+    "false": 5
+   },
+   "B": {
+    "true": 425,
+    "false": 3273
+   },
+   "C": {
+    "true": 243,
+    "false": 6
+   },
+   "SB": {
+    "true": 125,
+    "false": 0
+   },
+   "SEED": {
+    "true": 5,
+    "false": 0
+   }
+  },
+  "by_qid": {
+   "A": {
+    "true": 219,
+    "false": 5
+   },
+   "B": {
+    "true": 416,
+    "false": 2104
+   },
+   "B1": {
+    "true": 105,
+    "false": 1765
+   },
+   "B2": {
+    "true": 250,
+    "false": 1078
+   },
+   "B3": {
+    "true": 27,
+    "false": 0
+   },
+   "B4": {
+    "true": 137,
+    "false": 396
+   },
+   "B5": {
+    "true": 14,
+    "false": 54
+   },
+   "C1": {
+    "true": 139,
+    "false": 5
+   },
+   "C2": {
+    "true": 113,
+    "false": 1
+   },
+   "SB": {
+    "true": 125,
+    "false": 0
+   },
+   "SEED": {
+    "true": 5,
+    "false": 0
+   }
+  }
+ }
+}

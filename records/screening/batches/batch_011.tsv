@@ -1,0 +1,40 @@
+R0966	exclude	notI4	P	possible_duplicate	SIGCSE workshop abstract on quantum abacus for teaching quantum algorithms; related paper R1029.
+R0975	context	E3	P	-	Conceptual article on teaching quantum nonlocality for high-school and college teachers; no learner data.
+R0983	exclude	E4	O	no_abstract	No abstract; ICT training transfer among secondary teachers; not quantum.
+R0994	exclude	E4	O	no_abstract;preprint	No abstract; language-learning motivation; not quantum.
+R0997	context	E3	P	-	Approach to quantum formalism for first-year undergraduates and high-school students; no learner data.
+R1006	exclude	E4	O	-	Clinical case report of a high-school athlete.
+R1016	exclude	notI2	P	-	Physics Today commentary on teaching quantum concepts; tertiary examples, no school level.
+R1018	exclude	E4	O	no_abstract	No abstract; iPads in inclusive classrooms.
+R1020	exclude	E4	O	thesis	Adult high-school re-entry rhizomatic study; not quantum.
+R1027	exclude	E4	O	-	Mathematics assessment 'entanglements'; not quantum.
+R1029	uncertain	I2	P	possible_duplicate	Quantum abacus rewriting system for teaching quantum algorithms to novices; target level not stated.
+R1030	exclude	E4	O	no_abstract	No abstract; pseudohomophone interference in language learners.
+R1031	exclude	E4	O	-	Posthuman pedagogy 'entanglement'; not quantum.
+R1039	exclude	E4	O	-	Editorial on great teaching in food science; not quantum.
+R1042	exclude	E1	P	preprint	First-year university course in quantum information science.
+R1050	exclude	E4	O	no_abstract	No abstract; language interference in multilingual classrooms.
+R1051	exclude	E4	O	thesis	Sex and gender in health and physical education; not quantum.
+R1052	include	I1,I2,I4,I5;I3-ft	E	-	Analog models (single-photon polarisation, Hardy experiments) for secondary and university classrooms; trial use implied; grade not stated.
+R1053	exclude	E4	O	-	Posthuman physical education analysis; not quantum.
+R1054	exclude	E4	O	-	Astronomical interferometry demonstrations; classical optics.
+R1055	exclude	E4	O	-	Data literacy and emotion 'entanglements'; not quantum.
+R1056	exclude	E4	O	no_abstract;preprint	No abstract; political polarisation and education funding.
+R1063	exclude	E4	O	-	Embodied argumentation 'entanglements' in science class; not quantum.
+R1069	exclude	E4	O	thesis	Eco-schools club participation; not quantum.
+R1070	exclude	E4	O	no_abstract	No abstract; pre-service teachers and evolution teaching.
+R1073	exclude	notI4	E	-	Conference abstract on phasor wheels with trials on students aged 14-15 (Einstein-First).
+R1074	exclude	E4	O	no_abstract;preprint	No abstract; union-government negotiations in Nigerian schools.
+R1079	exclude	E4	O	thesis	Music education and cultural hegemony; not quantum.
+R1084	context	E3	P	-	Classroom analogies for teaching light and electron diffraction (wave nature of particles) to upper-secondary students; no learner data.
+R1097	exclude	E4	O	-	Collaborative music teaching 'entanglements'; not quantum.
+R1101	include	I1,I2,I4,I5;I3-ft	E	-	Ant-Man themed QM activities with high-school students; analysis of student responses; grade not stated.
+R1105	exclude	E4	O	thesis	Social studies rephotography 'entanglements'; not quantum.
+R1114	exclude	notI4	P	-	Conference abstract on entangled-dice project-based QISE learning.
+R1116	exclude	E4	O	-	English listening test impact on teachers; not quantum.
+R1117	exclude	E4	O	thesis	Gendered school spaces in Eswatini; not quantum.
+R1119	exclude	E4	O	-	Sexuality education and new materialism; not quantum.
+R1122	exclude	E4	O	-	Solar radio burst monitoring at high schools; not quantum.
+R1128	exclude	E4	O	-	Book review on music education and religion; not quantum.
+R1129	exclude	E4	O	-	Book review on Hawthorne criticism; not quantum.
+R1130	exclude	E4	O	no_abstract	No abstract; child anxiety scale; not quantum.

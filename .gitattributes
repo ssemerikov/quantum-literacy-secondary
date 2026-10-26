@@ -1,0 +1,6 @@
+*.csv text eol=lf
+*.tsv text eol=lf
+*.md text eol=lf
+*.tex text eol=lf
+*.pdf binary
+*.xlsx binary

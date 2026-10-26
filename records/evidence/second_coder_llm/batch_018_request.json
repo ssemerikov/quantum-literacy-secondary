@@ -1,0 +1,44 @@
+{
+ "model": "nemotron-3-ultra:cloud",
+ "stream": false,
+ "options": {
+  "temperature": 0,
+  "seed": 20261025
+ },
+ "format": {
+  "type": "object",
+  "properties": {
+   "items": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "properties": {
+      "item_id": {
+       "type": "string"
+      },
+      "cluster": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "item_id",
+      "cluster"
+     ]
+    }
+   }
+  },
+  "required": [
+   "items"
+  ]
+ },
+ "messages": [
+  {
+   "role": "system",
+   "content": "You are coding items for a research synthesis on quantum physics and quantum technology education. In an earlier stage you gave each item a short label describing what it is about. Now assign each item to exactly one of the candidate clusters listed below, or to \"none\" if no cluster fits. Decide from the item text and your own label. Choose the cluster whose subject matter the item shares; do not try to guess what any other coder did.\n\nCandidate clusters:\nK01 Quantum principles and phenomena: Fundamental principles of quantum physics and the phenomena and experiments in which they show themselves.\nK02 Mathematical representations: Mathematical descriptions and formalisms used to represent quantum states, their change over time and the outcomes of measurements.\nK03 Atoms, light and matter: Quantum physics of atoms, of light and its interaction with matter, and of the structure and properties of matter and materials.\nK04 Particle and nuclear physics: Subatomic particles, atomic nuclei and the processes they undergo.\nK05 Quantum information and qubits: Information represented and processed in quantum systems, with the qubit as its basic unit.\nK06 Quantum computing and simulation: Computation and simulation performed with quantum systems, including quantum computers, their operations, algorithms and applications.\nK07 Quantum communication and cryptography: Transmission and protection of information using quantum systems, and cryptography in a quantum context.\nK08 Quantum sensing and metrology: Measurement, sensing and timekeeping that exploit quantum systems, and the standards of measurement.\nK09 Qubit hardware platforms: The physical systems and engineering used to realise, control and scale qubits.\nK10 Quantum devices and enabling technologies: Devices whose operation relies on quantum physics, and the technologies and techniques used to build and run quantum technologies.\nK11 Valorisation and societal impact: Economic, business, societal and ethical aspects of quantum technologies and their communication to the public.\nK12 Nature, history and philosophy of quantum physics: How quantum physics developed, how it is interpreted, and what it shows about the nature of science.\nK13 Practices: Activities that learners carry out, such as programming, simulation, experimentation and building.\n\nReturn only JSON of the form {\"items\": [{\"item_id\": \"...\", \"cluster\": \"K01\"}]}, where cluster is one of K01, K02, K03, K04, K05, K06, K07, K08, K09, K10, K11, K12, K13 or none, with exactly one entry for every input item and no other text.\n"
+  },
+  {
+   "role": "user",
+   "content": "{\n \"instruction\": \"Assign each item to one candidate cluster or \\\"none\\\", using the item text and your own label. Return JSON only.\",\n \"items\": [\n  {\n   \"item_id\": \"S4-098\",\n   \"source_id\": \"S4\",\n   \"source_type\": \"multi-stakeholder study of key concepts and illustrations for secondary-school quantum physics\",\n   \"item_text\": \"NV-center\",\n   \"locator\": \"Table 8g (online table 25, image Tab25.png), row 3, column PR; PDF page not available\",\n   \"your_label\": \"NV-center\"\n  },\n  {\n   \"item_id\": \"S5-085\",\n   \"source_id\": \"S5\",\n   \"source_type\": \"expert Delphi study on secondary-school quantum physics\",\n   \"item_text\": \"Topological effects\",\n   \"locator\": \"Table IV, row 23 (Appendix, p.020157-11)\",\n   \"your_label\": \"Topological effects\"\n  },\n  {\n   \"item_id\": \"S4-011\",\n   \"source_id\": \"S4\",\n   \"source_type\": \"multi-stakeholder study of key concepts and illustrations for secondary-school quantum physics\",\n   \"item_text\": \"Mathematical foundations\",\n   \"locator\": \"Table 2, row 11 (key concepts)\",\n   \"your_label\": \"Mathematical foundations\"\n  },\n  {\n   \"item_id\": \"S3-004\",\n   \"source_id\": \"S3\",\n   \"source_type\": \"expert Delphi study on key topics for secondary-school quantum mechanics\",\n   \"item_text\": \"Energy levels and quantisation\",\n   \"locator\": \"Table 6 (p.358), Concepts column\",\n   \"your_label\": \"Energy levels and quantisation\"\n  },\n  {\n   \"item_id\": \"S3-041\",\n   \"source_id\": \"S3\",\n   \"source_type\": \"expert Delphi study on key topics for secondary-school quantum mechanics\",\n   \"item_text\": \"Magnetism\",\n   \"locator\": \"Table 6 (p.358), Examples column\",\n   \"your_label\": \"Magnetism\"\n  },\n  {\n   \"item_id\": \"S5-092\",\n   \"source_id\": \"S5\",\n   \"source_type\": \"expert Delphi study on secondary-school quantum physics\",\n   \"item_text\": \"Comparison to current cryptography technologies\",\n   \"locator\": \"Table V, row 4 (Appendix, p.020157-12)\",\n   \"your_label\": \"Comparison to current cryptography technologies\"\n  },\n  {\n   \"item_id\": \"S3-042\",\n   \"source_id\": \"S3\",\n   \"source_type\": \"expert Delphi study on key topics for secondary-school quantum mechanics\",\n   \"item_text\": \"Orbitals\",\n   \"locator\": \"Table 6 (p.358), Examples column\",\n   \"your_label\": \"Orbitals\"\n  },\n  {\n   \"item_id\": \"S2-004\",\n   \"source_id\": \"S2\",\n   \"source_type\": \"US list of key concepts for future learners of quantum information science\",\n   \"item_text\": \"Quantum information science has already produced and enhanced high-impact technologies such as the Global Positioning System (GPS), which depends on the extreme precision of atomic clocks based on the quantum states of atoms.\",\n   \"locator\": \"Key Concepts with Supporting Fundamentals p.3, fundamental 1c\",\n   \"your_label\": \"Atomic clocks\"\n  },\n  {\n   \"item_id\": \"S1-009\",\n   \"source_id\": \"S1\",\n   \"source_type\": \"European competence framework for the quantum-technology workforce (content map)\",\n   \"item_text\": \"Optical technologies\",\n   \"locator\": \"CFQT v3.0 content map p.5, subdomain 3.3; topics p.8\",\n   \"context_topics_listed_under_this_subdomain\": \"Classical optics | Lasers | Single photon sources | Single photon detectors and cameras | Photonics, fibres\",\n   \"your_label\": \"Optical technologies\"\n  },\n  {\n   \"item_id\": \"S5-002\",\n   \"source_id\": \"S5\",\n   \"source_type\": \"expert Delphi study on secondary-school quantum physics\",\n   \"item_text\": \"Inner products\",\n   \"locator\": \"Table III, row 2 (Appendix, p.020157-10)\",\n   \"your_label\": \"Inner products\"\n  }\n ]\n}"
+  }
+ ]
+}

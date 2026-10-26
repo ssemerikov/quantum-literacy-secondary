@@ -1,0 +1,40 @@
+R0201	exclude	E4	O	-	Digital content policy in K-12; quantum mentioned only in passing.
+R0202	exclude	notI5	T	non_english	Spanish-language report on training teachers for secondary quantum physics.
+R0203	exclude	E4	O	preprint	Speculative vortex unification theory; not education.
+R0204	exclude	E4	O	-	Obituary of a physicist.
+R0205	exclude	E4	O	preprint	Speculative derivation of fine-structure constant; not education.
+R0206	exclude	E4	O	preprint	Speculative unification framework; not education.
+R0207	exclude	E4	O	-	Podcast notes on children's reading levels; not quantum education.
+R0208	exclude	E4	O	-	Editorial on literacy communities; quantum mentioned in passing.
+R0209	exclude	notI5	E	non_english;thesis	Spanish-language doctoral thesis on Feynman-approach QM sequence with Colombian final-year students.
+R0210	exclude	E4	O	no_abstract;preprint	No abstract; title on deep learning and innovation; not quantum education.
+R0211	exclude	E4	O	non_english	Teachers' 'quantum skills' as a management metaphor; not quantum physics education.
+R0212	exclude	E4	O	-	Speculative cosmic energy theory repository; not education.
+R0213	exclude	E4	O	-	Editorial on digital health governance; not quantum education.
+R0214	exclude	E4	O	-	Reference list of an edited book; not quantum education.
+R0215	exclude	E4	O	no_abstract	No abstract; biographical article in Current Biology; not quantum education.
+R0216	exclude	E4	O	-	Astronomer's memoir; not quantum education.
+R0217	exclude	E4	O	-	Book index; not quantum education.
+R0218	exclude	E4	O	-	Magazine article on the Oppenheimer brothers; not education.
+R0219	exclude	E4	O	-	Book listings; not quantum education.
+R0220	exclude	E4	O	-	Character development commentary using quantum metaphor.
+R0222	include	I1,I2,I4,I5;I3-ft	E	-	Quasi-experiment with heralded-photon course, preuniversity students in German secondary schools (N=150 vs 130); grade not stated.
+R0223	include	I1-I5	E	possible_duplicate	Quantum spin activity sequence for Years 6-10 with student feedback (Teaching Science journal); published version of R0136.
+R0224	exclude	E4	O	thesis	Superintendents' views on 1:1 device initiatives; quantum computing only listed.
+R0225	include	I1,I2,I4,I5;I3-ft	E	-	Single-photon Mach-Zehnder activity performed with high-school students and teachers; learner data not stated.
+R0226	context	E3	P	-	Design of upper-secondary TLS with reduced Dirac notation and photon experiments; no learner data.
+R0227	include	I1,I2,I4,I5;I3-ft	E	-	Quantum computing materials on teleportation, pilot with small sample of secondary students; grade not stated.
+R0228	include	I1-I5	E	-	Quantum computing course trialled with high-school students aged 15-18.
+R0230	include	I1,I2,I4,I5;I3-ft	E	-	Hands-on BB84 workshop for pre-university students; grade not stated.
+R0231	exclude	notI4	P	-	Talk abstract on teaching quantum computing in high school (repository item).
+R0232	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Experience report of quantum computing workshops for high-school students; related to R0234.
+R0233	exclude	notI4	F	-	Conference abstract presenting K-12 quantum computing learning trajectories.
+R0234	include	I1-I5	E	possible_duplicate	Quantum computing workshops for youth in grades 9-12; unplugged and Qiskit activities; related to R0232.
+R0235	exclude	E4	O	-	Language learning and dance 'entanglements'; not quantum education.
+R0236	uncertain	I3	P	no_abstract	No abstract; portable hands-on exhibits on entanglement and superposition for secondary students; study type unclear.
+R0237	include	I1,I2,I4,I5;I3-ft	E	-	I SEE quantum computing module designed and implemented with high-school students; grade not stated.
+R0238	include	I1,I2,I4,I5;I3-ft	E	-	Lower-secondary students' thinking with light polarisation and state circle; grade not stated.
+R0239	context	E3	P	-	Lesson plan for QKD with demonstration kit for high school; no learner data.
+R0240	uncertain	I4	P	possible_duplicate	Report: one-week quantum computing module for students aged 15-18; report type; related to R0228.
+R0241	include	I1,I2,I4,I5;I3-ft	E	-	Acceptance survey interviews (N=14) on reduced Dirac notation for secondary students; grade not stated.
+R0242	include	I1,I2,I4,I5;I3-ft	E	-	Pilot of full-year optics-based high-school quantum computing course; grade not stated.

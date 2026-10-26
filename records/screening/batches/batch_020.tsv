@@ -1,0 +1,40 @@
+R2522	exclude	E4	O	-	Review of NIH toolbox assessments; not quantum.
+R2523	exclude	E4	O	no_abstract	No abstract; public communication of science.
+R2525	exclude	E4	O	-	American Jewish literature article; not quantum.
+R2528	exclude	E4	O	-	Auditory dysfunction after mild TBI; not quantum.
+R2531	exclude	E4	O	-	Cancer pain pharmacotherapy update; not quantum.
+R2533	exclude	E4	O	-	Genetics services in Slovakia; not quantum.
+R2537	exclude	E4	O	-	Indigenous migration essay; 'blood quantum' unrelated.
+R2538	exclude	E4	O	-	Interview with a novelist; not quantum.
+R2540	exclude	E4	O	-	Student responses to a play; not quantum.
+R2546	exclude	E4	O	-	Pediatric orthopaedics update; not quantum.
+R2547	uncertain	I4	E	-	ERIC meeting paper: experience teaching quantum computing at graduate level and modules in high schools; non-journal document.
+R2569	exclude	E4	O	-	Outdoor education material-discursive entanglements; not quantum.
+R2575	exclude	E4	O	-	Physics internships article; quantum only mentioned.
+R2622	exclude	E4	O	thesis	VR in English classroom dissertation; not quantum.
+R2652	exclude	E4	O	-	Gun-Free Schools Act effects; not quantum.
+R2656	exclude	E4	O	thesis	Transnational teacher educators dissertation; not quantum.
+R2672	exclude	E4	O	thesis	Student disciplinary engagement in middle-school science (evolution); not quantum.
+R2685	exclude	E4	O	no_abstract	No abstract; school bell schedules.
+R2686	uncertain	I3	P	no_abstract	No abstract; 'Bell (1964) revisited for high-school STEM students'; study type undeterminable.
+R2707	exclude	E4	O	no_abstract;preprint	No abstract; K-12 education and automation.
+R2708	exclude	E4	O	no_abstract;preprint	No abstract; student internet speech law.
+R2714	exclude	E4	O	no_abstract;thesis	No abstract; leadership of high-school females in service learning.
+R2735	exclude	E4	O	no_abstract	No abstract; breakfast after the bell programme.
+R2777	exclude	E4	O	no_abstract;preprint	No abstract; card game for the periodic table.
+R2812	exclude	E4	O	-	Experiential learning in agricultural education; not quantum.
+R2832	exclude	E4	O	no_abstract	No abstract; predictors of middle-school science achievement.
+R2845	exclude	E4	O	no_abstract;preprint	No abstract; student speech law.
+R2859	exclude	E4	O	-	School integration memoir; not quantum.
+R2864	exclude	E4	O	-	Laser lab high-school research programme reports archive; not quantum education.
+R2925	exclude	E4	O	-	Teacher reflection on improvisation; not quantum.
+R2992	exclude	E4	O	-	Tribute to a polymer chemist; not quantum.
+R2993	exclude	E4	O	no_abstract;preprint	No abstract; school infrastructure in Italy.
+R2998	exclude	E4	O	no_abstract	No abstract; argumentation in school science; no quantum focus evident.
+R2999	exclude	E4	O	non_english	Arduino laser musical instrument for a middle school; not quantum.
+R3012	exclude	E4	O	no_abstract	No abstract; student sleep surveys.
+R3097	exclude	E4	O	no_abstract	No abstract; biography of a statistician.
+R3131	exclude	E4	O	no_abstract	No abstract; nutrition education.
+R3132	exclude	E4	O	no_abstract	No abstract; school wellness policies.
+R3148	exclude	E4	O	-	Character development assessment; not quantum.
+R3152	exclude	E4	O	no_abstract;preprint	No abstract; school cell-phone bans.

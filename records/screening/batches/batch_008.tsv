@@ -1,0 +1,40 @@
+R0325	exclude	E4	O	-	Ansys simulation of Young's double-slit for classical wave optics; no quantum content.
+R0328	include	I1,I2,I4,I5;I3-ft	E	-	Retention of single-photon double-slit demonstration: test of 68 secondary students and interviews; grade not stated.
+R0330	context	E3	P	-	Chapter on phasor-wheel Feynman path approach for middle and high-school students; no learner data.
+R0333	exclude	E4	O	-	Polarisation photo contest outreach in high schools; classical optics.
+R0335	exclude	notI4	E	-	Conference abstract (talk) on high-school quantum research mentorship programme.
+R0338	exclude	E4	O	-	Curriculum theorising 'entanglements' memoir; not quantum education.
+R0340	context	E3	P	-	Selection of cloud quantum computing platform for specialised (high) school quantum informatics; no learner data.
+R0341	exclude	E4	O	-	Constructivist teaching of classical double-slit light interference.
+R0342	exclude	E4	O	no_abstract	No abstract; mother-tongue interference in EFL learning.
+R0343	exclude	E4	O	no_abstract	No abstract; water wave interference analogy for middle school; classical.
+R0348	context	E3	P	-	Inexpensive QKD demonstration with cellophane waveplates for K-12 and non-physics students; no learner data.
+R0349	uncertain	I4	P	-	Open-access textbook on quantum computing usable from high school to college; whole book.
+R0353	include	I1,I2,I4,I5	F	-	Norwegian upper-secondary teachers' chosen QP learning goals (N=30 survey, 4 interviews); curriculum-content study.
+R0354	exclude	E4	O	-	High-school inquiry on beetle shell circular polarisation; classical optics.
+R0363	include	I1,I2,I4,I5;I3-ft	E	-	Pilot study of AI quiz-based QC learning platform with high-school and undergraduate students; grade not stated.
+R0368	include	I1,I2,I4,I5;I3-ft	E	-	Feynman path-integral sequence implemented in high school with results; grade not stated in shown text.
+R0373	uncertain	I4	P	-	Textbook on quantum computing for undergraduate and upper-secondary students; whole book.
+R0379	exclude	E1	O	-	Oracle-enhanced quantum computing MOOC for workforce and post-secondary learners.
+R0384	context	E3	P	-	Doctoral research proposal on quantum informatics for middle school; no data yet.
+R0387	include	I1-I5	E	-	Polarisation-based QM programme with two final-year Italian scientific high-school classes; tutorials and questionnaires.
+R0388	exclude	E4	O	no_abstract	No abstract; sound interference props for senior high school; classical waves.
+R0397	uncertain	I2	E	no_abstract;preprint	No abstract; EduQubit learning environment for novice learners; level not determinable.
+R0398	exclude	E4	O	no_abstract	No abstract; language interference in writing; not quantum.
+R0414	exclude	E4	O	-	Nutrition policy 'entanglements' of sex and gender; not quantum.
+R0416	context	E3	P	-	Analogy between musical instruments and quantum concepts for secondary teaching; no learner data.
+R0418	exclude	notI4	P	-	SIGCSE conference abstract on accessible quantum computing teaching for K-12 and university.
+R0419	exclude	E1	P	-	Undergraduate textbook on quantum computing with linear algebra.
+R0422	exclude	E4	O	-	Drama education and mental health; not quantum.
+R0433	exclude	E4	O	-	Cryptography and cybersecurity XR animations; post-quantum cryptography one of several topics.
+R0434	exclude	E4	O	no_abstract	No abstract; secondary teachers' learning cartographies; no quantum focus evident.
+R0444	exclude	E4	O	no_abstract	No abstract; parental over-interference and achievement; not quantum.
+R0466	uncertain	I4	E	preprint	arXiv preprint: ZX-diagram teleportation intervention with upper-secondary students and pre-service teachers (n=21).
+R0467	context	E3	P	-	Desktop NMR quantum computer for K-12 and college education; system description, no learner data.
+R0468	exclude	E4	O	no_abstract	No abstract; collection of high-school students' works on disruptive technologies; not quantum education research.
+R0478	include	I1,I2,I4,I5;I3-ft	E	-	Light-polarisation QM path with 126 secondary students, pre/post tests; grade not stated.
+R0479	exclude	E4	O	-	Ritual in Norwegian folk high schools; not quantum.
+R0481	context	E3	P	-	Compilation of K-12 quantum computing educational resources; no learner data reported.
+R0483	include	I1,I2,I4,I5;I3-ft	E	-	Dirac-approach QM with 24 Hungarian high-school students; tests and interviews; grade not stated.
+R0487	context	E3	P	-	Approach and random-walk algorithm activity for second quantum revolution in secondary school; no learner data.
+R0493	include	I1,I2,I4,I5;I3-ft	E	-	Quantum chess workshop for high-school chemistry students with pre/post assessments; grade not stated.

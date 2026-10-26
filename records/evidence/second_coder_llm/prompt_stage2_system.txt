@@ -1,0 +1,6 @@
+You are coding items for a research synthesis on quantum physics and quantum technology education. In an earlier stage you gave each item a short label describing what it is about. Now assign each item to exactly one of the candidate clusters listed below, or to "none" if no cluster fits. Decide from the item text and your own label. Choose the cluster whose subject matter the item shares; do not try to guess what any other coder did.
+
+Candidate clusters:
+{CLUSTERS}
+
+Return only JSON of the form {"items": [{"item_id": "...", "cluster": "K01"}]}, where cluster is one of K01, K02, K03, K04, K05, K06, K07, K08, K09, K10, K11, K12, K13 or none, with exactly one entry for every input item and no other text.

@@ -1,0 +1,40 @@
+R0121	include	I1,I2,I4,I5;I3-ft	E	-	EdQuantum quantum optics curriculum piloted with technicians and high-school students; proceedings paper; grade not stated.
+R0122	context	E3	P	-	Feynman path-integral proposal for teaching light; implementation with 15-16-year-olds under way, no results reported.
+R0123	exclude	E4	O	-	LED content analysis for high-school STEM; quantum physics one of several concepts, not a focus.
+R0124	exclude	E4	O	non_english	Physics relevance in a university dental curriculum; not quantum education.
+R0125	include	I1-I5	E	possible_duplicate	Einstein-First curriculum Years 3-10 (ages 7-16), 315 students; quantum and relativity learning outcomes. Kept over preprint R0126.
+R0126	exclude	DUP	E	preprint;possible_duplicate	arXiv preprint of R0125 (Einstein-First Part A); published version in set.
+R0127	include	I1,I2,I4,I5	F	-	Competency framework for quantum literacy in secondary education with equity focus (Sustainable Futures).
+R0128	exclude	E4	O	preprint	Speculative unified physics framework; not education.
+R0129	context	notI2-teacher	T	-	Einstein-First Part B: upskilling of in-service primary and secondary teachers.
+R0130	include	I1,I2,I4,I5;I3-ft	E	-	Dutch upper-secondary students' mental models of waves and particles (N=147); no specific grade.
+R0131	exclude	notI4	P	-	Editorial for a research topic on responsible research and innovation in quantum science; editorial type.
+R0132	exclude	notI5	F	non_english	Spanish-language analysis of Chilean national curriculum for quantum literacy.
+R0133	include	I1,I2,I4,I5	F	-	Multi-stakeholder study (N=39) of core QP concepts and illustrations for secondary level.
+R0134	exclude	notI5	F	non_english;thesis	Swedish-language thesis analysing Gy2011 physics syllabi for quantum foundations.
+R0135	exclude	E1	F	-	EdQuantum technician curriculum at associate (tertiary) level; high school only as awareness aside.
+R0136	uncertain	I4	E	preprint	arXiv preprint: quantum spin activity sequence for Years 6-10 with student feedback; no published version in set.
+R0137	context	E3	P	-	Phasor-wheel tool for teaching QED path sums to middle and upper secondary students; no learner data.
+R0138	exclude	DUP	E	preprint;possible_duplicate	Preprint of the study published as R0097 (78 secondary students, QKD presentations); R0097 kept.
+R0139	include	I1-I5	E	-	Croatian State Matura physics results (final grade) analysed for modern physics concept understanding.
+R0140	exclude	notI5	P	non_english	Portuguese-language analysis of didactic transposition of quantum mechanics for middle school.
+R0141	uncertain	I4	E	preprint;possible_duplicate	arXiv preprint: Quantum Picturalism experiment with 54 high-school students aged 16-18; related to R0110.
+R0142	exclude	notI5	E	non_english;thesis	Dutch-language thesis on blended quantum masterclass piloted with six vwo-5 students.
+R0143	context	notI2-teacher	T	-	IDIFO in-service teacher education on modern physics with research-based proposals.
+R0144	include	I1,I2,I4,I5;I3-ft	E	-	Survey of 116 secondary students on photon model and quantum optics understanding; grade not stated.
+R0145	uncertain	I4	E	preprint	arXiv preprint: quantum hackathon for underrepresented high-school students in Nova Scotia; student feedback.
+R0146	exclude	E4	O	-	Magnetostatics task classification; quantum mentioned only as possible extension.
+R0147	exclude	E1	O	-	Engineering electromagnetics teaching of orbital and spin magnetism; tertiary course.
+R0148	uncertain	I4	F	preprint;possible_duplicate	OSF preprint: concept-map evaluation of modern physics textbooks incl. high school; kept over version copy R0150.
+R0149	include	I1,I2,I4,I5;I3-ft	E	-	Elementarised quantum algorithms tested with self-selected Italian secondary students; grade not stated.
+R0150	exclude	DUP	F	preprint;possible_duplicate	OSF version copy of R0148; R0148 kept.
+R0151	context	E3	P	-	Theoretical framework on affect and conceptualisation in high-school QM teaching (Feynman paths); no learner data shown.
+R0152	exclude	notI5	E	non_english;thesis	Croatian-language diploma thesis on interactive modern physics teaching materials.
+R0153	exclude	E4	O	preprint	High-school student's critique of many-worlds interpretation; not education.
+R0154	exclude	E4	O	-	Pre-service teacher research experience across industries of the future; QIS one of five fields.
+R0155	exclude	E4	O	-	Cryptography awareness of gifted students aged 13-17; quantum cryptography a minor element.
+R0156	uncertain	I4	E	preprint	arXiv preprint: QKD optical-analogy kit with workshop feedback from high-school and undergraduate students.
+R0157	exclude	E4	O	-	Mathematics textbook for physics undergraduates; not quantum education.
+R0158	exclude	E1	E	-	Physics teacher candidates (university) and PhET photoelectric effect.
+R0159	exclude	E4	O	-	Review on oscillations, sound and waves; quantum only as later extension.
+R0160	exclude	notI5	P	non_english	Spanish-language Feynman-approach sequence on light for high school.

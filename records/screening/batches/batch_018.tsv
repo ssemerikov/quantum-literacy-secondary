@@ -1,0 +1,40 @@
+R2321	exclude	E4	O	no_abstract	No abstract; biographical profile; not quantum.
+R2325	exclude	E4	O	-	Life-friendly art education; not quantum.
+R2334	exclude	E4	O	-	Teacher evaluations and affect; not quantum.
+R2348	exclude	E4	O	thesis	Secondary music teacher autoethnography; not quantum.
+R2349	exclude	E4	O	-	Obituary of a condensed-matter physicist.
+R2351	exclude	E4	O	no_abstract;preprint	No abstract; protein solubility predictors.
+R2359	exclude	E4	O	-	Political economy of education reform; not quantum.
+R2360	exclude	E4	O	-	Cell phone bans in schools; not quantum.
+R2361	exclude	E4	O	thesis	Eco-translation dissertation; not quantum.
+R2371	exclude	E4	O	-	Public administration editorial; not quantum.
+R2380	exclude	E4	O	thesis	Collaborative writing in a school musical; not quantum.
+R2386	exclude	E4	O	no_abstract	No abstract; biographical profile.
+R2387	exclude	E4	O	-	Review on public purpose of higher education; not quantum.
+R2388	exclude	E4	O	-	Interview on NMR career; not education research.
+R2390	exclude	E4	O	-	Obituary of an astronomer.
+R2391	exclude	E4	O	-	Guest editors' introduction on art education; not quantum.
+R2394	exclude	E4	O	-	Filipino youths in Canada; not quantum.
+R2395	exclude	E4	O	-	Journal contributors list; not quantum.
+R2396	exclude	E4	O	-	Book review on apartheid prisons; not quantum.
+R2398	exclude	E4	O	-	Editorial on queer trauma narratives; not quantum.
+R2400	exclude	E4	O	-	Book review on education and security state in Pakistan; not quantum.
+R2404	exclude	E4	O	-	Book review on computational neuroscience; not quantum.
+R2407	exclude	E4	O	-	Medipix detector chip applications; not quantum education.
+R2408	exclude	E4	O	thesis	Decolonising the white colonizer dissertation; not quantum.
+R2412	exclude	E4	O	-	Book review on Indian engineers; not quantum.
+R2417	exclude	E4	O	-	Book review on a Hong Kong bishop; not quantum.
+R2418	exclude	E4	O	-	Commentary on pseudophysics; not quantum education.
+R2419	exclude	E4	O	preprint	Speculative AI architecture preprint; not quantum education.
+R2420	exclude	E4	O	-	Obituary of a gravitational physicist.
+R2421	exclude	E4	O	-	Theatre review; not quantum.
+R2422	exclude	E4	O	-	Medal acceptance lecture in applied mechanics; not quantum.
+R2423	exclude	E4	O	-	Obituary of a particle physicist.
+R2426	exclude	E4	O	-	Personal essay on black holes; not quantum education.
+R2429	exclude	E4	O	-	History roundtable introduction; not quantum.
+R2434	exclude	E4	O	-	Obituary of an NMR chemist.
+R2435	exclude	E4	O	-	Contributors list of a literary journal; not quantum.
+R2438	exclude	E4	O	no_abstract	No abstract; biographical profile.
+R2440	exclude	E4	O	-	Editor's introduction on critical qualitative research; not quantum.
+R2442	exclude	E4	O	no_abstract	No abstract; biographical profile.
+R2443	exclude	E4	O	-	Microscopy society award winners; not quantum education.

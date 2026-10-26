@@ -1,0 +1,40 @@
+R1339	exclude	E4	O	-	Book review on religious schools in Tanzania; not quantum.
+R1340	include	I1,I2,I4,I5;I3-ft	E	-	Thought experiments (superposition, uncertainty) with three gifted middle-school students; interviews; grade not stated.
+R1362	exclude	E4	O	no_abstract	No abstract; parental attachment and school choice.
+R1373	exclude	E4	O	no_abstract;preprint	No abstract; impartiality pedagogy and political engagement.
+R1387	uncertain	I5	E	-	Infographics by six second-year middle-school gifted students on modern physics books; Korean venue, full-text language unclear.
+R1410	exclude	E4	O	-	Education and justice systems 'entanglement'; not quantum.
+R1413	exclude	E4	O	no_abstract;preprint;possible_duplicate	No abstract; cognitive error taxonomy; not quantum.
+R1414	exclude	E4	O	-	Postdigital reading 'entanglement'; not quantum.
+R1423	exclude	E4	O	-	University chemistry structural analysis and scientific thinking; not quantum education.
+R1426	exclude	E4	O	-	Part II of university chemistry structural analysis study; not quantum education.
+R1427	exclude	E4	O	-	Public-private 'entanglements' in school improvement; not quantum.
+R1434	exclude	E4	O	-	Generative-AI mathematics feedback and inclusive materialism; not quantum.
+R1436	exclude	E4	O	thesis	Bio-oriented creative practices dissertation; not quantum.
+R1456	uncertain	I4	P	preprint	arXiv preprint: 'quantum candies' model for QKD and communication protocols explainable to high-school students.
+R1469	context	E3	P	possible_duplicate	Survey of gamification for quantum literacy incl. K-12; review, no learner sample. Kept over preprint R1470.
+R1470	exclude	DUP	P	preprint;possible_duplicate	TechRxiv preprint of R1469; published version in set.
+R1471	include	I1,I2,I4,I5;I3-ft	E	-	Quantum game 'Schrodinger cat and hounds' used in game-aided lectures to high-school students; grade not stated.
+R1472	uncertain	I4	P	preprint;possible_duplicate	arXiv lecture notes on quantum theory for mixed audiences incl. high-school summer school; extended version of R0517.
+R1473	exclude	E4	O	-	Snapchat in classroom sociomaterial 'entanglement'; not quantum.
+R1474	exclude	E4	O	-	Photonics Explorer classical optics kit workshop; not quantum.
+R1475	exclude	DUP	P	preprint;possible_duplicate	arXiv preprint of R0467 (SpinQ Gemini); published version in set.
+R1476	context	E3	P	-	Educational concept and setup for classical-to-quantum key experiments usable in secondary student labs; no learner data.
+R1478	exclude	notI4	P	-	Encyclopedia reference entry on second quantum revolution with proposed high-school activities.
+R1482	context	E3	P	-	Optical-illusion analogies for explaining quantum concepts to high-school students; no learner data.
+R1484	exclude	notI4	P	-	Book preface (Quantum Computing: From Alice to Bob).
+R1485	exclude	E4	O	-	Higher-education mobility imaginaries; not quantum.
+R1487	include	I1,I2,I4,I5;I3-ft	E	-	Hands-on NV-centre diamond lattice modelling activity in a secondary quantum computing lesson series; feasibility reported.
+R1489	context	E3	P	-	Low-cost 3D-printed NV-centre quantum sensing setup for high-school and undergraduate labs; no learner data.
+R1491	exclude	E4	O	-	Visual art education assemblages; not quantum.
+R1492	exclude	E4	O	-	Digitally connected classroom methodology; not quantum.
+R1494	context	E3	P	-	Quantum optics lab concept for multilevel use incl. secondary students' labs; no learner data.
+R1495	exclude	E4	O	-	Vocational simulation-based training; not quantum.
+R1498	exclude	E4	O	-	Digital device 'entanglement' presentation; not quantum.
+R1500	exclude	E4	O	non_english;thesis	Croatian thesis on high-school students' wave optics understanding; classical optics.
+R1504	exclude	E4	O	-	Interview with a quantum optics researcher; not education research.
+R1505	exclude	notI4	P	-	Session abstract on teaching quantum concepts with games (repository item).
+R1506	context	E3	P	-	Survey of quantum workforce education efforts incl. high-school programmes; no learner sample.
+R1508	context	E3	P	-	Description of transitioning a high-school quantum computing course to dual enrollment; no learner data reported.
+R1510	exclude	DUP	P	preprint;possible_duplicate	arXiv preprint of R0529 (MBQC Tangram puzzle); proceedings version in set.
+R1513	exclude	E4	O	-	Speed of light measurement experiments; quantum only incidental.

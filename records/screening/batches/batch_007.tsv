@@ -1,0 +1,40 @@
+R0243	exclude	notI4	E	no_abstract	Correction notice (erratum) for R0112.
+R0247	uncertain	I2	E	no_abstract	No abstract; game-based quantum computing teaching (LNCS); learner level not determinable.
+R0248	uncertain	I2	P	no_abstract	No abstract; 'Teaching Quantum Computing' proceedings chapter; level not determinable.
+R0249	include	I1,I2,I4,I5;I3-ft	E	-	Model-qubit entanglement activities deployed with school students and high-school/undergraduate workshops (SPIE proceedings); grades not stated.
+R0250	context	E3	P	-	MACROBITS tool proposed to emulate QKD for high-school students; no learner data.
+R0251	include	I1,I2,I4,I5;I3-ft	E	-	Cluster-randomised study, Dirac notation and photon functional thinking, 67 vs 66 secondary students; grade not stated.
+R0253	include	I1,I2,I4,I5;I3-ft	E	-	Grover's algorithm activity in a high-school physics course with informal student feedback; grade not stated.
+R0254	context	E3	P	-	Systematic review of quantum computing in K-12 education research (seed record).
+R0255	include	I1,I2,I4,I5;I3-ft	E	-	Hands-on NMR quantum computing course implemented with gifted Hong Kong high-school students; grade not stated.
+R0256	include	I1,I2,I4,I5;I3-ft	E	-	Interviews with 25 secondary students on quantum randomness after interferometer and double-slit instruction; grade not stated.
+R0257	exclude	E4	O	-	Sociomaterial 'entanglement' of teaching practices; not quantum education.
+R0258	include	I1,I2,I4,I5;I3-ft	E	-	Qubit Touchdown board game evaluated with 107 high-school students; course levels, no grade stated.
+R0259	include	I1,I2,I4,I5;I3-ft	E	-	Upper-secondary students' interviews after futures-thinking and quantum computing course; grade not stated.
+R0261	context	notI2-teacher	T	-	CPD programme for in-service teachers designing polarisation teaching sequence.
+R0262	exclude	notI4	E	no_abstract	Bulletin of the APS meeting abstract on Qubit by Qubit high-school programme.
+R0263	exclude	E4	O	-	Low-cost atomic force microscope setup; not quantum content.
+R0264	uncertain	I4	P	-	I SEE teaching-learning module on quantum computing and futures for upper secondary; module document, I4 unclear.
+R0265	context	E3	P	-	Online course design on reading quantum physics primary sources with secondary students; no learner data.
+R0267	uncertain	I4	F	preprint	arXiv preprint: modular integration of quantum computing into high-school curricula with equity emphasis.
+R0268	uncertain	I4	P	preprint	arXiv preprint: QIS outreach programme for high-school and early undergraduate students.
+R0273	exclude	E4	O	-	Scoping review of playful learning in mathematics and language; not quantum education.
+R0274	uncertain	I4	E	-	Zenodo deposit: 82 secondary students' conceptions of entanglement via photon polarisation; publication status unclear.
+R0275	uncertain	I4	E	no_abstract	Zenodo deposit, no abstract: high-school mental models in quantum cryptography, concept inventory; publication status unclear.
+R0280	include	I1,I2,I4,I5;I3-ft	E	-	High-school QM course with double-well and double-slit simulations, pre/post tests over four years; grade not stated.
+R0288	uncertain	I1	E	-	Lattice-based post-quantum cryptography activity with high-school students; classical cryptography content, quantum relevance unclear.
+R0292	uncertain	I4	E	preprint	arXiv preprint: Intro2QC workshop delivered to about 160 students in grades 9-12, British Columbia.
+R0293	exclude	E4	O	possible_duplicate	Music teachers' artistic expression; 'entanglement' not quantum.
+R0294	exclude	E4	O	possible_duplicate	Version of R0293 (music teachers); not quantum education.
+R0295	exclude	E4	O	non_english;thesis	Finnish upper-secondary admission strategies ethnography; not quantum education.
+R0296	include	I1,I2,I4,I5;I3-ft	E	-	Scratch and Bloch-sphere quantum computing activities implemented with high-school groups; grade not stated.
+R0297	uncertain	I4	E	-	Evaluation report of quantum computing summer school for high-school and early undergraduate students; report type.
+R0299	exclude	E4	O	possible_duplicate	Version of R0293 (music teachers); not quantum education.
+R0300	exclude	E4	O	thesis	Thesis on 'digital entanglement' with devices; not quantum education.
+R0301	context	E3	P	-	Proposal to teach optics via Feynman path sums for high school; no learner data.
+R0302	exclude	notI5	E	non_english	Finnish-language interview dataset for R0259; dataset, not publication.
+R0308	context	notI2-teacher	T	-	Course for high-school teachers on quantum cryptography and BB84; teacher feedback.
+R0309	exclude	notI5	E	non_english;thesis	Portuguese-language dissertation on Q-Matrix board game for quantum computing in high school.
+R0311	context	E3	P	-	Design of NGSS-aligned quantum drug discovery lessons for middle school; abstract field shows author bio only.
+R0319	exclude	E4	O	no_abstract	No abstract; French-language learning interference; not quantum.
+R0324	include	I1,I2,I4,I5;I3-ft	E	-	12 German upper-secondary students' understanding of classical vs quantum correlations after entanglement lesson; grade not stated.

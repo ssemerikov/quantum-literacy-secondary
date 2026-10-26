@@ -1,0 +1,40 @@
+R0494	exclude	E4	O	no_abstract	No abstract; quality of life of high-school students; not quantum.
+R0509	context	E3	P	-	Entanglement Ball activity designed for high-school students aged 13-18; no learner data.
+R0517	uncertain	I4	P	preprint	arXiv preprint: lecture notes on quantum theory for high-school summer school students.
+R0529	context	E3	P	-	Tangram puzzle game for measurement-based quantum computing, audience from high school to researchers; no learner data.
+R0532	uncertain	I4	E	preprint	arXiv preprint: QBronze workshops, pre/post tests of 317 participants incl. high-school students.
+R0546	exclude	E4	O	no_abstract;preprint	No abstract; labour market polarisation and student debt.
+R0547	exclude	E4	O	no_abstract;preprint	No abstract; high-school student's study on management science; not quantum.
+R0560	exclude	E4	O	no_abstract	No abstract; psychology competition entry on political polarisation.
+R0565	context	E3	P	-	Design rationale and conceptual progression of a 25-h QIST outreach programme for grades 10-12; no outcomes reported.
+R0567	exclude	E4	O	no_abstract;preprint	No abstract; English syntax of Sudanese secondary students.
+R0571	include	I1-I5	E	-	QIST summer programme for grades 10-12: attitudes (N=77 vs control 65) and interviews.
+R0579	include	I1-I5	E	-	Escape-room activity on high-performance and quantum computing with secondary students aged 15-16.
+R0595	exclude	E4	O	-	Eye-tracking study of recognising classical light interference and diffraction patterns.
+R0597	context	E3	P	-	Santa Claus context and worksheet for teaching quantum teleportation; evaluation planned.
+R0606	exclude	E4	O	thesis	History teachers' narratives on Indonesian communism; not quantum.
+R0632	exclude	notI4	P	-	Physics World news item about an entanglement teaching game.
+R0633	exclude	notI5	E	non_english;thesis	Portuguese-language dissertation: photon concept and Mach-Zehnder sequence with third-year high-school classes.
+R0643	exclude	E4	O	no_abstract	No abstract; peer-assessment skills interference; not quantum.
+R0646	context	E3	P	-	Open-source presentation on quantum science and careers for high-school and college students; no learner data.
+R0649	exclude	E4	O	-	Editorial on form in German language teaching.
+R0650	include	I1,I2,I4,I5;I3-ft	E	-	Hardware toolkit activity on teleportation and superdense coding with upper-secondary outreach groups; experiences reported.
+R0663	exclude	E4	O	-	Creative STEAM pedagogies and 'entanglements' in ocean education; not quantum.
+R0665	exclude	notI4	E	preprint;thesis	arXiv-deposited thesis on bringing second quantum revolution into high school; thesis type.
+R0666	exclude	E4	O	no_abstract	No abstract; psychology competition entry on political polarisation.
+R0673	exclude	E4	O	-	Book on embodied entanglements of gender; not quantum.
+R0677	exclude	E1	E	-	Pre-service teachers' views on metaphors for uncertainty and entanglement.
+R0679	exclude	notI4	E	non_english;thesis	Brazilian master's dissertation on light duality sequence with 33 third-grade high-school pupils; thesis type, Portuguese metadata.
+R0681	exclude	notI4	P	-	Conference poster on ZX-calculus entanglement swapping by teachers and students.
+R0683	exclude	E4	O	no_abstract	No abstract; pedestrian merging behaviour model.
+R0686	context	E3	P	-	Feynman-approach proposal for teaching light diffraction in secondary school; no learner data.
+R0705	exclude	E4	O	-	Sonic cartography in urban middle-school science; not quantum.
+R0712	exclude	E4	O	-	Middle-school photonics and semiconductor career education; quantum not a focus.
+R0718	uncertain	I2	P	no_abstract	No abstract; landscape of quantum computing education in South Africa; level and focus unclear.
+R0721	exclude	E4	O	-	Fusion-energy laser training for community college and high school; no quantum content.
+R0724	exclude	notI4	E	-	SIGCSE conference abstract on AI-based quantum computing platform with 20-student preliminary study.
+R0725	exclude	E4	O	-	Moral education in Singapore; not quantum.
+R0739	exclude	E4	O	no_abstract	No abstract; vanadium toxicology in teaching; not quantum.
+R0744	exclude	E4	O	thesis	School space and pedagogical renewal dissertation; not quantum.
+R0746	exclude	E4	O	no_abstract	No abstract; adolescent sexual coercion measurement; not quantum.
+R0749	uncertain	I4	P	preprint	arXiv preprint: single-qubit approach to teaching quantum physics at high school; published version not identified.

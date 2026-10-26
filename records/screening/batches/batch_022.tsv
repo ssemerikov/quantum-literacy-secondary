@@ -1,0 +1,40 @@
+R3608	exclude	E4	O	-	Physicist's memoir about a journal; not quantum education.
+R3614	exclude	E4	O	-	Short fiction; not quantum.
+R3615	exclude	E4	O	-	Editors' note on Fitzgerald studies; not quantum.
+R3623	exclude	E4	O	-	Personal essay; not quantum.
+R3625	exclude	E4	O	no_abstract	No abstract; tuberculosis protocol.
+R3628	exclude	E4	O	-	Tribute to an archaeologist; not quantum.
+R3629	exclude	E4	O	-	Architectural history conference papers list; not quantum.
+R3637	exclude	E4	O	-	Personal essay; not quantum.
+R3648	exclude	E4	O	-	Book review on Fitzgerald stories; not quantum.
+R3649	exclude	E4	O	no_abstract	No abstract; child care dietary quality.
+R3725	exclude	E4	O	thesis	Identity of Korean study-abroad undergraduates; not quantum.
+R3740	exclude	E1	P	-	Reference entry of a university quantum chemistry textbook.
+R3743	exclude	E4	O	no_abstract	No abstract; undergraduate attitudes to complex numbers; mathematics.
+R3746	context	E3	P	-	Quantum Picturalism high-school experiment: foundations and methodology of an ongoing study; no results.
+R3750	exclude	E4	O	-	High-school mathematics teachers' conceptions of complex numbers; not quantum.
+R3781	exclude	E4	O	no_abstract;possible_duplicate	No abstract; undergraduate mathematics textbook.
+R3784	exclude	E4	O	no_abstract;possible_duplicate	No abstract; later edition of undergraduate mathematics textbook.
+R3785	context	E3	P	-	Derivation of the Schrodinger equation accessible to advanced secondary students; no learner data.
+R3791	exclude	E4	O	no_abstract	No abstract; Cardano's method chapter; mathematics.
+R3800	context	E3	P	-	Textbook chapter on mathematics for QM at advanced high-school or first-year college level; no learner data.
+R3803	exclude	E4	O	no_abstract	No abstract; elementary algebra chapter.
+R3807	uncertain	I4	P	-	Open-access QM book for advanced high-school students through graduates; whole book.
+R3829	exclude	E4	O	no_abstract	No abstract; metrology training for engineering students.
+R3837	exclude	E4	O	thesis	Precision manufacturing apprenticeship evaluation; not quantum.
+R3844	exclude	E4	O	no_abstract;possible_duplicate	No abstract; measurement uncertainty handbook chapter.
+R3845	exclude	E4	O	-	Accelerator-based engineering courses; not quantum education.
+R3846	exclude	E4	O	no_abstract;possible_duplicate	No abstract; measurement uncertainty chapter (other version).
+R3847	exclude	E4	O	-	Optics and photonics event for high-school girls; not quantum.
+R3854	exclude	E4	O	-	Remembrance of a microscopist.
+R3857	exclude	E4	O	-	Sports technology proceedings; not quantum.
+R3858	exclude	E4	O	no_abstract	No abstract; rheumatology abstract.
+R3859	include	C,I4,I5	D	-	Scoping review of equity, diversity and inclusion and the 'social' in quantum technologies literature.
+R3860	uncertain	I2	P	-	Systematic review of XR in quantum technology education across levels, mostly university; school-level share unclear.
+R3861	include	C,I4,I5	D	-	Quantum technology for development framework addressing the Global North-South gap.
+R3862	include	C,I4,I5	D	-	Transnational Open Master widening access to quantum technology expertise (tertiary).
+R3863	exclude	E4	O	no_abstract;preprint	No abstract; intellectual property regimes for quantum technology in national security; no access focus evident.
+R3864	include	C,I4,I5	D	possible_duplicate	Values of grassroots QT education organisations: democratising learning, inclusivity, accessibility; journal version of R3866.
+R3865	include	C,I4,I5	D	-	Public administration framework for quantum governance incl. equity-oriented capacity building and quantum divide prevention.
+R3866	include	C,I4,I5	D	possible_duplicate	Proceedings version of R3864 on grassroots QT education organisations and inclusivity.
+R3867	include	C,I4,I5	D	-	Delphi and foresight study of the quantum divide and socio-economic inequalities.

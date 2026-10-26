@@ -1,0 +1,171 @@
+item_id,stage1_code,stage2_cluster,stage1_raw_response_file,stage2_raw_response_file,coder
+S1-025,Quantum computing and simulation applications,K06,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-054,Qubit,K05,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S6-013,Atomic orbital model,K03,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S1-037,Quantum internet infrastructure,K07,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-069,Laser,K10,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-075,LED,K10,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-041,Electrons,K04,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-071,Semiconductors,K03,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-001,Superposition,K01,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-024,Light emission,K03,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-040,Qubit,K05,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S3-081,Single molecule microscopy,K08,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S1-028,Temperature particle and pressure sensors,K08,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-056,Diffraction of light,K01,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-106,Electrons in atom,K03,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-094,Spin-qubit based sensors,K08,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-039,Stern-Gerlach experiment,K01,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S3-076,CCD,K10,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-090,BB84 protocol and hardware,K07,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S4-096,Matrices,K02,second_coder_llm/batch_001_response.json,second_coder_llm/batch_010_response.json,nemotron-3-ultra:cloud
+S5-025,Quantum teleportation,K07,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S6-011,One-dimensional potential well,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S3-062,LED,K10,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S6-009,Probabilistic predictions,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S1-010,Control technologies,K10,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S4-062,Space and velocity measurement,K08,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-067,Spectroscopy,K08,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-101,Photon fibers,K07,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S1-029,Inertial and gravity sensors,K08,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S3-036,Spectral lines,K03,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-062,Many-worlds interpretation,K12,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-084,Carbon-based nanostructures,K03,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-105,Quantum tunneling,K10,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S2-016,Superposition,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-034,Matter wave interference,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S5-008,Statistical nature of measurement,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S2-006,Quantum state vectors,K02,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S4-078,Single slit,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S2-020,Entanglement,K01,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S2-031,Quantum teleportation,K07,second_coder_llm/batch_002_response.json,second_coder_llm/batch_011_response.json,nemotron-3-ultra:cloud
+S3-038,Hydrogen atom,K03,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S6-007,Technical applications,K10,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-087,Interferometry of single object,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S1-027,Electromagnetic field sensors,K08,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-059,Delayed-choice experiment,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-088,Linear algebra,K02,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-016,Macroscopic quantum mechanics,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S2-021,Entanglement in quantum technologies,K05,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S5-066,Spectra of light and stars,K03,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S5-019,Matter wave interference,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S5-080,Quantum dots,K03,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S5-039,Quantization of energy,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S2-005,Quantum state vectors,K02,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-021,Subatomic particles,K04,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-030,Free vs. localized particle,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-029,Development of atomic models,K12,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-037,Double-slit experiment,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-024,Foundations of quantum mechanics,K12,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S3-078,CT scan,K10,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-029,Two-level system,K01,second_coder_llm/batch_003_response.json,second_coder_llm/batch_012_response.json,nemotron-3-ultra:cloud
+S4-026,Non-locality,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-032,Historical view,K12,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-016,Quantum computing,K06,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S3-073,Quantum teleportation,K07,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S3-063,Quantum computing,K06,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-066,Malus' law with single photon,K03,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S5-043,Atomic models,K03,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-035,Complementarity,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-079,Operators and commutators,K02,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S3-050,Heat radiation,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S3-055,Stern-Gerlach experiment,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S1-040,"Business strategy, entrepreneurship and management",K11,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-027,Non-determination of trajectory,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S5-098,Quantum sensors versus classical sensors,K08,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S1-024,Quantum algorithms,K06,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S1-021,Quantum simulators,K06,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-044,Double-well,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-008,Many-body system,K03,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S3-020,Zero point energy,K01,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S4-092,Schrödinger equation as operator equation,K02,second_coder_llm/batch_004_response.json,second_coder_llm/batch_013_response.json,nemotron-3-ultra:cloud
+S6-016,Schrödinger equation,K02,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-090,Bloch sphere,K05,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-057,Crystal structures,K03,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-048,Quantum harmonic oscillator,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-003,Probability,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-050,Light interference,K03,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-018,Historical view,K12,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-094,Quantum games,K13,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-021,Quantum measurement,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-069,Analogy of standing waves and particle in a box,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-060,STM,K10,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-006,Wave function,K02,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-057,Uncertainty principle,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-088,Pair production,K04,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-047,EPR experiment,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-027,Entanglement,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-026,Stationary states,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S3-033,Double-slit experiment,K01,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-048,Quantum gates,K06,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S4-089,Wave function,K02,second_coder_llm/batch_005_response.json,second_coder_llm/batch_014_response.json,nemotron-3-ultra:cloud
+S5-086,Surface tension,none,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-097,Coherent control,K10,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S3-043,Material properties,K03,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S3-054,Chemical reactions,K03,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-020,Atomic models,K03,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-107,Statistics,K02,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S5-033,Schrödinger's cat,K12,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S1-011,Computers and software,K10,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S5-029,Hidden variables,K12,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-099,unclear,none,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-068,Quantization of energy,K01,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S5-058,Energy-time uncertainty principle,K01,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S5-055,Bloch sphere,K02,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S1-015,Photonic systems,K09,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S6-022,Controversies in science,K12,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S6-020,Tentativeness of science,K12,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-015,Qubit,K05,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S4-054,Two-photon interference,K01,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S6-018,Scientific methodology,K13,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S5-004,Dirac notation,K02,second_coder_llm/batch_006_response.json,second_coder_llm/batch_015_response.json,nemotron-3-ultra:cloud
+S3-046,Schrödinger's cat,K01,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-024,EPR experiment,K01,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S3-070,Neon lamps,K10,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S2-002,Mathematics of quantum mechanics,K02,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S4-049,Quantum cryptography,K07,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S4-006,Quantization of energy,K01,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S2-009,Coherent control,K05,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-032,Photoelectric effect,K01,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S6-019,Role of scientific models,K12,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S3-007,Uncertainty principle,K01,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S1-002,Mathematical formalism and information theory,K02,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-065,Hydrogen atom,K03,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S2-007,Quantum state vectors,K02,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S1-005,Solid-state physics,K03,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S3-022,Standard Model,K04,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S3-082,Flash memory,K10,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-070,Conductivity,K03,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-095,Atom interferometers,K08,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S5-026,Historical development of quantum physics,K12,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S2-003,Quantum information science,K05,second_coder_llm/batch_007_response.json,second_coder_llm/batch_016_response.json,nemotron-3-ultra:cloud
+S4-076,Position and momentum,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S3-047,Chemical bonds,K03,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S4-046,Wave function collapse,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S4-023,Pauli exclusion principle,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S3-035,Periodic table,K03,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S6-014,Exclusion principle and periodic table,K03,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S5-028,Quantum correlations,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S2-024,Qubit types and coherence,K09,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S1-041,Impact and responsibility,K11,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S1-039,Industry landscape and market analysis,K11,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S4-103,Quantum circuit,K06,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S3-059,Quantum information,K05,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S4-085,Multiparticle entanglement,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S5-031,Mach-Zehnder interferometer,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S5-099,Single photon sources,K10,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S1-013,Spin-based systems,K09,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S2-023,Decoherence mechanisms,K01,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S2-029,Quantum error correction,K06,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S2-014,Qubit,K05,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S6-003,Discrete energy levels,K03,second_coder_llm/batch_008_response.json,second_coder_llm/batch_017_response.json,nemotron-3-ultra:cloud
+S4-098,NV-center,K09,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S5-085,Topological effects,K01,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S4-011,Mathematical foundations,K02,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S3-004,Energy levels and quantisation,K01,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S3-041,Magnetism,K01,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S5-092,Comparison to current cryptography technologies,K07,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S3-042,Orbitals,K03,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S2-004,Atomic clocks,K08,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S1-009,Optical technologies,K10,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud
+S5-002,Inner products,K02,second_coder_llm/batch_009_response.json,second_coder_llm/batch_018_response.json,nemotron-3-ultra:cloud

@@ -1,0 +1,40 @@
+R1518	exclude	E4	O	-	Pedagogy of affection 'entanglement'; not quantum.
+R1521	exclude	notI4	P	-	Book back-matter 'Further reading' list on quantum computing resources.
+R1523	exclude	E4	O	-	Collaborative scriptwriting more-than-human 'entanglements'; not quantum.
+R1525	context	E3	P	-	Case description of SparkAlpha Explore/Quantum Impact programme introducing QIS to middle and high school; no learner data.
+R1528	exclude	E4	O	no_abstract	No abstract; climate change education messaging.
+R1542	exclude	E4	O	-	Political emotions in a literature classroom; not quantum.
+R1546	exclude	E4	O	-	Hospitality curriculum 'entanglements' in universities; not quantum.
+R1548	exclude	E4	O	no_abstract	No abstract; geoheritage education.
+R1550	exclude	E4	O	-	Multispecies design principles in engineering education; not quantum.
+R1555	exclude	E4	O	-	Low-cost polariscope for sugar substances; classical optics.
+R1557	exclude	E4	O	-	Retracted swarm-intelligence feature selection paper; not quantum.
+R1559	exclude	notI4	P	-	Overview of two conference posters incl. a proposed secondary-school quantum computing workshop.
+R1565	exclude	E4	O	-	GenAI creativity assemblages; not quantum.
+R1566	exclude	E4	O	-	Diffractive art and poetry practices; not quantum.
+R1578	exclude	E4	O	no_abstract	No abstract; children and climate change concern.
+R1581	exclude	E4	O	-	Digital games postdigital futures; not quantum.
+R1586	exclude	E4	O	non_english;thesis	Portuguese-language dissertation on Newtonian corpuscular vs wave theory of light; classical optics.
+R1587	exclude	E4	O	-	Precarity of physical education teachers; not quantum.
+R1588	exclude	notI4	E	thesis	Doctoral thesis on models in modern physics education incl. quantum teleportation diagrams with upper-secondary students.
+R1595	exclude	E4	O	non_english	Japanese-language double-slit wavelength measurement activity; classical optics.
+R1600	exclude	E4	O	-	History teachers' emotion and colonial 'entanglements'; not quantum.
+R1603	exclude	E4	O	-	Laser diffraction measurement of thin threads in school lab; classical optics.
+R1606	exclude	E4	O	-	Misaligned teacher scaffolding in Danish lower secondary; not quantum.
+R1607	exclude	E4	O	-	Hands-on engineering equity; not quantum.
+R1615	include	I1,I2,I4,I5;I3-ft	E	-	Quantum optics workshops (QKD, quantum eraser) for 20 high-school students in a summer programme, pre/post surveys; SPIE proceedings.
+R1620	exclude	E4	O	-	Semiotics of Sufism in a novel; not quantum.
+R1621	exclude	E4	O	-	Place-based teacher preparation course; not quantum.
+R1622	exclude	E4	O	-	3D-printable quadrupole ion trap for teaching electric fields; quantum only as application context.
+R1624	exclude	E4	O	no_abstract	No abstract; physics constructs and mathematics chapter; no quantum education focus evident.
+R1626	exclude	E4	O	-	Physics of data centres for secondary students; quantum computing mentioned only.
+R1627	exclude	E4	O	-	Secondary school tracking inequality in Switzerland; not quantum.
+R1633	exclude	notI4	E	-	Conference abstract on castle-to-quantum-security project for high-school physics.
+R1634	exclude	E4	O	no_abstract	No abstract; mindfulness curriculum.
+R1648	exclude	E4	O	no_abstract;preprint	No abstract; gender differences in education.
+R1651	exclude	notI5	E	non_english;thesis	Portuguese-language dissertation on playful wave-particle duality sequence in high school.
+R1653	exclude	E4	O	-	Optics experiments in an art museum context; classical optics.
+R1654	exclude	E4	O	non_english	Indonesian laser interference and diffraction kit; classical optics.
+R1657	exclude	E4	O	-	Sexuality narratives of Muslim youth; not quantum.
+R1658	exclude	E4	O	-	VR ultrafast laser laboratory simulator; classical optics training.
+R1662	exclude	E4	O	-	Undergraduate energy transitions discourses; not quantum.

@@ -1,0 +1,34 @@
+{
+ "retrieved_utc": "2026-10-25T15:24:29+00:00",
+ "model_tag": "nemotron-3-ultra:cloud",
+ "access": "local Ollama daemon (cloud model) at localhost:11434/api/chat",
+ "ollama_version": "0.30.6",
+ "details": {
+  "parent_model": "nemotron-3-ultra",
+  "format": "",
+  "family": "",
+  "families": null,
+  "parameter_size": "550000000000",
+  "quantization_level": ""
+ },
+ "model_info": {
+  ".context_length": 262144,
+  ".embedding_length": 4096,
+  "general.architecture": "",
+  "general.parameter_count": 550000000000
+ },
+ "capabilities": [
+  "completion",
+  "thinking",
+  "tools"
+ ],
+ "modified_at": "2026-06-04T00:00:00Z",
+ "options": {
+  "temperature": 0,
+  "seed": 20261025
+ },
+ "stream": false,
+ "batch_size": 20,
+ "max_retries": 2,
+ "note": "thinking left at the model default (the API returns a separate \"thinking\" field, saved in each response file)"
+}

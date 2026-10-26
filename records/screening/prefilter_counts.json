@@ -1,0 +1,53 @@
+{
+ "records": 4142,
+ "routes": {
+  "qhit": 860,
+  "b_noabs": 153,
+  "a_auto": 2988,
+  "c_rescue": 70,
+  "a_rescue": 71
+ },
+ "auto_excluded_rule_a": 2988,
+ "manual_total": 1154,
+ "manual_by_rule": {
+  "quantum_term_hit_true": 860,
+  "rule_b_no_abstract": 153,
+  "rule_a_secondary_regex_rescue": 71,
+  "rule_c_diagnostic_regex_rescue": 70
+ },
+ "batches": 29,
+ "by_stream_group_routes": {
+  "A": {
+   "qhit": 219,
+   "b_noabs": 4,
+   "a_auto": 1
+  },
+  "B": {
+   "qhit": 949,
+   "b_noabs": 249,
+   "a_auto": 4903,
+   "c_rescue": 127,
+   "a_rescue": 118
+  },
+  "C": {
+   "qhit": 252,
+   "b_noabs": 5,
+   "a_auto": 1
+  },
+  "SB": {
+   "qhit": 125
+  },
+  "SEED": {
+   "qhit": 5
+  }
+ },
+ "named_records": {
+  "R0633": "a_rescue",
+  "R0679": "a_rescue",
+  "R1084": "c_rescue",
+  "R1651": "a_rescue",
+  "R0762": "a_rescue",
+  "R0055": "b_noabs"
+ },
+ "generated": "2026-10-24T23:21:13+03:00"
+}

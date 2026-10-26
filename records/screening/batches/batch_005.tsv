@@ -1,0 +1,40 @@
+R0161	exclude	DUP	P	preprint;possible_duplicate	arXiv preprint of R0162 (QFT at introductory level); published version in set.
+R0162	context	E3	P	possible_duplicate	Approach to teaching quantum field theory at introductory level incl. high school; no learner data.
+R0163	exclude	E4	O	-	Letter on GK-12 teaching fellowships; not quantum education.
+R0164	exclude	E4	O	preprint	Speculative lattice vacuum theory; not education.
+R0165	context	E3	P	-	Overview of quantum education symposia incl. K-12 and outreach; no learner sample.
+R0166	exclude	notI5	F	non_english	Russian-language article proposing quantum computing section in high-school informatics programme.
+R0167	exclude	notI5	P	non_english	Japanese-language lesson plan on Feynman QED for high-school students.
+R0168	exclude	E4	O	-	Book on geometric algebra in physics; not quantum education.
+R0169	exclude	E1	O	-	Preface to a college physics course; tertiary.
+R0170	exclude	E4	O	-	Synthesis of modern physics approaches (primary spiral curriculum, exoplanets, astrophysics); no quantum-specific secondary work.
+R0171	exclude	notI5	T	non_english	Portuguese-language report on training teachers for high-school quantum physics.
+R0172	include	I1,I2,I4,I5;I3-ft	E	-	170 secondary students' mental models of photons (exploratory factor analysis); grade not stated.
+R0173	uncertain	I2	P	no_abstract	No abstract; chapter on whether old quantum theory is worth teaching; level not determinable.
+R0174	exclude	notI5	E	non_english;thesis	Portuguese-language dissertation on quantum dots sequence for high-school grades 2-3.
+R0175	exclude	E4	O	-	Decolonial art education; quantum physics only as metaphor.
+R0176	exclude	E4	O	preprint	Speculative temporal field theory by a secondary student; not education.
+R0177	context	E3	P	-	Teaching method for quantum uncertainty in two-state systems for secondary school; no learner data.
+R0178	uncertain	I4	F	preprint;possible_duplicate	OSF preprint: textbook transposition of blackbody radiation incl. high-school texts; related Portuguese article R0179.
+R0179	exclude	notI5	F	non_english;possible_duplicate	Portuguese-language article on blackbody radiation transposition in textbooks; related to R0178.
+R0180	exclude	E4	O	-	Climate-activist teachers' identity; quantum only in philosophical critique.
+R0181	exclude	E4	O	-	Mathematical puzzle book; not quantum education.
+R0182	exclude	E4	O	preprint	History-of-physics essay on the photon concept; not education research.
+R0183	context	E3	P	-	Workshop outcomes on a US national centre for quantum education incl. K-12; no learner sample.
+R0184	exclude	notI5	P	non_english	Portuguese-language essay on modern physics in high school.
+R0185	exclude	DUP	F	preprint;possible_duplicate	OSF preprint of R0186 (concept maps, photoelectric effect in textbooks); article version in set.
+R0186	include	I1,I2,I4,I5	F	possible_duplicate	Concept-map analysis of photoelectric-effect transposition in university and high-school textbooks.
+R0187	uncertain	I1	O	no_abstract	No abstract; proceedings chapter on quantum matter; education focus undeterminable.
+R0188	exclude	E4	O	preprint	Speculative unification essay; not education.
+R0189	exclude	E4	O	-	Careers in physics reference book; not quantum education.
+R0190	exclude	E4	O	preprint	Speculative lattice vacuum theory; not education.
+R0191	exclude	notI4	P	-	Conference tutorial abstract on Virtual Quantum Optics Laboratory.
+R0192	exclude	E4	O	-	Textbook chapter on the variational principle in mechanics.
+R0193	exclude	E4	O	no_abstract	No abstract; handbook chapter on history and philosophy of science in science textbooks; no quantum focus evident.
+R0194	exclude	E4	O	non_english	Indonesian DSSC chemistry kit; quantum mechanics one of several concepts.
+R0195	exclude	E4	O	-	Speculative lay book on a personal physics framework.
+R0196	exclude	notI5	P	non_english	Portuguese-language introduction to quantum thermodynamics for teachers and students.
+R0197	exclude	notI5	F	non_english	Japanese-language report on mechanics concept maps and Newton-quantum relation in textbooks.
+R0198	exclude	E4	O	preprint	Speculative unification theory; not education.
+R0199	uncertain	I5	P	-	Review of Brazilian theses on modern physics practices in high school; Portuguese title, English metadata.
+R0200	exclude	E4	O	preprint	Speculative ontological physics theory; not education.

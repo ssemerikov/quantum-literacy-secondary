@@ -1,0 +1,40 @@
+R3989	exclude	E4	O	-	Maryland higher education state plan; quantum one economic sector.
+R3990	exclude	E4	O	-	Education 4.0 technology frameworks review; quantum listed.
+R3991	exclude	E4	O	-	Book on quantum experiments and the classical-quantum divide; not education research or access.
+R3992	exclude	E4	O	no_abstract;possible_duplicate	No abstract; 'The quantum divider' physics chapter.
+R3993	exclude	E4	O	no_abstract;possible_duplicate	No abstract; earlier edition of 'The quantum divider' chapter.
+R3994	exclude	E4	O	-	Quantum divide-and-conquer algorithms; not access.
+R3995	exclude	E4	O	no_abstract	No abstract; magazine piece on the quantum-classical boundary.
+R3996	include	C,I4,I5	D	-	Four quantum divides: in science, technologies, between countries and within societies.
+R3997	uncertain	I1	D	no_abstract	No abstract; 'Bridging the quantum divide' (Nature Reviews EE); inequality vs classical-quantum meaning unclear.
+R3998	exclude	E4	O	preprint	Probability test for classical/quantum divide; physics.
+R3999	exclude	notI4	O	no_abstract	Image file deposit titled 'quantum divide'; not a publication.
+R4000	exclude	E4	O	thesis	Quantum divide-and-conquer anchoring algorithm thesis; not access.
+R4001	exclude	E4	O	no_abstract	No abstract; Bohr on the classical/quantum divide; history of physics.
+R4002	exclude	E4	O	-	Quantum divided basins in chemistry; not access.
+R4003	exclude	E4	O	-	Probability constraints on classical/quantum divide; physics.
+R4004	exclude	E4	O	-	Quantum divider circuit design; not access.
+R4005	exclude	notI4	O	no_abstract	Image file deposit (covers) titled 'The Quantum Divide'; not a publication.
+R4006	exclude	E4	O	-	Quantum divide-and-compute hardware demonstration; not access.
+R4007	exclude	E4	O	no_abstract	No abstract; language and the classical/quantum divide in physics interpretation.
+R4008	exclude	E4	O	no_abstract	No abstract; fault-tolerant quantum divider circuit.
+R4009	exclude	E4	O	-	Quantum divide-and-compute noise study; not access.
+R4010	include	C,I4,I5	D	-	Responsible quantum computing and equitable access: bridging quantum divides.
+R4011	uncertain	I1	D	no_abstract	No abstract; ontology for bridging the quantum divide; meaning and access focus unclear.
+R4012	exclude	E4	O	preprint	Classical-quantum divide in Copenhagen interpretation; physics.
+R4013	exclude	E4	O	preprint	Classical-quantum transition architecture; physics.
+R4014	exclude	notI4	O	no_abstract	Image file deposit (covers) titled 'the quantum divide'; not a publication.
+R4015	exclude	E4	O	preprint	Quantum divide-and-conquer optimisation algorithm; not access.
+R4016	exclude	E4	O	no_abstract	No abstract; news item on probing the quantum-classical divide.
+R4017	exclude	E4	O	-	Quantum divide-and-conquer string rotation note.
+R4018	exclude	E4	O	preprint	Multidimensional quantum walks and divide-and-conquer.
+R4019	exclude	E4	O	-	Book review of 'The quantum divide' (classical-quantum boundary).
+R4020	exclude	E4	O	-	Scaling quantum divide-and-conquer optimisation.
+R4021	exclude	E4	O	-	Quantum divided power algebras; mathematics.
+R4022	exclude	E4	O	-	Quantum divide-and-conquer anchoring for matrix factorisation.
+R4023	include	C,I4,I5	D	-	Democratised Opportunity Index framework to bridge the quantum divide in career access.
+R4024	exclude	E4	O	-	Quantum divider circuit efficiency.
+R4025	exclude	E4	O	-	Quantum divided power algebra; mathematics.
+R4026	exclude	E4	O	-	Academia-industry gap in quantum software engineering; not unequal access or participation.
+R4027	exclude	notI5	D	non_english	Turkish-language abstract on bridging the quantum divide in MENA.
+R4028	exclude	E4	O	preprint	Quantum divide-and-conquer for the TSP; not access.

@@ -1,0 +1,40 @@
+R3948	exclude	E4	O	-	Digital banking and sustainable finance topic modelling; quantum listed.
+R3949	exclude	E4	O	-	IoT and deep learning healthcare security; quantum listed.
+R3950	exclude	E4	O	-	Global education trends chapter; quantum listed.
+R3951	exclude	E4	O	-	Healthcare data intelligence; quantum listed.
+R3952	exclude	E4	O	-	Fintech and digital finance; quantum listed.
+R3953	exclude	E4	O	non_english	Indonesian-titled analysis of blockchain security against quantum attacks; not access or education.
+R3954	exclude	E4	O	-	AI challenges survey; quantum listed.
+R3955	exclude	E4	O	-	Human rights and AI; quantum security mentioned.
+R3956	exclude	E4	O	non_english	Spanish-language essay on teachers in the 5th industrial revolution; quantum listed.
+R3957	exclude	E4	O	-	SI units and metrology history; not quantum education or access.
+R3958	exclude	E4	O	-	Academic book publishing in emerging fields; quantum listed.
+R3959	exclude	E4	O	-	Media coverage models of emerging technologies; quantum listed.
+R3960	exclude	E4	O	-	Quantum-inspired youth vulnerability classifier software; not quantum education or access.
+R3961	exclude	E4	O	-	Cancer systems and control book; quantum listed.
+R3962	exclude	E4	O	-	Digital accounting survey; quantum listed.
+R3963	exclude	E4	O	-	Criminology and cyber fraud book; quantum listed.
+R3964	exclude	E4	O	-	AI governance accord; quantum listed.
+R3965	exclude	E4	O	-	Women in mathematics in India; quantum computing only mentioned.
+R3966	exclude	E4	O	-	Australian health equity 2030 vision; quantum listed.
+R3967	exclude	E4	O	-	Speculative geometry and 'quantum logic processor' course; not education research.
+R3968	exclude	E4	O	preprint	Preprint on women in mathematics in India; quantum only mentioned.
+R3969	exclude	E4	O	-	Public healthcare security review; quantum listed.
+R3970	exclude	E4	O	-	Ethics in future higher education chapter; quantum not a focus.
+R3971	exclude	E4	O	preprint	LLM sycophancy preprint; quantum one discussion domain.
+R3972	exclude	E4	O	-	Digital health big data; quantum listed.
+R3973	exclude	E4	O	-	Philosophy of quantum information; not education or access.
+R3974	exclude	E4	O	-	Computer-aided drug design challenges; quantum mentioned.
+R3975	exclude	E4	O	-	Book contents on cybersecurity and geopolitics; quantum chapter only listed.
+R3976	exclude	E4	O	-	Programming language investor pitch; not quantum education.
+R3977	exclude	E4	O	-	AI ecosystem manifesto; post-quantum cryptography mentioned.
+R3978	exclude	E4	O	-	Author interview in Patterns; quantum mentioned.
+R3979	exclude	E4	O	preprint	Philosophy of technological dependency book; quantum mentioned.
+R3980	exclude	E4	O	-	Journal 'about our authors' notes; not quantum.
+R3981	exclude	E4	O	-	Pathology job market editorial; quantum mentioned.
+R3982	exclude	E4	O	-	AI hyper-personalised marketing; quantum only in references.
+R3983	exclude	E4	O	-	Book contributors notes; not quantum.
+R3984	exclude	E4	O	-	Speculative AI-engineered quantum materials white paper; not education.
+R3985	exclude	E4	O	-	Microanalysis society award recipients; not quantum education.
+R3986	exclude	E4	O	-	Book review essay on technology and identity; quantum mentioned.
+R3987	exclude	E4	O	possible_duplicate	Book index; not quantum.

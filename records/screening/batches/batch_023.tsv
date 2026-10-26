@@ -1,0 +1,39 @@
+R3868	exclude	E4	O	-	Overview of a CAS quantum research centre; no education or access focus.
+R3869	exclude	E1	F	-	Review of higher education in quantum computing across Europe.
+R3870	exclude	notI4	D	-	Workshop application abstract on fair access to quantum computing and inclusion; not a full publication.
+R3871	exclude	E1	P	-	Poster on academic library support for quantum computing education in higher education.
+R3872	exclude	E4	O	-	Plenary report summary on the state of quantum computing; not education or access.
+R3874	exclude	E4	O	-	Quantum computing for SDGs and carbon footprint; equity only mentioned in passing.
+R3875	uncertain	I4	D	preprint	arXiv white paper on societal impact of quantum computing with access and skilling as a priority.
+R3876	include	C,I4,I5	D	-	Global quantum computing regulation study highlighting a growing quantum divide between nations.
+R3877	uncertain	I4	D	no_abstract;preprint	No abstract; SSRN preprint on bridging the quantum divide via post-quantum cryptography standards.
+R3878	exclude	E1	P	preprint	Quantum computing course chapter for engineering Master's students.
+R3879	exclude	E1	P	-	Analogy framework for teaching quantum concepts to computer science students.
+R3880	exclude	E4	O	-	Quantum cloud services; democratised access only mentioned.
+R3881	exclude	E4	O	-	Editorial on quantum computing and organisational cybersecurity.
+R3882	exclude	notI2	P	preprint	Low-cost orbital angular momentum teaching tools; target level not stated.
+R3883	exclude	E4	O	-	Digital transformation paper about Indian multilingualism; not quantum access.
+R3884	exclude	E4	O	-	Quantum computing for a revenue authority's auditing; not access or education.
+R3885	uncertain	I4	D	preprint	arXiv preprint: student participation in quantum workforce programmes framed as equity and representation (tertiary).
+R3886	exclude	notI4	D	thesis	Undergraduate thesis on cryogenic infrastructure shaping access to quantum computing.
+R3887	exclude	E4	O	-	Industry 6.0 workforce; quantum computing only listed.
+R3888	uncertain	I4	D	-	Zenodo deposit: bilingual English-Twi low-cost quantum computing model addressing access gaps in Ghana; publication status unclear.
+R3889	exclude	E4	O	-	Expert narratives on IT inflection points; not quantum access.
+R3890	exclude	E4	O	-	Ethics of AI-quantum models in education analytics; not quantum education or access to QT.
+R3891	exclude	E1	P	-	Quantum information and agentic AI in higher education.
+R3892	exclude	E4	O	no_abstract	No abstract; 'Education, Work and Life' chapter; no quantum focus evident.
+R3893	exclude	notI4	E	thesis	Doctoral dissertation on equity-oriented, research-based QIS education and a quantum computing concept survey.
+R3894	exclude	E1	P	-	Interdisciplinary general-education university course on information.
+R3895	exclude	E1	O	-	Postgraduate engineering module with industry speakers.
+R3896	exclude	E4	O	-	AI and emerging technologies in education; quantum computing listed.
+R3897	exclude	E4	O	-	AI in elementary nationalism education review; not quantum.
+R3898	exclude	E4	O	-	AI and entrepreneurial education in non-WEIRD countries; quantum listed.
+R3899	exclude	E4	O	-	AI in physics education; quantum computing mentioned only.
+R3900	include	C,I4,I5	D	-	Public health quantum policy readiness incl. LMIC infrastructure gaps and quantum divide.
+R3901	uncertain	I1	D	no_abstract;preprint	No abstract; quantum economy and future of work; access or equity focus undeterminable.
+R3902	exclude	notI5	D	non_english;possible_duplicate	Turkish-titled repository version of R3867 on the quantum divide.
+R3903	uncertain	I4	D	no_abstract;preprint	No abstract; SSRN preprint on legal and policy challenges, retrieved by the 'quantum divide' query.
+R3904	exclude	E1	P	-	Primer on quantum mechanics for electrical engineers.
+R3905	uncertain	I1	D	no_abstract	No abstract; ethical considerations and social impact in quantum agriculture; access focus undeterminable.
+R3906	exclude	E4	O	-	Minoritised engineering doctoral students; abstract field is author bio; not quantum access.
+R3907	exclude	E1	O	-	Higher-education 'Education 6.0' vision incl. quantum literacy; tertiary.

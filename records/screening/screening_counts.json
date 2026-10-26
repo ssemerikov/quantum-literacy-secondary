@@ -1,0 +1,126 @@
+{
+ "generated": "2026-10-25T12:21:54+02:00",
+ "records": 4142,
+ "rows_in_screening_csv": 4142,
+ "prefilter": {
+  "auto_excluded": 2988,
+  "to_manual": 1154,
+  "manual_by_rule": {
+   "quantum_term_hit_true": 860,
+   "rule_b_no_abstract": 153,
+   "rule_a_secondary_regex_rescue": 71,
+   "rule_c_diagnostic_regex_rescue": 70
+  },
+  "named_records_route": {
+   "R0633": "a_rescue",
+   "R0679": "a_rescue",
+   "R1084": "c_rescue",
+   "R1651": "a_rescue",
+   "R0762": "a_rescue",
+   "R0055": "b_noabs"
+  }
+ },
+ "manual": {
+  "screened": 1154,
+  "include": 145,
+  "uncertain": 79,
+  "context": 90,
+  "exclude": 840,
+  "by_code": {
+   "context:E3": 73,
+   "context:notI2-teacher": 17,
+   "exclude:DUP": 14,
+   "exclude:E1": 28,
+   "exclude:E4": 727,
+   "exclude:notI2": 3,
+   "exclude:notI4": 44,
+   "exclude:notI5": 24,
+   "include:C,I4,I5": 16,
+   "include:I1,I2,I4,I5": 18,
+   "include:I1,I2,I4,I5;I3-ft": 88,
+   "include:I1-I5": 23,
+   "uncertain:I1": 7,
+   "uncertain:I2": 11,
+   "uncertain:I3": 6,
+   "uncertain:I4": 51,
+   "uncertain:I5": 4
+  },
+  "include_by_role": {
+   "F": 18,
+   "E": 111,
+   "D": 16
+  },
+  "by_route": {
+   "qhit": {
+    "include": 145,
+    "exclude": 549,
+    "context": 89,
+    "uncertain": 77
+   },
+   "b_noabs": {
+    "uncertain": 2,
+    "exclude": 151
+   },
+   "c_rescue": {
+    "exclude": 69,
+    "context": 1
+   },
+   "a_rescue": {
+    "exclude": 71
+   }
+  },
+  "flags": {
+   "thesis": 67,
+   "possible_duplicate": 72,
+   "no_abstract": 203,
+   "preprint": 130,
+   "non_english": 46
+  }
+ },
+ "by_stream_group": {
+  "A": {
+   "records": 224,
+   "include": 57,
+   "exclude": 108,
+   "context": 33,
+   "uncertain": 25,
+   "E4-auto": 1
+  },
+  "B": {
+   "records": 3698,
+   "exclude": 551,
+   "context": 57,
+   "include": 60,
+   "uncertain": 44,
+   "E4-auto": 2986
+  },
+  "C": {
+   "records": 249,
+   "include": 20,
+   "uncertain": 26,
+   "exclude": 201,
+   "context": 1,
+   "E4-auto": 1
+  },
+  "SB": {
+   "records": 125,
+   "include": 81,
+   "context": 31,
+   "uncertain": 4,
+   "exclude": 9
+  },
+  "SEED": {
+   "records": 5,
+   "context": 5
+  }
+ },
+ "verification": {
+  "sample_size": 632,
+  "seed": 20261024,
+  "all_include_uncertain_context": 314,
+  "manual_exclude_population": 840,
+  "manual_exclude_sampled": 168,
+  "e4_auto_population": 2988,
+  "e4_auto_sampled": 150
+ }
+}

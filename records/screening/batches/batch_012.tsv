@@ -1,0 +1,40 @@
+R1133	exclude	E4	O	-	Change laboratory intervention with upper-secondary teachers; not quantum.
+R1137	context	E3	P	-	Web-based interactive electron double-slit visualisation for high school with classroom guidelines; no learner data.
+R1140	exclude	E4	O	no_abstract	No abstract; teacher turnover intention; not quantum.
+R1146	include	I1,I2,I4,I5;I3-ft	E	-	Double-well simulation activities tested with high-school students; qualitative learning outcomes; grade not stated.
+R1152	exclude	E4	O	-	Agential realism in biotechnology laboratory work; not quantum.
+R1154	include	I1,I2,I4,I5;I3-ft	E	-	Interviews with ten upper-secondary students on Copenhagen vs ensemble interpretations of single-photon beam splitter; grade not stated.
+R1155	exclude	E4	O	no_abstract	No abstract; teachers' beliefs on academic language; not quantum.
+R1159	uncertain	I3	E	-	Very short abstract: game-based quantum learning for novices in K-12 and informal settings; study type unclear.
+R1163	exclude	E4	O	-	Writing conference 'entangled'; not quantum.
+R1166	exclude	E4	O	-	Photonics device simulations (ring resonators, classical MZI) for outreach and undergraduates; not quantum content.
+R1174	exclude	E4	O	-	EFL motivation tasks using 'quantum context dependence' metaphor; not quantum physics education.
+R1177	exclude	E4	O	-	Grounded theory on student voice; not quantum.
+R1179	exclude	E4	O	-	Haidinger interference rings demonstration; classical optics.
+R1180	exclude	E4	O	no_abstract	No abstract; family interference with work.
+R1184	exclude	E4	O	-	Physical education curricula comparison; not quantum.
+R1192	exclude	E4	O	no_abstract	No abstract; test anxiety and achievement.
+R1196	include	I1-I5	E	-	Phasor-wheel and gyroscope sequences on quantum probability and spin; tests with students aged 11-15.
+R1209	exclude	E4	O	-	Empathy in student video artworks; not quantum.
+R1219	exclude	notI4	E	non_english;thesis	Czech doctoral thesis on remote modern-physics labs piloted in secondary schools; thesis type.
+R1227	exclude	E1	E	possible_duplicate	Undergraduate students' models of atoms after modern mechanics course.
+R1228	exclude	E1	E	possible_duplicate	Figshare copy of R1227 (undergraduate atom models).
+R1237	exclude	E4	O	-	Science educators' 'entanglement' through Bakhtinian lens; not quantum.
+R1242	exclude	E4	O	no_abstract	No abstract; expeditionary learning; not quantum.
+R1243	exclude	E4	O	no_abstract	No abstract; Advanced Placement policy effects.
+R1248	exclude	E4	O	-	e-Labs with cosmic-ray, CMS and LIGO data; no quantum education focus.
+R1254	exclude	E4	O	-	University students' recognition of classical wave optics patterns.
+R1265	exclude	E4	O	-	Outdoor education material-discursive entanglements; not quantum.
+R1270	exclude	E4	O	-	Academic integrity opinions of baccalaureate students; not quantum.
+R1273	exclude	E4	O	-	Mathematical tools and new materialism; not quantum.
+R1291	exclude	E4	O	no_abstract;preprint	No abstract; EFL pronunciation; not quantum.
+R1294	exclude	E4	O	-	Virtual visits to Virgo interferometer for Pakistani schoolgirls; gravitational waves, not quantum.
+R1302	exclude	E4	O	thesis	Bioinformatics thesis propositions; not quantum education.
+R1304	exclude	E4	O	no_abstract	No abstract; noise pollution and learning.
+R1311	exclude	E4	O	no_abstract	No abstract; hierarchical teaching causal inference.
+R1315	exclude	E4	O	-	Writing villainy and affect; not quantum.
+R1316	exclude	E4	O	no_abstract;preprint	No abstract; ChatGPT and EFL writing.
+R1320	exclude	E4	O	no_abstract	No abstract; federated learning for automated scoring.
+R1327	exclude	E4	O	-	Undergraduate optics outreach team; classical optics topics.
+R1328	uncertain	I4	P	-	Algebra-based quantum mechanics book for advanced high-school and beginning college students; whole book.
+R1338	include	I1-I5	E	-	Quantum technology escape game evaluated with 87 students from grade 9 onwards.

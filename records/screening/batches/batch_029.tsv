@@ -1,0 +1,34 @@
+R4109	include	I1,I2,I4,I5;I3-ft	E	-	Erlangen quantum optics teaching concept for secondary schools with acceptance survey; grade not stated.
+R4110	include	I1,I2,I4,I5;I3-ft	E	-	Secondary students' pre-instructional perspectives of the term 'quantum physics' (PERC proceedings); grade not stated.
+R4111	include	I1,I2,I4,I5;I3-ft	E	-	Go-Lab inquiry sequence on photoelectric effect pilot-tested with 114 students in four Dutch high schools; grade not stated.
+R4112	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Einstein-inspired QP proposal for advanced high-school students with preliminary results (proceedings); related to R4115.
+R4113	context	notI2-teacher	T	-	Validation of a teacher readiness instrument with 30 Form Five physics teachers.
+R4114	include	I1,I2,I4,I5;I3-ft	E	-	Interview study (N=25) of secondary students' conceptions of the quantum world after Erlangen concept; grade not stated.
+R4115	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Einstein-inspired quantum and statistical physics TLS tested with high-school pupils and teachers; journal version related to R4112.
+R4116	include	I1,I2,I4,I5;I3-ft	E	-	Frustrated internal reflection as tunnelling analogue tried with 5 teachers and 112 students; grade not stated.
+R4117	context	notI2-teacher	T	-	Survey of physics teachers' practical experiences with quantum optics teaching material.
+R4118	include	I1,I2,I4,I5;I3-ft	E	-	Games to teach classical and quantum logic circuit synthesis used with middle and high-school students; no specific grade.
+R4119	include	I1,I2,I4,I5;I3-ft	E	-	Interviews with three secondary QP teachers and their students (focus groups) on lesson experiences; grade not stated.
+R4120	exclude	notI4	F	thesis	Doctoral thesis connecting secondary QP and nature of science (curricula of 15 countries).
+R4121	include	I1,I2,I4,I5;I3-ft	E	-	Dutch secondary students' prior potential-energy knowledge and QM understanding; grade not stated.
+R4122	context	E3	P	-	Review of sum-over-paths approach for high-school and undergraduate QM education.
+R4123	include	I1,I2,I4,I5;I3-ft	E	-	Online extracurricular QT course with about 250 Italian high-school students; knowledge and views outcomes.
+R4124	include	I1,I2,I4,I5;I3-ft	E	-	Inclusive hermeneutic approach to secondary QM teaching with decade-long qualitative classroom survey; grade not stated.
+R4125	context	E3	P	-	Systematic review of teaching QP at secondary schools (2017-2022).
+R4126	context	E3	P	-	Description of a student-led quantum computing society for high-school students in Taiwan; no learner outcomes.
+R4127	context	E3	P	-	Chemistry education commentary on consistency of molecular-level teaching with QM, pre-university to undergraduate.
+R4128	context	E3	P	-	Theoretical introduction to non-quantised matter fields for physics education researchers, motivated by QFT in secondary school.
+R4129	include	I1,I2,I4,I5;I3-ft	E	-	Pilot TLS 'Elegance of QM' for high-school students and teachers via Zoom; forms and interviews with 13 students.
+R4130	include	I1,I2,I4,I5;I3-ft	E	-	PSEUDO-QM scale validated with Italian high-school students (n=450); grade not stated.
+R4131	include	I1,I2,I4,I5;I3-ft	E	-	Quantum Physics Conceptual Survey with 76 Croatian high-school students; grade not stated.
+R4132	include	I1,I2,I4,I5;I3-ft	E	-	Pseudoscientific QM beliefs of 1119 high-school students and 125 teachers; grade not stated.
+R4133	include	I1,I2,I4,I5;I3-ft	E	-	Analogies with classical physics in digital inquiry lessons; six Dutch upper-secondary classes (n=89); grade not stated.
+R4134	include	I1,I2,I4,I5;I3-ft	E	-	Second quantum revolution module refined over five implementations with about 130 secondary students; grade not stated.
+R4135	include	I1,I2,I4,I5	F	possible_duplicate	Expert interviews and questionnaire on QP topics for secondary curricula (proceedings); same study as R0006.
+R4136	include	I1,I2,I4,I5;I3-ft	E	-	Quasi-experiment with 5E model, simulations and comics for introductory QP in high school; grade not stated.
+R4137	context	E3	P	-	Report of a K-12 quantum education leadership conference with school district leaders; no learner sample.
+R4138	context	notI2-teacher	T	-	High-school teachers and prospective teachers on historical aspects in QM teaching.
+R4139	context	E3	P	-	Misconceptions on wave-particle duality and concept map for high-school and lower undergraduate students; no learner data.
+R4140	context	E3	P	-	Review of empirically validated quantum education teaching strategies since 2017 (seed record).
+R4141	context	E3	P	-	Review of QIST programmes for high-school students 2019-2023 (seed record).
+R4142	context	E3	P	-	Resource letter on research in quantum information education, high school to graduate (seed record).

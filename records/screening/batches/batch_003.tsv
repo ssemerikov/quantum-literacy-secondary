@@ -1,0 +1,40 @@
+R0081	uncertain	I4	P	-	Book on teaching disruptive technologies (incl. quantum computing) to learners aged 11-18; whole book, I4 unclear.
+R0082	exclude	E4	O	-	Junior-high physics learning difficulties across topics; quantum only one minor area, not a focus.
+R0083	exclude	E4	O	-	Chaos theory curriculum for high school; no quantum content.
+R0084	include	I1,I2,I4,I5;I3-ft	E	-	Norwegian upper-secondary students' interpretations of Schrodinger's cat (ReleQuant); grade not stated.
+R0085	exclude	E1	E	-	Finnish university students' QP pre-knowledge with QPCS.
+R0086	exclude	notI4	P	-	Conference abstract (talk) on advocating K-12 quantum science.
+R0087	exclude	E4	O	preprint	Physics paper reinterpreting angular-momentum and spin operators; not education.
+R0088	uncertain	I4	E	-	Evaluation report of middle-school quantum camp (students from age eleven), pre/post gains; report type, I4 unclear.
+R0089	context	notI2-teacher	T	-	Professional learning of K-12 teachers (n=49) on quantum concepts and pedagogy.
+R0090	include	I1,I2,I4,I5;I3-ft	E	-	Low-cost Bell-test/QKD demonstration designed and implemented for Chilean high-school students; learner data not stated.
+R0091	exclude	E1	E	-	University course for prospective (pre-service) physics teachers on QIS; pre-service sample.
+R0092	include	I1,I2,I4,I5;I3-ft	E	-	Interviews with precollege women from high-school QIST outreach on identity formation; grade not stated.
+R0093	context	E3	P	-	Pedagogical model for teaching entanglement in secondary school; empirical validation not yet done.
+R0094	include	I1-I5	E	-	History-of-light educational story pilot-tested with Year 9 students in the Philippines.
+R0095	include	I1,I2,I4,I5;I3-ft	E	-	ReleQuant resources and Norwegian upper-secondary students' QP understanding; grade not stated.
+R0096	context	notI2-teacher	T	-	QIST professional learning for preservice and in-service secondary STEM teachers (N=51).
+R0097	include	I1,I2,I4,I5;I3-ft	E	-	78 secondary students after QC and QKD presentations; questionnaire on understanding; grade not stated.
+R0098	uncertain	I4	P	preprint	arXiv preprint: dual-credit QIS pathway courses for high-school and incoming college students.
+R0099	exclude	notI4	E	thesis	Thesis on teaching wave-particle duality in Dutch secondary schools; thesis fails I4.
+R0100	exclude	E4	O	-	Gravitational time dilation lesson; relativity only.
+R0101	exclude	notI4	T	thesis	Thesis case study of a grade-8 science teacher learning to teach QM; thesis fails I4.
+R0102	include	I1,I2,I4,I5	F	-	Analysis of Moroccan final-year high-school programme's classical-to-quantum transition with teacher perceptions; curriculum revision proposal.
+R0103	include	I1,I2,I4,I5;I3-ft	E	-	Confirmatory factor analysis of photon-model perceptions, N=179 secondary students; grade not stated.
+R0104	exclude	notI4	E	thesis	Dissertation on inquiry-based QP learning sequence with high-school students; thesis fails I4.
+R0105	include	I1-I5	E	-	Grade-12 lesson series with single-photon double-slit demonstration; tests and interviews in Dutch schools.
+R0106	exclude	E4	O	thesis	Superconductivity path explicitly using classical electromagnetism; not quantum content focus.
+R0107	exclude	notI4	E	-	Conference abstract (talk) on teaching QKD/BB84 at QCaMP camp.
+R0108	exclude	E4	O	preprint	Speculative discrete-lattice theory of physics; not education.
+R0109	context	E3	P	-	Quantum World Through Play project design for upper-primary and secondary students; no learner data reported.
+R0110	include	I1,I2,I4,I5;I3-ft	E	possible_duplicate	Pilot of Quantum Picturalism course with 54 UK high-school students; grade not stated. Kept over preprint R0111.
+R0111	exclude	DUP	E	preprint;possible_duplicate	arXiv preprint of R0110 (published proceedings version in set).
+R0112	include	I1-I5	E	-	Teaching QKD to grade-12 students in discipline-culture curriculum; conceptual and quantitative problems.
+R0113	exclude	E4	O	-	General relativity activity-based learning in Indonesian high school; no quantum content.
+R0114	context	E3	P	-	Description of QISE projects on medical applications for high-school to graduate students; no learner data reported.
+R0115	exclude	E4	O	preprint	Speculative geophysics/quantum resonance paper; not education.
+R0116	uncertain	I4	P	preprint	arXiv preprint: design of secondary QM course for conceptual change; no published version in set.
+R0117	exclude	E4	O	no_abstract;preprint	Speculative unified-field theory 'teen-level walkthrough'; not quantum education.
+R0118	exclude	E1	F	-	Quantum architectures knowledge unit for undergraduate CS curriculum.
+R0119	include	I1-I5	E	-	90-minute quantum communication module for grades 10-12; questionnaire from 63 students.
+R0120	exclude	E4	O	preprint	Speculative E8-lattice derivation of constants; not education.

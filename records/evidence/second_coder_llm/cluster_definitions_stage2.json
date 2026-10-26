@@ -1,0 +1,16 @@
+{"_note": "Neutral one-sentence definitions written from the 13 candidate-cluster labels and the frozen rules file (2026-10-25 UTC), not from the first coder's member-code lists.",
+ "clusters": [
+  {"id": "K01", "label": "Quantum principles and phenomena", "definition": "Fundamental principles of quantum physics and the phenomena and experiments in which they show themselves."},
+  {"id": "K02", "label": "Mathematical representations", "definition": "Mathematical descriptions and formalisms used to represent quantum states, their change over time and the outcomes of measurements."},
+  {"id": "K03", "label": "Atoms, light and matter", "definition": "Quantum physics of atoms, of light and its interaction with matter, and of the structure and properties of matter and materials."},
+  {"id": "K04", "label": "Particle and nuclear physics", "definition": "Subatomic particles, atomic nuclei and the processes they undergo."},
+  {"id": "K05", "label": "Quantum information and qubits", "definition": "Information represented and processed in quantum systems, with the qubit as its basic unit."},
+  {"id": "K06", "label": "Quantum computing and simulation", "definition": "Computation and simulation performed with quantum systems, including quantum computers, their operations, algorithms and applications."},
+  {"id": "K07", "label": "Quantum communication and cryptography", "definition": "Transmission and protection of information using quantum systems, and cryptography in a quantum context."},
+  {"id": "K08", "label": "Quantum sensing and metrology", "definition": "Measurement, sensing and timekeeping that exploit quantum systems, and the standards of measurement."},
+  {"id": "K09", "label": "Qubit hardware platforms", "definition": "The physical systems and engineering used to realise, control and scale qubits."},
+  {"id": "K10", "label": "Quantum devices and enabling technologies", "definition": "Devices whose operation relies on quantum physics, and the technologies and techniques used to build and run quantum technologies."},
+  {"id": "K11", "label": "Valorisation and societal impact", "definition": "Economic, business, societal and ethical aspects of quantum technologies and their communication to the public."},
+  {"id": "K12", "label": "Nature, history and philosophy of quantum physics", "definition": "How quantum physics developed, how it is interpreted, and what it shows about the nature of science."},
+  {"id": "K13", "label": "Practices", "definition": "Activities that learners carry out, such as programming, simulation, experimentation and building."}
+ ]}

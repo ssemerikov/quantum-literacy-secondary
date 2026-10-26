@@ -1,0 +1,24 @@
+sample,members,band,band_basis,mixed,outcome_as_used,outcome_level,h_cells_primary
+R0222+R4109,R0222;R4109,P3,inferred,no,"R0222: positive (EG > CG, d = 0.27/0.38; both gained) | R4109: positive (acceptance and paraphrasing positive)",element,4
+R0227+R4134,R0227;R4134,P2;P3,stated,no,"R0227: positive, qualitative (14/14 respondents; ""no statistical value"") | R4134: positive, qualitative",element,5
+R0068+R0112,R0068;R0112,P3,inferred,no,"R0068: positive (112/125 interpreted DN states) | R0112: positive (31/32, 24/32, 10/13)",element,10
+R0571+R0016,R0571;R0016,P2;P3,stated,no,"R0571: not coded | R0016: positive (inventory 36.7 -> 62.9 %, d = 1.65)",aggregate,19
+R4107,R4107,P3,stated,no,R4107: positive (TLS 0.27 vs -1.13 logit),aggregate,4
+R0026,R0026,P2,stated,no,R0026: positive (all key ideas below the 0.5 success threshold),element,10
+R0029,R0029,P2;P3,stated,no,"R0029: positive (QPCS 12.75 -> 16.05/25, p = .03)",aggregate,14
+R0040,R0040,P3,inferred,no,R0040: positive (EG > CG; t = 6.82),aggregate,4
+R0048,R0048,P3,inferred,no,R0048: positive (gate design 20/27),element,6
+R0056,R0056,P2;P3,stated,yes,R0056: positive (all lessons gained; most > 80 % post),element,0
+R0064,R0064,P1;P2,inferred,no,"R0064: positive (significant gain, moderate-large effect; no numbers)",aggregate,5
+R0094,R0094,P2,inferred,no,"R0094: weak-positive (positive NOS shift, no n or numbers)",element,1
+R0238,R0238,P2;P3,stated,no,R0238: positive (QM-thinking answers rose on all tasks),element,12
+R0251,R0251,P2;P3,stated,no,"R0251: positive (both groups improved, p < .01)",aggregate,10
+R0483,R0483,P3,stated,no,"R0483: mixed (significant gain only for group A, n = 5)",element,6
+R0493,R0493,P2;P3,inferred,no,R0493: positive (8/10 superposition definitions improved),element,8
+R0933,R0933,P2;P3,stated,no,R0933: positive (two-state approaches above traditional; post-only),aggregate,2
+R4098,R4098,P3,inferred,no,"R4098: mixed (duality ""may be effective""; uncertainty ""less clear cut"")",element,4
+R4101,R4101,P3,stated,no,R4101: positive (TLS 59-66 % vs control 7.5-9 %),element,3
+R4121,R4121,P3,inferred,no,"R4121: positive (EG > CG, small effects)",element,0
+R4133,R4133,P2;P3,stated,no,R4133: comparison only (no-analogy > analogy; no gain measure),element,4
+R0125-Y8,R0125-Y8,P1,stated,no,R0125-Y8: positive (77 % E=hf item),element,1
+R0125-Y9,R0125-Y9,P2,stated,no,R0125-Y9: positive (50 % EP-consistent photons; 76 % photons-waves),element,3

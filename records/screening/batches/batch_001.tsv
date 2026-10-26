@@ -1,0 +1,40 @@
+R0001	include	I1,I2,I4,I5	F	-	Analysis of French upper-secondary QP curriculum and textbooks (epistemological positions).
+R0002	exclude	notI4	E	thesis	Doctoral/master thesis (Czech upper-secondary QP modules with classroom implementations); thesis type fails I4.
+R0003	include	I1,I2,I4,I5	F	-	Delphi study of key QM topics for secondary school.
+R0004	include	I1,I2,I4,I5	F	-	Norwegian upper-secondary curriculum QP/relativity aims and proposed ReleQuant approaches; brief classroom tests.
+R0005	include	I1,I2,I4,I5;I3-ft	E	-	Design-based study of QP digital materials in three Dutch upper-secondary classrooms; observations, interviews; grade implied, not stated.
+R0006	include	I1,I2,I4,I5	F	-	Expert interviews and questionnaire on QP topics for secondary school curriculum (consensus).
+R0007	include	I1,I2,I4,I5	F	-	Expert interviews define nucleus of QP for high-school curriculum; textbook analysis; curriculum framework.
+R0008	context	notI2-teacher	T	-	Dutch in-service high-school teachers' use of NOS resources in QP (interviews, observations).
+R0009	include	I1-I5	E	possible_duplicate	Dutch secondary students aged 17-19 (N=240) QP concept test and NOS interviews. Kept over figshare copy R0025.
+R0010	context	E3	P	-	Workshop design for high-school QIS; study only scheduled, no learner data reported.
+R0011	include	I1,I2,I4,I5	F	-	Content analysis of Greek upper-secondary physics and chemistry textbooks for quantum concepts.
+R0012	include	I1,I2,I4,I5;I3-ft	E	-	QCaMP high-school quantum computing summer camp with formal evaluation; grade not stated.
+R0013	include	I1,I2,I4,I5;I3-ft	E	-	Pilot with twenty high-school volunteers; quantum game module, questionnaires; grade not stated in shown text.
+R0014	include	I1,I2,I4,I5	F	-	Comparative analysis of official secondary QP curricula of 15 countries.
+R0015	include	I1-I5	E	-	Discipline-culture QM curriculum applied to 46 grade-12 students; conceptual and NOS outcomes.
+R0016	include	I1-I5	E	-	QIST outreach for grades 10-12 (N=209), pre/post knowledge outcomes.
+R0017	context	E3	P	-	Activity-theory study of European QT education pilots incl. high schools; no learner sample.
+R0018	include	I1,I2,I4,I5;I3-ft	E	-	Discipline-culture QP curriculum for high school with experimental application; grade not stated.
+R0019	uncertain	I3	P	no_abstract	No abstract; chapter on mathematics in high-school QP teaching; role (proposal vs study) undeterminable.
+R0020	include	I1,I2,I4,I5;I3-ft	E	-	Design-based secondary QC teaching sequence (polarisation, Dirac notation, B92); learner data implied, not stated.
+R0021	include	I1,I2,I4,I5;I3-ft	E	-	Pre-university physics students' understanding of observation in electron double-slit; grade not stated.
+R0022	context	notI2-teacher	T	-	In-service teacher PD course on quantum technologies; teacher outcomes.
+R0023	uncertain	I3	E	no_abstract	No abstract; VR exhibition context assessment for upper-secondary students incl. QT; study type unclear.
+R0024	include	I1,I2,I4,I5	F	-	Review of Malaysian secondary QP curriculum document (DSKP) and textbook against 15-country benchmark.
+R0025	exclude	DUP	E	possible_duplicate	Figshare copy of R0009 (same title, abstract); R0009 kept.
+R0026	include	I1-I5	E	possible_duplicate	Spin First lower-secondary teaching experiments with N=11 grade 9 students. Kept over figshare copy R0027.
+R0027	exclude	DUP	E	possible_duplicate	Figshare copy of R0026 (same title, abstract); R0026 kept.
+R0028	context	E3	P	-	Literature survey of QP/QC in secondary schools and tools; no learner sample.
+R0029	include	I1-I5	E	-	Online QM/QT internship for Filipino high-school students grades 9-11 (N=20), pre-post.
+R0030	exclude	E4	O	thesis	Classical oscillations and normal modes path; quantum only as motivation.
+R0031	uncertain	I4	E	preprint	arXiv preprint: qubit-first curriculum to Bell inequalities in Italian high school, evaluated; no published version in set.
+R0032	uncertain	I2	T	no_abstract	No abstract; teacher training for high-school QP; pre-service vs in-service unknown.
+R0033	include	I1,I2,I4,I5	F	-	Fuzzy Delphi expert consensus on secondary QP-STEM instructional module elements (Malaysian DSKP).
+R0034	context	E3	P	-	Systematic review of quantum computing teaching in K-12; no learner sample.
+R0035	context	E3	P	-	Conceptual paper on challenges of secondary QP with STEM in Malaysia; proposes module framework.
+R0036	include	I1,I2,I4,I5;I3-ft	E	-	Korean high-school quantum computing programme, pre/post surveys; grade not stated.
+R0037	include	I1,I2,I4,I5	F	-	165 Italian high-school teachers on whether and which QP topics to teach; curriculum-content consensus compared with experts.
+R0038	include	I1,I2,I4,I5;I3-ft	E	-	Slovak secondary school flipped learning with Feynman path model; preliminary results; grade not stated.
+R0039	context	notI2-teacher	T	possible_duplicate	Sabah Form Five physics teachers' QP content knowledge and readiness (N=175). Kept over R0041.
+R0040	include	I1-I5	E	-	History-of-QP methodology tested with 52 grade-11 students, control/experimental.
